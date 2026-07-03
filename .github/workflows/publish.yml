@@ -16,6 +16,7 @@ jobs:
           cp index.html site/index.html
           cp data.json site/data.json
           cp -r assets site/assets
+          cp -r cung-duong site/cung-duong
           touch site/.nojekyll
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4

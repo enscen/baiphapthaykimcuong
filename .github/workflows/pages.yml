@@ -25,6 +25,7 @@ jobs:
           cp index.html site/index.html
           cp data.json site/data.json
           cp -r assets site/assets
+          cp -r cung-duong site/cung-duong
           touch site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
