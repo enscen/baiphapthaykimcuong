@@ -265,7 +265,6 @@ export class FacebookReader implements Reader {
       try {
         extra = ["--cookies", await cookieFileFromHeader(cookieHeader)];
       } catch {}
-    } catch {}
     }
     try {
       const result = await runYtDlp(target, request.limit, extra);
@@ -288,7 +287,6 @@ export class FacebookReader implements Reader {
       try {
         extra = ["--cookies", await cookieFileFromHeader(cookieHeader)];
       } catch {}
-    } catch {}
     }
     try {
       const result = await runYtDlp(target, 1, extra);

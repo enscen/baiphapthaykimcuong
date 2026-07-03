@@ -1,6 +1,6 @@
 ﻿import fs from "fs";
-import { getReader } from "./dist/publishers.js";
-import { upsertJobsFromItems, listJobs } from "./dist/jobs.js";
+import { getReader } from "../dist/publishers.js";
+import { upsertJobsFromItems } from "../dist/jobs.js";
 
 const sources = [
   { action: "list_new_facebook_posts", account: "https://www.facebook.com/vukim.cuong.71", limit: 5 },

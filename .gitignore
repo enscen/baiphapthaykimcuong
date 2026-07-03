@@ -1,5 +1,12 @@
-﻿node_modules
-dist
+﻿node_modules/
+dist/
 .env
 .env.local
 *.log
+.runtime/
+tmp/
+exports/
+server.pid
+fb-missing.json
+fb-share.json
+.DS_Store

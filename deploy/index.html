@@ -81,7 +81,7 @@ function esc(s=''){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;'
 function sourceLabel(post){const key=post.source_account||''; for(const [k,v] of Object.entries(sourceMap)){ if(key===k || key.includes(k) || k.includes(key)) return v; } return key||post.platform }
 function sourceKey(post){return sourceLabel(post)}
 function priorityOf(post){return sourcePriority[sourceKey(post)]||999}
-function publishedOf(post){return String(post.published_at||post.created_at||'')}
+function publishedOf(post){return String(post.published_at||post.source?.published_at||post.created_at||'')}
 function filtered(){
   let list=[...posts], q=norm(el('q').value), c=el('category').value, sort=el('sort').value;
   if(activeTab!=='all') list=list.filter(x=>sourceKey(x)===activeTab);
@@ -122,7 +122,7 @@ function renderGrid(){
     const video=card.querySelector('video.preview');
     const muteBtn=card.querySelector('.mute-btn');
     if(video){
-      card.addEventListener('mouseenter',async()=>{try{await video.play()}catch(e){try{const d= const fresh=(d.job?.source?.media_urls||[]).find(u=>/tiktokcdn|\.mp4/i.test(u)); if(fresh){video.src=fresh; await video.play()}}catch(_){}}});
+      card.addEventListener('mouseenter',async()=>{try{await video.play()}catch(_){}});
       card.addEventListener('mouseleave',()=>{video.pause(); video.currentTime=0});
       muteBtn.onclick=(e)=>{e.stopPropagation(); video.muted=!video.muted; muteBtn.textContent=video.muted?'🔇':'🔊'};
     }
