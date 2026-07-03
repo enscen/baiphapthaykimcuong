@@ -1,0 +1,28 @@
+{
+    "name":  "social-publisher-agent",
+    "version":  "0.1.0",
+    "private":  true,
+    "type":  "module",
+    "scripts":  {
+                    "dev":  "tsx src/server.ts",
+                    "build":  "tsc -p tsconfig.json",
+                    "start":  "node dist/server.js",
+                    "post":  "tsx src/cli.ts post",
+                    "validate":  "tsx src/cli.ts validate",
+                    "poll":  "tsx src/poll.ts",
+                    "import:facebook":  "node scripts/import-facebook-paste.cjs",
+                    "export:jobs":  "node scripts/export-jobs.cjs"
+                },
+    "dependencies":  {
+                         "@types/node":  "^20.19.0",
+                         "dotenv":  "^16.4.7",
+                         "express":  "^4.19.2",
+                         "playwright-core":  "^1.60.0",
+                         "zod":  "^3.24.1"
+                     },
+    "devDependencies":  {
+                            "@types/express":  "^5.0.6",
+                            "tsx":  "^4.19.2",
+                            "typescript":  "^5.6.3"
+                        }
+}

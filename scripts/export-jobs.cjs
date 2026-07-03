@@ -1,0 +1,13 @@
+﻿const fs = require('fs');
+const path = require('path');
+const jobs = Object.values(JSON.parse(fs.readFileSync('state/jobs.json', 'utf8')));
+const outDir = path.join(process.cwd(), 'exports');
+fs.mkdirSync(outDir, { recursive: true });
+const stamp = new Date().toISOString().replace(/[:.]/g, '-');
+const jsonFile = path.join(outDir, `jobs-${stamp}.json`);
+const mdFile = path.join(outDir, `facebook-posts-${stamp}.md`);
+fs.writeFileSync(jsonFile, JSON.stringify(jobs, null, 2), 'utf8');
+const fb = jobs.filter((job) => job.source?.source_platform === 'facebook');
+const md = fb.map((job, index) => `# ${index + 1}. ${job.source?.title || job.id}\n\n- id: ${job.id}\n- status: ${job.status}\n- media_review: ${job.media_review_status || 'unknown'}\n- source: ${job.source?.source_url || ''}\n\n${job.original_text || ''}\n`).join('\n---\n\n');
+fs.writeFileSync(mdFile, md, 'utf8');
+console.log(JSON.stringify({ ok: true, total: jobs.length, facebook: fb.length, jsonFile, mdFile }, null, 2));
