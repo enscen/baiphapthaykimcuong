@@ -28,13 +28,19 @@ const sourceMap={
  'https://www.tiktok.com/@diamond.paramita':'TikTok Thầy Kim Cương','https://www.tiktok.com/@ommani.padmehum':'TikTok Đạo tràng Quán Thế Âm','https://www.tiktok.com/@daotrangquantheam':'TikTok Đạo tràng Quán Thế Âm'
 };
 const sourceOrder=['Facebook Thầy Kim Cương','YouTube Enscen','TikTok Thầy Kim Cương','TikTok Đạo tràng Quán Thế Âm','YouTube Master Kim Cương'];
+const tiktokThumbTitles={
+  '7658647547333889301':'Luyện nội lực thuyết pháp',
+  '7657039905347996948':'Còn chiêu cảm thôi chứ chưa sáng tạo',
+  '7656717693613034772':'Tăng sự tự tin',
+  '7656018047349673237':'Nguy hiểm'
+};
 function txt(s=''){return String(s||'').normalize('NFC')}
 function esc(s=''){return txt(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function label(p){return sourceMap[p.source_account]||p.source_account||p.platform||'Nguồn'}
 function dateOf(p){return Date.parse(p.published_at||p.source?.published_at||p.updated_at||p.created_at||'')||0}
 function fmt(p){const t=dateOf(p);return t?new Date(t).toLocaleDateString('vi-VN'):''}
 function firstFacebookLine(p){return txt(p.original_text||p.caption_or_text||p.title||'Bài viết Facebook').split(/\n/).map(x=>x.trim()).find(Boolean)||'Bài viết Facebook'}
-function tiktokTeacherTitle(p){const raw=txt(p.title||p.caption_or_text||p.original_text||'').replace(/\s+/g,' ').trim();const words=raw.replace(/#[^\s]+/g,'').trim();return words||'Nội dung trong thumbnail video'}
+function tiktokTeacherTitle(p){const id=String(p.source_item_id||p.id||'').replace('tiktok:','');if(tiktokThumbTitles[id])return tiktokThumbTitles[id];const raw=txt(p.title||p.caption_or_text||p.original_text||'').replace(/\s+/g,' ').trim();const words=raw.replace(/#[^\s]+/g,'').trim();return words||'Đang cập nhật title từ thumbnail'}
 function goodTitle(p){const raw=txt(p.title||p.original_text||'Bài pháp').replace(/\s+/g,' ').trim();if(p.platform==='facebook')return firstFacebookLine(p);if(p.platform==='tiktok'&&label(p)==='TikTok Thầy Kim Cương')return tiktokTeacherTitle(p);return raw}
 function thumb(p){const u=p.thumbnail_url||''; if(p.platform==='facebook'&&!/fbcdn\.net|scontent/i.test(u)) return ''; return u||((p.platform==='youtube'&&p.source_item_id)?`https://i.ytimg.com/vi/${p.source_item_id}/hqdefault.jpg`:'')}
 function videoUrl(p){return (p.media_urls||[]).find(u=>/\.mp4|tiktokcdn|webapp-prime/i.test(u))||''}
