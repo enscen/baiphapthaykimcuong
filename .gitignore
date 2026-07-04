@@ -10,3 +10,5 @@ server.pid
 fb-missing.json
 fb-share.json
 .DS_Store
+
+*.traineddata
