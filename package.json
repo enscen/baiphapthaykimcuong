@@ -12,7 +12,8 @@
         "poll": "tsx src/poll.ts",
         "import:facebook": "node scripts/import-facebook-paste.cjs",
         "export:jobs": "node scripts/export-jobs.cjs",
-        "ocr:tiktok": "node scripts/update-tiktok-thumb-titles.cjs"
+        "ocr:tiktok": "node scripts/update-tiktok-thumb-titles.cjs",
+        "thumbs:tiktok": "node scripts/update-tiktok-local-thumbs.cjs"
     },
     "dependencies": {
         "@types/node": "^20.19.0",

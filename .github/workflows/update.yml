@@ -23,8 +23,9 @@ jobs:
       - run: npm run ocr:tiktok
         env:
           TIKTOK_OCR_LIMIT: "30"
+      - run: npm run thumbs:tiktok
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/jobs.json data.json deploy/data.json tiktok-thumb-titles.json tiktok-thumb-title-attempts.json
+          git add state/jobs.json data.json deploy/data.json tiktok-thumb-titles.json tiktok-thumb-title-attempts.json assets/tiktok-thumbs
           git diff --cached --quiet || (git commit -m "Auto update" && git push)
