@@ -1,5 +1,6 @@
 ﻿const fs = require('fs');
 const path = require('path');
+const cp = require('child_process');
 const { createWorker } = require('tesseract.js');
 
 const root = process.cwd();
@@ -72,6 +73,19 @@ function recentlyTried(id) {
   return Date.now() - triedAt < retryDays * 24 * 60 * 60 * 1000;
 }
 
+function freshThumbnail(job) {
+  if (!job.source_url) return job.url;
+  try {
+    const raw = cp.execFileSync('python', ['-m', 'yt_dlp', '--skip-download', '--dump-json', job.source_url], { encoding: 'utf8', timeout: 60000, stdio: ['ignore', 'pipe', 'pipe'] });
+    const info = JSON.parse(raw.trim().split(/\r?\n/).pop());
+    const thumbs = Array.isArray(info.thumbnails) ? info.thumbnails : [];
+    const picked = [...thumbs].sort((a, b) => (b.preference || 0) - (a.preference || 0)).find(x => x.url);
+    return picked?.url || info.thumbnail || job.url;
+  } catch (error) {
+    return job.url;
+  }
+}
+
 const jobs = (data.posts || [])
   .filter(isTeacher)
   .sort((a, b) => dateOf(b) - dateOf(a))
@@ -87,9 +101,10 @@ const jobs = (data.posts || [])
   const worker = await createWorker('vie+eng');
   for (const job of jobs) {
     try {
-      const result = await worker.recognize(job.url);
+      const imageUrl = freshThumbnail(job);
+      const result = await worker.recognize(imageUrl);
       const title = clean(result.data.text);
-      attempts[job.id] = { last_attempt_at: now, ok: goodOcrTitle(title), text: title, source_url: job.source_url };
+      attempts[job.id] = { last_attempt_at: now, ok: goodOcrTitle(title), text: title, source_url: job.source_url, refreshed: imageUrl !== job.url };
       if (attempts[job.id].ok) current[job.id] = title;
       console.log(`${job.id}: ${attempts[job.id].ok ? title : 'OCR rejected'}${title ? ` (${title})` : ''}`);
     } catch (error) {
