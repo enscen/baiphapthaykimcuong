@@ -16,7 +16,7 @@ jobs:
           cp index.html site/index.html
           cp data.json site/data.json
           cp tiktok-thumb-titles.json site/tiktok-thumb-titles.json
-          cp admin.html site/admin.html
+          cp enscen-admin.html site/enscen-admin.html
           cp -r assets site/assets
           cp -r cung-duong site/cung-duong
           touch site/.nojekyll
