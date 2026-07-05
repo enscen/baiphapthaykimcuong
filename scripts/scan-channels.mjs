@@ -7,6 +7,7 @@ const channels = [
   { name: "YouTube Enscen", type: "youtube", url: "https://www.youtube.com/@enscen", limit: 500 },
   { name: "YouTube Master Kim Cương", type: "youtube", url: "https://www.youtube.com/@KimCuongMaster", limit: 500 },
   { name: "TikTok Thầy Kim Cương", type: "tiktok", url: "https://www.tiktok.com/@diamond.paramita", limit: 500 },
+  { name: "TikTok Đi Tìm Chân Ngã", type: "tiktok", url: "https://www.tiktok.com/@ditimchannga", limit: 500 },
   { name: "TikTok ĐT Quán Thế Âm", type: "tiktok", url: "https://www.tiktok.com/@daotrangquantheam", limit: 500 },
 ];
 

@@ -4,6 +4,7 @@ import { upsertJobsFromItems } from "../dist/jobs.js";
 
 const sources = [
   { type: "youtube", url: "https://www.youtube.com/@KimCuongMaster", limit: 500 },
+  { type: "tiktok", url: "https://www.tiktok.com/@ditimchannga", limit: 500 },
   { type: "tiktok", url: "https://www.tiktok.com/@ommani.padmehum", limit: 500 },
   { type: "tiktok", url: "https://www.tiktok.com/@daotrangquantheam", limit: 500 },
 ];
