@@ -1,0 +1,31 @@
+﻿name: Scrape Facebook Media
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build TypeScript
+        run: npm run build
+      - name: Scrape media
+        env:
+          FACEBOOK_MODE: browser
+        run: node src/batch-media-scrape.mjs || echo "Scrape completed or skipped"
+      - name: Commit & push
+        run: |
+          if [ -n "$(git status --porcelain data.json assets/)" ]; then
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+            git add data.json assets/facebook-media/
+            git commit -m "Auto-scrape Facebook media (batch)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
