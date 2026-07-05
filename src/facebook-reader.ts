@@ -153,9 +153,16 @@ async function expandSeeMore(page: Page) {
 async function readFirstArticle(page: Page) {
   await expandSeeMore(page);
   return page.evaluate(() => {
+    const pickImage = (root: ParentNode | null) => {
+      const images = Array.from(root?.querySelectorAll('img[src]') || []) as HTMLImageElement[];
+      return images
+        .map((img) => ({ src: img.src, area: (img.naturalWidth || img.width || 0) * (img.naturalHeight || img.height || 0) }))
+        .filter((img) => /scontent|fbcdn\.net/i.test(img.src) && !/emoji\.php|static\.xx\.fbcdn\.net/i.test(img.src))
+        .sort((a, b) => b.area - a.area)[0]?.src;
+    };
     const article = document.querySelector('[role="article"]') as HTMLElement | null;
     const text = article?.innerText || document.body.innerText || "";
-    const img = (article?.querySelector('img[src]') as HTMLImageElement | null)?.src;
+    const img = pickImage(article);
     return { text, img: img || undefined };
   });
 }
@@ -173,6 +180,13 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
     }
 
     const posts = await page.evaluate((max) => {
+      const pickImage = (root: ParentNode | null) => {
+        const images = Array.from(root?.querySelectorAll('img[src]') || []) as HTMLImageElement[];
+        return images
+          .map((img) => ({ src: img.src, area: (img.naturalWidth || img.width || 0) * (img.naturalHeight || img.height || 0) }))
+          .filter((img) => /scontent|fbcdn\.net/i.test(img.src) && !/emoji\.php|static\.xx\.fbcdn\.net/i.test(img.src))
+          .sort((a, b) => b.area - a.area)[0]?.src;
+      };
       const articles = Array.from(document.querySelectorAll('[role="article"]'));
       const out: Array<{ text: string; url: string; img?: string }> = [];
       for (const article of articles) {
@@ -180,7 +194,7 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
         if (!text || text.length < 80) continue;
         const anchors = Array.from(article.querySelectorAll('a[href]')) as HTMLAnchorElement[];
         const href = anchors.map((a) => a.href).find((value) => /facebook\.com\/.+\/(posts|videos|reel|watch|permalink)|story_fbid=/.test(value)) || anchors[0]?.href || location.href;
-        const img = (article.querySelector('img[src]') as HTMLImageElement | null)?.src;
+        const img = pickImage(article);
         out.push({ text, url: href, img: img || undefined });
         if (out.length >= max) break;
       }
