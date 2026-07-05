@@ -12,3 +12,5 @@ fb-share.json
 .DS_Store
 
 *.traineddata
+
+assets/tiktok-thumbs/*.tmp.*

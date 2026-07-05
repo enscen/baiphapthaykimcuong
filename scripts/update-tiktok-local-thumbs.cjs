@@ -26,11 +26,13 @@ for (const post of posts) {
     cp.execFileSync('python', ['-m', 'yt_dlp', '--skip-download', '--write-thumbnail', '-o', `${tmpBase}.%(ext)s`, post.source_url], { timeout: 60000, stdio: ['ignore', 'ignore', 'pipe'] });
     const downloaded = fs.readdirSync(outDir).find(name => name.startsWith(`${id}.tmp.`));
     if (!downloaded) throw new Error('no thumbnail');
-    cp.execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', path.join(outDir, downloaded), '-vf', 'scale=640:1138:force_original_aspect_ratio=increase,crop=640:1138', '-q:v', '3', out], { timeout: 30000 });
-    fs.unlinkSync(path.join(outDir, downloaded));
+    const downloadedPath = path.join(outDir, downloaded);
+    cp.execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', downloadedPath, '-vf', 'scale=640:1138:force_original_aspect_ratio=increase,crop=640:1138', '-q:v', '3', out], { timeout: 30000 });
+    if (fs.existsSync(downloadedPath)) fs.unlinkSync(downloadedPath);
     made++;
   } catch (error) {
     failed++;
+    for (const name of fs.readdirSync(outDir).filter(name => name.startsWith(`${id}.tmp.`))) fs.rmSync(path.join(outDir, name), { force: true });
     console.log(`${id}: thumbnail failed: ${error.message}`);
   }
 }
