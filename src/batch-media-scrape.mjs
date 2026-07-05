@@ -2,7 +2,7 @@
 import path from 'path';
 import { FacebookReader } from '../dist/facebook-reader.js';
 
-const BATCH_SIZE = 5;
+const BATCH_SIZE = 10;
 const reader = new FacebookReader();
 
 async function downloadMedia(url, filename) {
@@ -28,7 +28,7 @@ async function scrapeAndSaveFB() {
     .slice(0, BATCH_SIZE);
 
   if (!posts.length) {
-    console.log('No posts need media refresh');
+    console.log('✓ All posts have media or no scraping needed');
     return;
   }
 
@@ -52,17 +52,17 @@ async function scrapeAndSaveFB() {
           d.posts[idx].media_urls = localUrls;
           d.posts[idx].media_type = localUrls.some(u => /\.mp4|\.webm/i.test(u)) ? 'video' : 'image';
           updated++;
-          console.log(`✓ ${p.id.slice(0,30)}: ${localUrls.length} media`);
+          console.log(`✓ ${p.source_item_id.slice(0,30)}: ${localUrls.length} media`);
         }
       }
     } catch(e) {
-      console.log(`✗ ${p.id.slice(0,30)}: ${e.message.slice(0,40)}`);
+      console.log(`✗ ${p.source_item_id.slice(0,30)}: ${e.message.slice(0,40)}`);
     }
   }
 
   if (updated > 0) {
     fs.writeFileSync('data.json', JSON.stringify(d, null, 2));
-    console.log(`\nUpdated ${updated} posts`);
+    console.log(`\n✓ Updated ${updated}/${posts.length} posts`);
   }
 }
 
