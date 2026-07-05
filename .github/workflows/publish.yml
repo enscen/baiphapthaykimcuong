@@ -20,6 +20,7 @@ jobs:
           cp enscen.html site/enscen.html
           cp -r assets site/assets
           cp -r cung-duong site/cung-duong
+          cp -r gioi-thieu bai-giang bai-viet video-ngan dao-trang thu-vien lien-he site/
           touch site/.nojekyll
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
@@ -28,4 +29,3 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./site
           force_orphan: true
-
