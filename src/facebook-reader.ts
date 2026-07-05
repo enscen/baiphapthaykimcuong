@@ -160,10 +160,19 @@ async function readFirstArticle(page: Page) {
         .filter((img) => /scontent|fbcdn\.net/i.test(img.src) && !/emoji\.php|static\.xx\.fbcdn\.net/i.test(img.src))
         .sort((a, b) => b.area - a.area)[0]?.src;
     };
+    const pickVideo = (root: ParentNode | null) => {
+      const direct = Array.from(root?.querySelectorAll('video[src], video source[src], a[href]') || []) as Array<HTMLVideoElement | HTMLSourceElement | HTMLAnchorElement>;
+      const link = direct.map((node) => node instanceof HTMLAnchorElement ? node.href : node.src).find((src) => /^https?:/.test(src) && /\.mp4|video|fbcdn/i.test(src));
+      if (link) return link;
+      const html = (root as HTMLElement | null)?.innerHTML || document.documentElement.innerHTML;
+      const escaped = html.match(/"(?:browser_native_hd_url|browser_native_sd_url|playable_url(?:_quality_hd)?)":"([^"]+)"/)?.[1];
+      return escaped ? escaped.replace(/\\\//g, "/").replace(/\\u0025/g, "%") : undefined;
+    };
     const article = document.querySelector('[role="article"]') as HTMLElement | null;
     const text = article?.innerText || document.body.innerText || "";
+    const video = pickVideo(article);
     const img = pickImage(article);
-    return { text, img: img || undefined };
+    return { text, img: img || undefined, video: video || undefined };
   });
 }
 
@@ -187,21 +196,30 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
           .filter((img) => /scontent|fbcdn\.net/i.test(img.src) && !/emoji\.php|static\.xx\.fbcdn\.net/i.test(img.src))
           .sort((a, b) => b.area - a.area)[0]?.src;
       };
+      const pickVideo = (root: ParentNode | null) => {
+        const direct = Array.from(root?.querySelectorAll('video[src], video source[src], a[href]') || []) as Array<HTMLVideoElement | HTMLSourceElement | HTMLAnchorElement>;
+        const link = direct.map((node) => node instanceof HTMLAnchorElement ? node.href : node.src).find((src) => /^https?:/.test(src) && /\.mp4|video|fbcdn/i.test(src));
+        if (link) return link;
+        const html = (root as HTMLElement | null)?.innerHTML || document.documentElement.innerHTML;
+        const escaped = html.match(/"(?:browser_native_hd_url|browser_native_sd_url|playable_url(?:_quality_hd)?)":"([^"]+)"/)?.[1];
+        return escaped ? escaped.replace(/\\\//g, "/").replace(/\\u0025/g, "%") : undefined;
+      };
       const articles = Array.from(document.querySelectorAll('[role="article"]'));
-      const out: Array<{ text: string; url: string; img?: string }> = [];
+      const out: Array<{ text: string; url: string; img?: string; video?: string }> = [];
       for (const article of articles) {
         const text = (article as HTMLElement).innerText || "";
         if (!text || text.length < 80) continue;
         const anchors = Array.from(article.querySelectorAll('a[href]')) as HTMLAnchorElement[];
         const href = anchors.map((a) => a.href).find((value) => /facebook\.com\/.+\/(posts|videos|reel|watch|permalink)|story_fbid=/.test(value)) || anchors[0]?.href || location.href;
         const img = pickImage(article);
-        out.push({ text, url: href, img: img || undefined });
+        const video = pickVideo(article);
+        out.push({ text, url: href, img: img || undefined, video: video || undefined });
         if (out.length >= max) break;
       }
       return out;
     }, limit);
 
-    const enriched: Array<{ text: string; url: string; img?: string }> = [];
+    const enriched: Array<{ text: string; url: string; img?: string; video?: string }> = [];
     for (const post of posts) {
       let full = post;
       if ((post.text.includes("Xem") || post.text.includes("See more") || post.text.includes("...") || post.text.includes("?")) && post.url) {
@@ -211,7 +229,7 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
           await detail.waitForTimeout(3500);
           const article = await readFirstArticle(detail);
           if (cleanText(article.text).length > cleanText(post.text).length) {
-            full = { ...post, text: article.text, img: article.img || post.img };
+            full = { ...post, text: article.text, img: article.img || post.img, video: article.video || post.video };
           }
         } catch {
           full = post;
@@ -231,8 +249,8 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
       title: cleanText(post.text).split("\n").find(Boolean)?.slice(0, 120) || "Facebook post",
       caption_or_text: cleanText(post.text),
       original_text: cleanText(post.text),
-      media_type: post.img ? "image" : "text",
-      media_urls: post.img ? [post.img] : [],
+      media_type: post.video ? "video" : post.img ? "image" : "text",
+      media_urls: [post.video, post.img].filter(Boolean) as string[],
       thumbnail_url: post.img || undefined,
       author_name: account,
       raw: post,
@@ -248,6 +266,7 @@ async function scrapeSingle(url: string, account: string): Promise<SourceItem> {
     const article = await readFirstArticle(page);
     const text = article.text;
     const img = article.img;
+    const video = article.video;
     return {
       source_platform: "facebook",
       source_account: account,
@@ -257,11 +276,11 @@ async function scrapeSingle(url: string, account: string): Promise<SourceItem> {
       title: cleanText(text).split("\n").find(Boolean)?.slice(0, 120) || "Facebook post",
       caption_or_text: cleanText(text),
       original_text: cleanText(text),
-      media_type: img ? "image" : "text",
-      media_urls: img ? [img] : [],
+      media_type: video ? "video" : img ? "image" : "text",
+      media_urls: [video, img].filter(Boolean) as string[],
       thumbnail_url: img || undefined,
       author_name: account,
-      raw: { text, img },
+      raw: { text, img, video },
     };
   });
 }
