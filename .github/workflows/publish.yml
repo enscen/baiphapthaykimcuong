@@ -16,6 +16,7 @@ jobs:
           cp index.html site/index.html
           cp data.json site/data.json
           cp tiktok-thumb-titles.json site/tiktok-thumb-titles.json
+          cp tiktok-title-skip.json site/tiktok-title-skip.json
           cp enscen.html site/enscen.html
           cp -r assets site/assets
           cp -r cung-duong site/cung-duong
@@ -27,3 +28,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./site
           force_orphan: true
+
