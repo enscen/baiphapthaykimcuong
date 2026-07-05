@@ -7,6 +7,7 @@ const root = process.cwd();
 const dataPath = path.join(root, 'data.json');
 const outPath = path.join(root, 'tiktok-thumb-titles.json');
 const attemptsPath = path.join(root, 'tiktok-thumb-title-attempts.json');
+const skipPath = path.join(root, 'tiktok-title-skip.json');
 const limit = Number(process.env.TIKTOK_OCR_LIMIT || 40);
 const retryDays = Number(process.env.TIKTOK_OCR_RETRY_DAYS || 14);
 const now = new Date().toISOString();
@@ -18,6 +19,7 @@ const writeJson = (file, value) => fs.writeFileSync(file, JSON.stringify(value, 
 const data = readJson(dataPath, { posts: [] });
 const current = readJson(outPath, {});
 const attempts = readJson(attemptsPath, {});
+const skipped = readJson(skipPath, {});
 const isTeacher = p => p.platform === 'tiktok' && String(p.source_account || '').includes('@diamond.paramita');
 const idOf = p => String(p.source_item_id || p.id || '').replace('tiktok:', '');
 const dateOf = p => Date.parse(p.published_at || p.updated_at || p.created_at || '') || 0;
@@ -50,8 +52,9 @@ function scoreLine(line) {
   return words.length * 3 + upper - Math.abs(line.length - 34) / 8;
 }
 
-function goodOcrTitle(value) {
+function goodOcrTitle(value, confidence = 0) {
   const text = String(value || '').trim();
+  if (confidence < 65) return false;
   if (/[ñðþß¢¬]/i.test(text)) return false;
   if (/([A-Z]{1,2}\s*){8,}/.test(text)) return false;
   const tokens = text.split(/\s+/).filter(Boolean);
@@ -59,9 +62,11 @@ function goodOcrTitle(value) {
   const singles = tokens.filter(x => x.length === 1).length;
   const digits = tokens.filter(x => /\d/.test(x)).length;
   const vowelWords = words.filter(x => /[aăâeêioôơuưyáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]/i.test(x)).length;
+  const shortUpper = words.filter(x => x.length <= 2 && x === x.toUpperCase()).length;
   if (words.length < 2) return false;
   if (words.length / tokens.length < 0.68) return false;
   if (singles / tokens.length > 0.25) return false;
+  if (shortUpper / words.length > 0.25) return false;
   if (digits / tokens.length > 0.2) return false;
   if (vowelWords < 2) return false;
   return text.length >= 8 && text.length <= 120;
@@ -90,7 +95,7 @@ const jobs = (data.posts || [])
   .filter(isTeacher)
   .sort((a, b) => dateOf(b) - dateOf(a))
   .map(p => ({ id: idOf(p), url: p.thumbnail_url || '', source_url: p.source_url || '' }))
-  .filter(x => x.id && x.url && !current[x.id] && !recentlyTried(x.id))
+  .filter(x => x.id && x.url && !current[x.id] && !skipped[x.id] && !recentlyTried(x.id))
   .slice(0, limit);
 
 (async () => {
@@ -104,7 +109,8 @@ const jobs = (data.posts || [])
       const imageUrl = freshThumbnail(job);
       const result = await worker.recognize(imageUrl);
       const title = clean(result.data.text);
-      attempts[job.id] = { last_attempt_at: now, ok: goodOcrTitle(title), text: title, source_url: job.source_url, refreshed: imageUrl !== job.url };
+      const confidence = Number(result.data.confidence || 0);
+      attempts[job.id] = { last_attempt_at: now, ok: goodOcrTitle(title, confidence), confidence, text: title, source_url: job.source_url, refreshed: imageUrl !== job.url };
       if (attempts[job.id].ok) current[job.id] = title;
       console.log(`${job.id}: ${attempts[job.id].ok ? title : 'OCR rejected'}${title ? ` (${title})` : ''}`);
     } catch (error) {
