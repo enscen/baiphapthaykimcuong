@@ -174,6 +174,19 @@ async function expandSeeMore(page: Page) {
   }
 }
 
+
+function cleanReelText(value = "") {
+  const lines = cleanText(value).split("\n").map((line) => line.trim()).filter(Boolean);
+  const drop = /^(.*Số thông báo|\d+$|Vũ Kim Cương|Thầy Kim Cương|Đang theo dõi|Tạo thước phim|Reels|Xem thêm)$/i;
+  const kept = lines.filter((line) => !drop.test(line));
+  return kept.join("\n").replace(/…\s*Xem thêm$/i, "").trim();
+}
+
+async function readReelText(page: Page) {
+  await expandSeeMore(page);
+  return page.evaluate(() => document.body.innerText || "");
+}
+
 async function readFirstArticle(page: Page) {
   await expandSeeMore(page);
   return page.evaluate(() => {
@@ -230,15 +243,30 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
         return out;
       }, limit);
 
-      return reels.map((reel, index) => ({
+      const detailed = [] as Array<{ url: string; img?: string; text?: string }>;
+      for (const reel of reels) {
+        const detail = await context.newPage();
+        try {
+          await detail.goto(reel.url, { waitUntil: "domcontentloaded", timeout: 60000 });
+          await detail.waitForTimeout(3000);
+          const text = cleanReelText(await readReelText(detail));
+          detailed.push({ ...reel, text: text || cleanReelText(reel.text || "") });
+        } catch {
+          detailed.push({ ...reel, text: cleanReelText(reel.text || "") });
+        } finally {
+          await detail.close().catch(() => undefined);
+        }
+      }
+
+      return detailed.map((reel, index) => ({
         source_platform: "facebook" as const,
         source_account: account,
         source_item_id: extractPostId(reel.url, index),
         source_url: reel.url,
         published_at: undefined,
-        title: "Facebook Reel Thầy Kim Cương",
-        caption_or_text: cleanText(reel.text || ""),
-        original_text: cleanText(reel.text || ""),
+        title: cleanReelText(reel.text || "").split("\n").find(Boolean) || "Facebook Reel Thầy Kim Cương",
+        caption_or_text: cleanReelText(reel.text || ""),
+        original_text: cleanReelText(reel.text || ""),
         media_type: "video" as const,
         media_urls: [reel.url],
         thumbnail_url: reel.img || undefined,
