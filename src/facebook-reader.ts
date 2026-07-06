@@ -84,6 +84,9 @@ function browserCookieArgs() {
 }
 
 async function browserProfileAvailable() {
+  if (process.env.FACEBOOK_USE_PLAYWRIGHT_CHROMIUM === "1") {
+    return { userDataDir: "", exe: chromium.executablePath() };
+  }
   const userDataDir = process.env.BRAVE_USER_DATA_DIR || defaultBraveUserDataDir();
   const exe = process.env.BRAVE_EXECUTABLE_PATH || defaultBraveExe();
   try {
@@ -97,7 +100,7 @@ async function browserProfileAvailable() {
 
 async function withFacebookBrowser<T>(fn: (context: BrowserContext) => Promise<T>) {
   const profile = await browserProfileAvailable();
-  if (!profile) throw new Error("Brave profile/exe not found. Set BRAVE_USER_DATA_DIR and BRAVE_EXECUTABLE_PATH.");
+  if (!profile) throw new Error("Browser not found. Set Brave env locally or FACEBOOK_USE_PLAYWRIGHT_CHROMIUM=1 on CI.");
   const tempUserDataDir = path.join(process.cwd(), ".runtime", "facebook-reader");
   await fs.mkdir(tempUserDataDir, { recursive: true });
   let context: BrowserContext | null = null;
@@ -123,7 +126,7 @@ async function withFacebookBrowser<T>(fn: (context: BrowserContext) => Promise<T
     return await fn(context);
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error);
-    throw new Error(`Brave Facebook reader failed: ${message}`);
+    throw new Error(`Facebook browser reader failed: ${message}`);
   } finally {
     await context?.close().catch(() => undefined);
   }

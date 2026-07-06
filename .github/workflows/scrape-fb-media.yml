@@ -12,11 +12,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Install dependencies
+        run: npm ci
+      - name: Install browser
+        run: npx playwright@1.60.0 install chromium --with-deps
       - name: Build TypeScript
         run: npm run build
       - name: Scrape media
         env:
           FACEBOOK_MODE: browser
+          FACEBOOK_USE_PLAYWRIGHT_CHROMIUM: '1'
+          FACEBOOK_COOKIE_HEADER: ${{ secrets.FACEBOOK_COOKIE_HEADER }}
         run: node src/batch-media-scrape.mjs || echo "Scrape completed or skipped"
       - name: Commit & push
         run: |
