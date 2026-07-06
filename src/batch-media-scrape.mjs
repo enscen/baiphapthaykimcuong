@@ -2,7 +2,7 @@
 import path from 'path';
 import { FacebookReader } from '../dist/facebook-reader.js';
 
-const BATCH_SIZE = 10;
+const BATCH_SIZE = Number(process.env.FACEBOOK_MEDIA_BATCH || 10);
 const reader = new FacebookReader();
 
 async function downloadMedia(url, filename) {
@@ -25,6 +25,8 @@ async function scrapeAndSaveFB() {
   const d = JSON.parse(fs.readFileSync('data.json', 'utf8'));
   const posts = d.posts
     .filter(p => p.platform === 'facebook' && p.source_url && (!p.media_urls?.length || p.media_urls.some(u => /emoji\.php|static\.xx\.fbcdn/.test(u))))
+    .filter(p => ((p.raw || {}).facebook_media_attempts || 0) < 20)
+    .sort((a, b) => (((a.raw || {}).facebook_media_attempts || 0) - ((b.raw || {}).facebook_media_attempts || 0)))
     .slice(0, BATCH_SIZE);
 
   if (!posts.length) {
@@ -51,11 +53,22 @@ async function scrapeAndSaveFB() {
           const idx = d.posts.findIndex(x => x.id === p.id);
           d.posts[idx].media_urls = localUrls;
           d.posts[idx].media_type = localUrls.some(u => /\.mp4|\.webm/i.test(u)) ? 'video' : 'image';
+          d.posts[idx].thumbnail_url = localUrls[0];
+          d.posts[idx].raw = { ...(d.posts[idx].raw || {}), facebook_media_attempts: 0, facebook_media_refreshed_at: new Date().toISOString() };
           updated++;
           console.log(`✓ ${p.source_item_id.slice(0,30)}: ${localUrls.length} media`);
+        } else {
+          const idx = d.posts.findIndex(x => x.id === p.id);
+          d.posts[idx].raw = { ...(d.posts[idx].raw || {}), facebook_media_attempts: ((d.posts[idx].raw || {}).facebook_media_attempts || 0) + 1, facebook_media_checked_at: new Date().toISOString() };
         }
       }
+      if (!media.length) {
+        const idx = d.posts.findIndex(x => x.id === p.id);
+        d.posts[idx].raw = { ...(d.posts[idx].raw || {}), facebook_media_attempts: ((d.posts[idx].raw || {}).facebook_media_attempts || 0) + 1, facebook_media_checked_at: new Date().toISOString() };
+      }
     } catch(e) {
+      const idx = d.posts.findIndex(x => x.id === p.id);
+      if (idx >= 0) d.posts[idx].raw = { ...(d.posts[idx].raw || {}), facebook_media_attempts: ((d.posts[idx].raw || {}).facebook_media_attempts || 0) + 1, facebook_media_error: e.message.slice(0,120), facebook_media_checked_at: new Date().toISOString() };
       console.log(`✗ ${p.source_item_id.slice(0,30)}: ${e.message.slice(0,40)}`);
     }
   }

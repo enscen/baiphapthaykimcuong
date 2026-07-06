@@ -1,8 +1,12 @@
 ﻿name: Scrape Facebook Media
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0,30 0-5 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -23,6 +27,7 @@ jobs:
           FACEBOOK_MODE: browser
           FACEBOOK_USE_PLAYWRIGHT_CHROMIUM: '1'
           FACEBOOK_COOKIE_HEADER: ${{ secrets.FACEBOOK_COOKIE_HEADER }}
+          FACEBOOK_MEDIA_BATCH: '10'
         run: node src/batch-media-scrape.mjs || echo "Scrape completed or skipped"
       - name: Commit & push
         run: |
