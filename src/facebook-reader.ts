@@ -136,6 +136,27 @@ function extractPostId(url: string, index: number) {
   return url.match(/(?:posts|videos|reel|watch|permalink|story_fbid=)[/=]?([0-9A-Za-z_-]+)/)?.[1] || `${url}#${index}`;
 }
 
+function facebookPublishedAt(text: string) {
+  const line = cleanText(text).split("\n").map((value) => value.trim()).find((value) => /^\d+\s*(phút|giờ|ngày|tuần|tháng)$/i.test(value));
+  const match = line?.match(/^(\d+)\s*(phút|giờ|ngày|tuần|tháng)$/i);
+  if (!match) return undefined;
+  const date = new Date();
+  const amount = Number(match[1]);
+  const unit = match[2].toLowerCase();
+  if (unit === "phút") date.setMinutes(date.getMinutes() - amount);
+  else if (unit === "giờ") date.setHours(date.getHours() - amount);
+  else if (unit === "ngày") date.setDate(date.getDate() - amount);
+  else if (unit === "tuần") date.setDate(date.getDate() - amount * 7);
+  else if (unit === "tháng") date.setMonth(date.getMonth() - amount);
+  return date.toISOString();
+}
+
+function facebookTitle(text: string) {
+  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng))$/i;
+  return cleanText(text).split("\n").map((value) => value.trim()).find((value) => value && !noise.test(value))?.slice(0, 120) || "Facebook post";
+}
+
+
 async function expandSeeMore(page: Page) {
   for (let i = 0; i < 12; i += 1) {
     const clicked = await page.evaluate(() => {
@@ -283,8 +304,8 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
       source_account: account,
       source_item_id: extractPostId(post.url, index),
       source_url: post.url,
-      published_at: undefined,
-      title: cleanText(post.text).split("\n").find(Boolean)?.slice(0, 120) || "Facebook post",
+      published_at: facebookPublishedAt(post.text),
+      title: facebookTitle(post.text),
       caption_or_text: cleanText(post.text),
       original_text: cleanText(post.text),
       media_type: post.video ? "video" : post.img ? "image" : "text",
@@ -310,8 +331,8 @@ async function scrapeSingle(url: string, account: string): Promise<SourceItem> {
       source_account: account,
       source_item_id: extractPostId(url, 0),
       source_url: url,
-      published_at: undefined,
-      title: cleanText(text).split("\n").find(Boolean)?.slice(0, 120) || "Facebook post",
+      published_at: facebookPublishedAt(text),
+      title: facebookTitle(text),
       caption_or_text: cleanText(text),
       original_text: cleanText(text),
       media_type: video ? "video" : img ? "image" : "text",
