@@ -13,6 +13,14 @@ const JOBS = [
     },
   },
   {
+    action: "list_new_facebook_posts",
+    payload: {
+      account: process.env.FACEBOOK_REELS_SOURCE_URL || "https://www.facebook.com/vukim.cuong.71/reels/",
+      limit: Number(process.env.POLL_LIMIT || 10),
+      since_timestamp: process.env.FACEBOOK_SINCE_TIMESTAMP,
+    },
+  },
+  {
     action: "list_new_tiktok_videos",
     payload: {
       account: process.env.TIKTOK_SOURCE_URL || "https://www.tiktok.com/@diamond.paramita",

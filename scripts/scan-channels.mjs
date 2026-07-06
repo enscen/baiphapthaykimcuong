@@ -4,6 +4,7 @@ import { TikTokReader } from "../dist/tiktok-reader.js";
 import { upsertJobsFromItems, listJobs } from "../dist/jobs.js";
 
 const channels = [
+  { name: "Facebook Reels Thầy Kim Cương", type: "facebook", url: "https://www.facebook.com/vukim.cuong.71/reels/", limit: 200 },
   { name: "YouTube Enscen", type: "youtube", url: "https://www.youtube.com/@enscen", limit: 500 },
   { name: "YouTube Master Kim Cương", type: "youtube", url: "https://www.youtube.com/@KimCuongMaster", limit: 500 },
   { name: "TikTok Thầy Kim Cương", type: "tiktok", url: "https://www.tiktok.com/@diamond.paramita", limit: 500 },
@@ -16,7 +17,7 @@ console.log(`[${new Date().toISOString()}] Scanning all channels...`);
 for (const ch of channels) {
   try {
     console.log(`\n>>> ${ch.name}`);
-    const reader = ch.type === "youtube" ? new YouTubeReader() : new TikTokReader();
+    const reader = ch.type === "youtube" ? new YouTubeReader() : ch.type === "facebook" ? new (await import("../dist/facebook-reader.js")).FacebookReader() : new TikTokReader();
     const items = await reader.listNew({ account: ch.url, limit: ch.limit, mark_seen: false });
     const result = await upsertJobsFromItems(items);
     console.log(`Found: ${items.length}, Created: ${result.created.length}, Updated: ${result.refreshed.length}`);

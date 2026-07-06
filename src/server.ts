@@ -383,6 +383,7 @@ type AutoScanSource = { label: string; platform: "facebook" | "youtube" | "tikto
 
 const autoScanSources: AutoScanSource[] = [
   { label: "Facebook V? Kim C??ng", platform: "facebook", account: "https://www.facebook.com/vukim.cuong.71", limit: Number(process.env.AUTO_SCAN_FACEBOOK_LIMIT || 20) },
+  { label: "Facebook Reels Thầy Kim Cương", platform: "facebook", account: "https://www.facebook.com/vukim.cuong.71/reels/", limit: Number(process.env.AUTO_SCAN_FACEBOOK_REELS_LIMIT || 30) },
   { label: "TikTok Th?y Kim C??ng", platform: "tiktok", account: "https://www.tiktok.com/@diamond.paramita", limit: Number(process.env.AUTO_SCAN_TIKTOK_LIMIT || 50) },
   { label: "YouTube Enscen", platform: "youtube", account: "https://www.youtube.com/@enscen", limit: Number(process.env.AUTO_SCAN_YOUTUBE_LIMIT || 80) },
   { label: "TikTok ?T Qu?n Th? ?m", platform: "tiktok", account: "https://www.tiktok.com/@daotrangquantheam", limit: Number(process.env.AUTO_SCAN_TIKTOK_LIMIT || 50) },
