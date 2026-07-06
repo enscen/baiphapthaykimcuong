@@ -191,6 +191,41 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
       await expandSeeMore(page);
     }
 
+    if (/\/reels\/?$/i.test(account)) {
+      const reels = await page.evaluate((max) => {
+        const seen = new Set<string>();
+        const out: Array<{ url: string; img?: string; text?: string }> = [];
+        const anchors = Array.from(document.querySelectorAll('a[href*="/reel/"][href*="fb_shorts_profile"]')) as HTMLAnchorElement[];
+        for (const anchor of anchors) {
+          const url = anchor.href.split('?')[0];
+          if (!/facebook\.com\/reel\/\d+/.test(url) || seen.has(url)) continue;
+          seen.add(url);
+          let root: Element | null = anchor;
+          for (let i = 0; i < 5 && root && !root.querySelector('img[src]'); i += 1) root = root.parentElement;
+          const img = (root?.querySelector('img[src]') as HTMLImageElement | null)?.src;
+          out.push({ url, img: img && /scontent|fbcdn\.net/i.test(img) ? img : undefined, text: (root as HTMLElement | null)?.innerText || anchor.innerText || "" });
+          if (out.length >= max) break;
+        }
+        return out;
+      }, limit);
+
+      return reels.map((reel, index) => ({
+        source_platform: "facebook" as const,
+        source_account: account,
+        source_item_id: extractPostId(reel.url, index),
+        source_url: reel.url,
+        published_at: undefined,
+        title: "Facebook Reel Thầy Kim Cương",
+        caption_or_text: cleanText(reel.text || ""),
+        original_text: cleanText(reel.text || ""),
+        media_type: "video" as const,
+        media_urls: [reel.url],
+        thumbnail_url: reel.img || undefined,
+        author_name: account,
+        raw: reel,
+      }));
+    }
+
     const posts = await page.evaluate((max) => {
       const pickImage = (root: ParentNode | null) => {
         const images = Array.from(root?.querySelectorAll('img[src]') || []) as HTMLImageElement[];
