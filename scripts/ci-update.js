@@ -3,7 +3,7 @@ import { getReader } from "../dist/publishers.js";
 import { upsertJobsFromItems } from "../dist/jobs.js";
 
 const sources = [
-  { action: "list_new_facebook_posts", account: "https://www.facebook.com/vukim.cuong.71", limit: 10 },
+  { action: "list_new_facebook_posts", account: "https://www.facebook.com/vukim.cuong.71", limit: 50 },
   { action: "list_new_facebook_posts", account: "https://www.facebook.com/vukim.cuong.71/reels/", limit: 20 },
   { action: "list_new_tiktok_videos", account: "https://www.tiktok.com/@diamond.paramita", limit: 20 },
   { action: "list_new_tiktok_videos", account: "https://www.tiktok.com/@ditimchannga", limit: 20 },

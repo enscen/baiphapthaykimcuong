@@ -208,7 +208,7 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
     await expandSeeMore(page);
     for (let i = 0; i < 5; i += 1) {
       await page.mouse.wheel(0, 1400);
-      await page.waitForTimeout(1200);
+      await page.waitForTimeout(900);
       await expandSeeMore(page);
     }
 
