@@ -68,7 +68,7 @@ function mediaSrc(u=''){return /^assets\//.test(u)?assetPath(u):u}
 function thumb(p){const local=localTiktokThumb(p); if(local) return local; const u=p.thumbnail_url||''; if(p.platform==='facebook'&&!/^assets\//.test(u)&&!/fbcdn\.net|scontent/i.test(u)) return ''; return mediaSrc(u)||((p.platform==='youtube'&&p.source_item_id)?`https://i.ytimg.com/vi/${p.source_item_id}/hqdefault.jpg`:'')}
 function videoUrl(p){return (p.media_urls||[]).find(u=>!/\.(jpg|jpeg|png|webp|gif)(\?|$)/i.test(u)&&(/\.mp4|video|tiktokcdn|webapp-prime|fbcdn/i.test(u)))||''}
 function ytEmbed(url=''){const m=url.match(/[?&]v=([^&]+)/)||url.match(/youtu\.be\/([^?&]+)/);return m?`https://www.youtube.com/embed/${m[1]}?rel=0&modestbranding=1`:''}
-function fbEmbed(url=''){return /facebook\.com\/reel\//.test(url)?`https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(url)}&show_text=false&width=420`:''}
+function fbEmbed(url=''){return /facebook\.com\/(reel|watch|share\/r)/.test(url)?`https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(url)}&show_text=false&width=420`:''}
 function ttId(url=''){const m=url.match(/video\/(\d+)/);return m?m[1]:''}
 function ttEmbed(url=''){const id=ttId(url);return id?`https://www.tiktok.com/player/v1/${id}?autoplay=1&controls=1`:''}
 function isImage(u=''){return /\.(jpg|jpeg|png|webp|gif)(\?|$)|fbcdn\.net/i.test(u)}
@@ -87,27 +87,29 @@ function displayAuthor(p){const a=txt(p.author_name||'');return /vũ kim cương
 function detailMeta(p){return `<div class="detail-meta"><div><b>Nguồn:</b> ${esc(label(p))}</div><div><b>Ngày đăng:</b> ${esc(fmt(p)||'Đang cập nhật')}</div><div><b>Tác giả:</b> ${esc(displayAuthor(p))}</div><div><b>Chuyên mục:</b> ${esc(p.category||'Bài pháp')}</div></div>`}
 function relatedHtml(p){const list=posts.filter(x=>x.id!==p.id&&(label(x)===label(p)||x.platform===p.platform)).slice(0,4);return `<div class="related"><h4>Các bài liên quan</h4>${list.map(x=>`<div class="related-item" data-id="${esc(x.id)}">${x.platform==='facebook'?'<div class="related-text-thumb">FB</div>':`<img src="${esc(thumb(x)||assetPath('assets/thay-kim-cuong.jpg'))}" alt="">`}<div><b>${esc(goodTitle(x))}</b><span>${esc(label(x))} · ${esc(fmt(x))}</span></div></div>`).join('')}</div>`}
 function renderPlayer(p){
+  if(p.platform==='facebook'){
+    const fb=fbEmbed(p.source_url), v=videoUrl(p), im=thumb(p);
+    if(fb)return `<div class="video-shell video-9x16"><iframe src="${esc(fb)}" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>`;
+    if(v)return `<div class="video-shell video-16x9"><video controls autoplay playsinline src="${esc(v)}"></video></div>`;
+    if(im)return `<div class="video-shell image-shell"><img src="${esc(im)}" alt=""></div>`;
+    return '<div class="fb-modal-blank">Bài viết Facebook dạng chữ</div>';
+  }
   if(p.platform==='youtube'){
-    const src=ytEmbed(p.source_url);
-    return src?`<div class="video-shell video-16x9"><iframe src="${src}&autoplay=1" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`:'';
+    const s=ytEmbed(p.source_url);
+    return s?`<div class="video-shell video-16x9"><iframe src="${s}&autoplay=1" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`:'';
   }
   if(p.platform==='tiktok'){
     const embed=ttEmbed(p.source_url), direct=videoUrl(p);
+    if(embed)return `<div class="video-shell video-9x16 tiktok-player"><iframe src="${esc(embed)}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`;
     if(direct)return `<div class="video-shell video-9x16"><video controls autoplay playsinline src="${esc(direct)}"></video></div>`;
-    return embed?`<div class="video-shell video-9x16"><iframe src="${embed}&autoplay=1" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`:'';
-  }
-  if(p.platform==='facebook'){
-    const v=videoUrl(p), im=thumb(p);
-    if(v)return `<div class="video-shell video-16x9"><video controls autoplay playsinline src="${esc(v)}"></video></div>`;
-    if(im)return `<div class="video-shell image-shell"><img src="${esc(im)}" alt="" onerror="this.closest('.video-shell').remove()"></div>`;
     return '';
   }
   const direct=(p.media_urls||[]).find(u=>isImage(u)||/\.mp4/i.test(u));
-  if(direct){const src=mediaSrc(direct);return isImage(direct)?`<div class="video-shell image-shell"><img src="${esc(src)}" alt=""></div>`:`<div class="video-shell video-16x9"><video controls autoplay playsinline src="${esc(src)}"></video></div>`;}
+  if(direct)return isImage(direct)?`<div class="video-shell image-shell"><img src="${esc(direct)}" alt=""></div>`:`<div class="video-shell video-16x9"><video controls autoplay playsinline src="${esc(direct)}"></video></div>`;
   return '';
 }
-function useTikTokEmbed(src){el('player').innerHTML=`<div class="tiktok-player"><iframe src="${src}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`}
-function openPost(id,push=true){const p=posts.find(x=>x.id===id);if(!p)return;el('modal').classList.toggle('facebook-modal',p.platform==='facebook'&&!videoUrl(p)&&!thumb(p));el('modal').classList.toggle('video-modal',p.media_type==='video'||p.platform==='youtube'||p.platform==='tiktok'||/facebook\.com\/reel\//.test(p.source_url||''));el('modalTitle').textContent=goodTitle(p);const im=thumb(p);const text=esc(txt(p.original_text||p.caption_or_text||goodTitle(p))).replace(/\n/g,'<br>');el('modalText').innerHTML=`${detailMeta(p)}<div>${text}</div>${relatedHtml(p)}`;el('player').innerHTML=renderPlayer(p)||'<div style="color:#fff;padding:30px;text-align:center">Không có media nhúng được. Mở nguồn gốc để xem.</div>';el('toolbar').innerHTML=`<button type="button" onclick="closeModal()">Quay lại danh sách</button>${p.source_url?`<a href="${esc(p.source_url)}" target="_blank" rel="noopener">Mở nguồn gốc</a>`:''}<a href="${esc(detailUrl(p.id))}">Link trang chi tiết</a>`;el('modal').classList.add('active');bindOpen(el('modalText'));if(push){const u=new URL(location.href);u.searchParams.set('post',id);history.pushState({post:id},'',u)}}
+
+function openPost(id,push=true){const p=posts.find(x=>x.id===id);if(!p)return;el('modal').classList.toggle('facebook-modal',p.platform==='facebook'&&!fbEmbed(p.source_url)&&!videoUrl(p)&&!thumb(p));el('modal').classList.toggle('video-modal',p.platform==='youtube'||p.platform==='tiktok'||!!fbEmbed(p.source_url)||p.media_type==='video');el('modal').classList.toggle('video-modal',p.media_type==='video'||p.platform==='youtube'||p.platform==='tiktok'||/facebook\.com\/reel\//.test(p.source_url||''));el('modalTitle').textContent=goodTitle(p);const im=thumb(p);const text=esc(txt(p.original_text||p.caption_or_text||goodTitle(p))).replace(/\n/g,'<br>');el('modalText').innerHTML=`${detailMeta(p)}<div>${text}</div>${relatedHtml(p)}`;el('player').innerHTML=renderPlayer(p)||'<div style="color:#fff;padding:30px;text-align:center">Không có media nhúng được. Mở nguồn gốc để xem.</div>';el('toolbar').innerHTML=`<button type="button" onclick="closeModal()">Quay lại danh sách</button>${p.source_url?`<a href="${esc(p.source_url)}" target="_blank" rel="noopener">Mở nguồn gốc</a>`:''}<a href="${esc(detailUrl(p.id))}">Link trang chi tiết</a>`;el('modal').classList.add('active');bindOpen(el('modalText'));if(push){const u=new URL(location.href);u.searchParams.set('post',id);history.pushState({post:id},'',u)}}
 function closeModal(){el('player').querySelectorAll('video').forEach(v=>{v.pause();v.removeAttribute('src');v.load()});el('player').innerHTML='';el('modal').classList.remove('active','facebook-modal','video-modal');if(new URLSearchParams(location.search).has('post')){const u=new URL(location.href);u.searchParams.delete('post');history.pushState({},'',u)}}
 function fbQuoteCandidates(){return posts.filter(p=>p.platform==='facebook'&&txt(p.original_text||p.caption_or_text||'').length>250).map(p=>{const lines=txt(p.original_text||p.caption_or_text||'').split(/\n/).map(x=>x.trim()).filter(x=>x.length>35&&x.length<190&&!isFbNoiseLine(x)&&!/[❤️❤💗💖💝💕💞]/u.test(x)&&!/^https?:/i.test(x));const quote=lines.find(x=>/[.!?…]$/.test(x))||lines[0];return quote?{quote,post:p}:null}).filter(Boolean)}
 function sourceTitle(p){const t=goodTitle(p);return /^\d+\s*(giờ|phút|ngày|tuần|tháng)$/i.test(t)?`Bài Facebook ${fmt(p)||''}`:t}
