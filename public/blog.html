@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Blog Giáo Pháp</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,sans-serif;background:#0a0e27;color:#ddd;line-height:1.6}
+.hero{background:linear-gradient(135deg,#1a1a2e,#16213e);padding:40px 20px;text-align:center;margin-bottom:30px;border-bottom:1px solid #333}
+.hero h1{font-size:40px;color:#fff;margin-bottom:8px}.hero p{font-size:14px;color:#aaa}
+.wrap{max-width:1680px;margin:0 auto;padding:0 20px 40px}.tabs{display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
+.tab-btn{background:#1a1a2e;border:1px solid #333;color:#aaa;padding:10px 16px;border-radius:6px;cursor:pointer;font:inherit;transition:.2s}.tab-btn:hover{border-color:#666;color:#ddd}.tab-btn.active{background:#2d1b4e;border-color:#9d7dd4;color:#fff}
+.controls{display:grid;grid-template-columns:1fr 160px 140px;gap:10px;margin-bottom:20px}input,select{background:#1a1a2e;border:1px solid #333;color:#ddd;padding:10px 12px;border-radius:6px;font:inherit}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px}
+.card{position:relative;background:#1a1a2e;border-radius:12px;overflow:hidden;cursor:pointer;border:1px solid #333;transition:.2s}.card:hover{border-color:#666;transform:translateY(-2px)}
+.card.facebook{aspect-ratio:16/9}.card.youtube{aspect-ratio:16/9}.card.tiktok{aspect-ratio:9/16}
+.card img,.card video{width:100%;height:100%;object-fit:cover;display:block;background:#000}.placeholder-thumb{width:100%;height:100%;background:radial-gradient(circle at 30% 20%,#2d1b4e,#05070f 70%);display:flex;align-items:center;justify-content:center;color:#8b74c9;font-size:42px;font-weight:800;letter-spacing:2px}.placeholder-thumb::before{content:"DTQ"}.card video{pointer-events:none}
+.card .overlay{position:absolute;inset:0;background:linear-gradient(180deg,transparent 45%,rgba(0,0,0,.88));display:flex;flex-direction:column;justify-content:flex-end;padding:16px;color:#fff}
+.card .title{font-weight:700;font-size:14px;line-height:1.3;margin-bottom:8px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card .meta{display:flex;gap:8px;flex-wrap:wrap;font-size:12px}.card .tag{background:rgba(157,125,212,.78);padding:2px 8px;border-radius:3px}
+.card .play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:54px;height:54px;background:rgba(255,255,255,.92);border-radius:50%;display:flex;align-items:center;justify-content:center;opacity:.9}.card .play::after{content:'▶';color:#000;font-size:22px;margin-left:3px}
+.card.tiktok .play{opacity:0;transition:.2s}.card.tiktok:hover .play{opacity:0}
+.mute-btn{position:absolute;top:10px;right:10px;z-index:3;background:rgba(0,0,0,.7);color:#fff;border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:6px 10px;font-size:12px;cursor:pointer;display:none}.card.tiktok .mute-btn{display:block}
+.modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.95);z-index:1000;align-items:center;justify-content:center;padding:20px}.modal.active{display:flex}
+.modal-content{width:95%;max-width:1460px;max-height:92vh;background:#1a1a2e;border-radius:12px;overflow:auto;border:1px solid #333;display:flex;flex-direction:column}
+.modal-header{position:sticky;top:0;padding:18px 20px;background:#0f1419;border-bottom:1px solid #333;display:flex;justify-content:space-between;align-items:center;z-index:2}.modal-header h2{font-size:18px;color:#fff;flex:1}.modal-close{background:0;border:0;color:#aaa;font-size:26px;cursor:pointer;padding:0 8px}
+.modal-body{padding:20px;display:flex;flex-direction:column;gap:18px}.modal-body.fb-layout{display:grid;grid-template-columns:1fr minmax(380px,520px);grid-template-rows:auto 1fr auto}.player{width:100%;background:#000;border-radius:8px;display:flex;align-items:center;justify-content:center;overflow:hidden}.player.facebook,.player.youtube{aspect-ratio:16/9;max-height:72vh}.player.tiktok{aspect-ratio:9/16;max-height:82vh;max-width:520px;margin:0 auto}.player iframe,.player video{width:100%;height:100%;display:block;border:0;background:#000;object-fit:contain}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap}.toolbar a,.toolbar button{background:#2d1b4e;color:#fff;border:1px solid #5b3a9f;border-radius:8px;padding:10px 14px;text-decoration:none;cursor:pointer;font:inherit}
+.fb-layout{display:grid;grid-template-columns:1fr minmax(380px,520px);gap:24px;max-height:82vh}.fb-layout .player{aspect-ratio:auto;max-height:82vh;width:100%}.fb-layout .modal-text{max-height:82vh;margin:0;padding:20px;order:-1}.fb-layout .toolbar{order:2;margin-top:auto}
+.modal-text{color:#ddd;line-height:1.8;white-space:pre-wrap;word-break:break-word;overflow-y:auto;max-height:220px;padding:18px;background:#0f1419;border-radius:8px}.modal-note{background:#2d1b4e;border-left:3px solid #9d7dd4;padding:15px;border-radius:6px;color:#ddd;font-size:13px}
+.empty{color:#666;text-align:center;padding:60px 20px}
+@media(max-width:900px){.grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}.tabs{flex-direction:column}.controls{grid-template-columns:1fr}.fb-layout{grid-template-columns:1fr}.player.tiktok{max-width:100%}}
+</style>
+</head>
+<body>
+<div class="hero"><h1>Blog Giáo Pháp</h1><p>Phân theo từng nguồn dữ liệu rõ ràng</p></div>
+<div class="wrap">
+  <div class="tabs" id="tabs"></div>
+  <div class="controls">
+    <input id="q" placeholder="Tìm bài..."/>
+    <select id="category"><option value="">Tất cả</option></select>
+    <select id="sort"><option value="priority_desc" selected>Ưu tiên nguồn + mới nhất</option><option value="time_desc">Mới nhất</option><option value="time_asc">Cũ nhất</option><option value="title">Tiêu đề</option></select>
+  </div>
+  <div class="grid" id="grid"></div>
+</div>
+<div class="modal" id="modal">
+  <div class="modal-content">
+    <div class="modal-header"><h2 id="modalTitle"></h2><button class="modal-close" onclick="closeModal()">&times;</button></div>
+    <div class="modal-body" id="modalBody">
+      <div class="player" id="player"></div>
+      <div class="toolbar" id="toolbar"></div>
+      <div class="modal-text" id="modalText"></div>
+      <div id="modalNote"></div>
+    </div>
+  </div>
+</div>
+<script>
+const el=id=>document.getElementById(id);
+let posts=[],activeTab='all';
+const sourceMap={
+  'facebook.com/vukim.cuong.71':'Facebook Vũ Kim Cương',
+  'https://www.facebook.com/vukim.cuong.71':'Facebook Vũ Kim Cương',
+  'https://www.youtube.com/@enscen':'YouTube Enscen',
+  '@enscen':'YouTube Enscen',
+  'https://www.youtube.com/@KimCuongMaster':'YouTube Master Kim Cương',
+  'https://www.tiktok.com/@diamond.paramita':'TikTok Thầy Kim Cương',
+  'https://www.tiktok.com/@daotrangquantheam':'TikTok ĐT Quán Thế Âm',
+  'https://www.tiktok.com/@ommani.padmehum':'TikTok ĐT Quán Thế Âm Bồ Tát'
+};
+const sourcePriority={
+  'Facebook Vũ Kim Cương':1,
+  'TikTok Thầy Kim Cương':2,
+  'YouTube Enscen':3,
+  'TikTok ĐT Quán Thế Âm':4,
+  'TikTok ĐT Quán Thế Âm Bồ Tát':5,
+  'YouTube Master Kim Cương':6
+};
+async function api(url, opts){const r=await fetch(url,opts); const d=await r.json(); if(!r.ok) throw new Error(d.error||r.statusText); return d}
+function norm(s){return (s||'').toLowerCase()}
+function esc(s=''){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
+function sourceLabel(post){const key=post.source_account||''; for(const [k,v] of Object.entries(sourceMap)){ if(key===k || key.includes(k) || k.includes(key)) return v; } return key||post.platform }
+function sourceKey(post){return sourceLabel(post)}
+function priorityOf(post){return sourcePriority[sourceKey(post)]||999}
+function publishedOf(post){return String(post.published_at||post.created_at||'')}
+function filtered(){
+  let list=[...posts], q=norm(el('q').value), c=el('category').value, sort=el('sort').value;
+  if(activeTab!=='all') list=list.filter(x=>sourceKey(x)===activeTab);
+  if(q) list=list.filter(x=>norm((x.title||'')+'\n'+sourceLabel(x)).includes(q));
+  if(c) list=list.filter(x=>x.category===c);
+  list.sort((a,b)=>{
+    if(sort==='title') return a.title.localeCompare(b.title);
+    if(sort==='time_asc') return publishedOf(a).localeCompare(publishedOf(b));
+    return publishedOf(b).localeCompare(publishedOf(a));
+  });
+  return list;
+}
+function getThumbnail(post){
+  if(post.platform==='youtube') return post.thumbnail_url||`https://i.ytimg.com/vi/${post.id.split(':')[1]}/hqdefault.jpg`;
+  if(post.platform==='tiktok') return post.thumbnail_url||'';
+  return post.thumbnail_url||'';
+}
+function bestTiktokVideo(post){return (post.media_urls||[]).find(u=>/https?:\/\/.+\.tiktokcdn\.com|https?:\/\/v\d+[-\w.]*tiktok/i.test(u)) || (post.media_urls||[]).find(u=>/\.mp4(\?|$)/i.test(u)) || ''}
+function renderTabs(){
+  const counts={all:posts.length};
+  for(const p of posts){const k=sourceKey(p); counts[k]=(counts[k]||0)+1}
+  const ordered=['all',...Object.keys(sourcePriority),...Object.keys(counts).filter(k=>k!=='all'&&!sourcePriority[k])].filter((v,i,a)=>a.indexOf(v)===i && counts[v]);
+  el('tabs').innerHTML=ordered.map(k=>`<button class="tab-btn ${k===activeTab?'active':''}">${k==='all'?'Tất cả':k} (${counts[k]||0})</button>`).join('');
+  [...el('tabs').querySelectorAll('.tab-btn')].forEach((btn,i)=>btn.onclick=()=>setTab(ordered[i]));
+}
+function setTab(id){activeTab=id; renderTabs(); renderGrid()}
+function renderGrid(){
+  const list=filtered();
+  el('grid').innerHTML=list.length?list.map(p=>{
+    const type=p.platform;
+    const thumb=getThumbnail(p);
+    const preview=type==='tiktok' ? bestTiktokVideo(p) : '';
+    return `<div class="card ${type}" data-id="${esc(p.id)}">${preview?`<video class="preview" muted loop playsinline preload="metadata" src="${preview}"></video><button class="mute-btn" type="button">🔇</button>`:`<img src="${thumb}" alt=""/>`}<div class="overlay"><div class="title">${esc(p.title)}</div><div class="meta"><span class="tag">${esc(sourceLabel(p))}</span><span class="tag">${esc(p.category||'')}</span></div></div></div>`
+  }).join(''):'<div class="empty">Không có bài.</div>';
+  [...el('grid').querySelectorAll('.card[data-id]')].forEach(card=>{
+    const id=card.dataset.id;
+    card.onclick=(e)=>{ if(e.target.closest('.mute-btn')) return; openPost(id) };
+    const video=card.querySelector('video.preview');
+    const muteBtn=card.querySelector('.mute-btn');
+    if(video){
+      card.addEventListener('mouseenter',async()=>{try{await video.play()}catch(e){try{const d=await api('/api/jobs/'+encodeURIComponent(id)+'/refresh-source',{method:'POST',headers:{'content-type':'application/json'},body:'{}'}); const fresh=(d.job?.source?.media_urls||[]).find(u=>/tiktokcdn|\.mp4/i.test(u)); if(fresh){video.src=fresh; await video.play()}}catch(_){}}});
+      card.addEventListener('mouseleave',()=>{video.pause(); video.currentTime=0});
+      muteBtn.onclick=(e)=>{e.stopPropagation(); video.muted=!video.muted; muteBtn.textContent=video.muted?'🔇':'🔊'};
+    }
+  });
+}
+function ytEmbed(url=''){const m=url.match(/[?&]v=([^&]+)/)||url.match(/youtu\.be\/([^?&]+)/); return m?`https://www.youtube.com/embed/${m[1]}?rel=0&modestbranding=1` : ''}
+function ttEmbed(url=''){const m=url.match(/video\/(\d+)/); return m?`https://www.tiktok.com/embed/v2/${m[1]}`:''}
+function renderPlayer(post){
+  if(post.platform==='youtube'){
+    const src=ytEmbed(post.source_url);
+    return src?`<iframe src="${src}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`:'';
+  }
+  if(post.platform==='tiktok'){
+    const src=ttEmbed(post.source_url);
+    return src?`<iframe src="${src}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>`:`<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#999"><a href="${post.source_url}" target="_blank">M? TikTok</a></div>`;
+  }
+  const fbUrl=(post.media_urls||[]).find(u=>/facebook\.com/i.test(u)) || post.source_url || '';
+  const direct=(post.media_urls||[]).find(u=>/\.mp4(\?|$)|fbcdn/i.test(u))||'';
+  if(direct){ if(/\.(jpg|jpeg|png|webp|gif)(\?|$)/i.test(direct)) return `<img src="${direct}" style="width:100%;height:100%;object-fit:contain;background:#000"/>`; return `<video controls autoplay playsinline src="${direct}"></video>`; }
+  if(fbUrl && /facebook\.com/i.test(fbUrl)) return `<iframe src="https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(fbUrl)}&show_text=false&width=520" width="520" height="720" style="border:none;overflow:hidden;background:#000" scrolling="yes" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`;
+  return '';
+}
+function renderToolbar(post){
+  const buttons=[];
+  if(post.source_url) buttons.push(`<a href="${post.source_url}" target="_blank" rel="noopener">Mở nguồn gốc</a>`);
+  if(post.platform==='youtube') buttons.push(`<button type="button" id="copyLinkBtn">Sao chép link YouTube</button>`);
+  return buttons.join('');
+}
+async function openPost(id){
+  let {post}=await api('/api/blog/posts/'+encodeURIComponent(id));
+  if(post.platform==='tiktok' && !bestTiktokVideo(post)){try{const d=await api('/api/jobs/'+encodeURIComponent(id)+'/refresh-source',{method:'POST',headers:{'content-type':'application/json'},body:'{}'}); if(d.job){const r=await api('/api/blog/posts/'+encodeURIComponent(id)); post=r.post}}catch(e){}}
+  const txt=post.original_text||post.title||'Không có nội dung';
+  const sourceName=esc(sourceMap[post.source_account]||post.source_account||post.platform);
+  const note=post.source_compare_note?`<br/><br/><strong>Ghi chú:</strong> ${esc(post.source_compare_note)}`:'';
+  el('modalTitle').textContent=post.title;
+  el('player').className=`player ${post.platform}`;
+  el('player').innerHTML=renderPlayer(post);
+  el('toolbar').innerHTML=renderToolbar(post);
+  el('modalText').textContent=txt;
+  el('modalNote').innerHTML=`<div class="modal-note"><strong>Nguồn:</strong> ${sourceName}${note}</div>`;
+  const body=el('modalBody');
+  body.className='modal-body';
+  if(post.platform==='facebook') body.classList.add('fb-layout');
+  const copyBtn=el('copyLinkBtn');
+  if(copyBtn) copyBtn.onclick=async()=>{try{await navigator.clipboard.writeText(post.source_url||''); copyBtn.textContent='Đã sao chép'}catch(e){copyBtn.textContent='Không sao chép được'}};
+  el('modal').classList.add('active');
+}
+function closeModal(){
+  el('player').querySelectorAll('video').forEach(v=>{try{v.pause();v.src='';v.load()}catch(e){}});
+  el('player').innerHTML=''; el('player').className='player'; el('toolbar').innerHTML='';
+  el('modal').classList.remove('active');
+}
+async function load(){
+  const data=await api('/api/blog/posts'); posts=data.posts||[];
+  const cats=[...new Set(posts.map(p=>p.category).filter(Boolean))].sort();
+  el('category').innerHTML='<option value="">Tất cả</option>'+cats.map(c=>`<option value="${c}">${c}</option>`).join('');
+  renderTabs(); renderGrid();
+}
+['q','category','sort'].forEach(id=>el(id).oninput=()=>{ if(id==='sort'){ renderTabs(); } renderGrid(); });
+el('modal').onclick=e=>{if(e.target===el('modal')) closeModal()};
+load(); setInterval(load,60000);
+</script>
+</body>
+</html>
