@@ -177,8 +177,9 @@ async function expandSeeMore(page: Page) {
 
 function cleanReelText(value = "") {
   const lines = cleanText(value).split("\n").map((line) => line.trim()).filter(Boolean);
+  const hasVietnamese = lines.some((line) => /[àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]/i.test(line));
   const drop = /^(.*Số thông báo|\d+$|Vũ Kim Cương|Thầy Kim Cương|Đang theo dõi|Tạo thước phim|Reels|Xem thêm)$/i;
-  const kept = lines.filter((line) => !drop.test(line));
+  const kept = lines.filter((line) => !drop.test(line) && !(hasVietnamese && /^[\x00-\x7F]{30,}$/.test(line)));
   return kept.join("\n").replace(/…\s*Xem thêm$/i, "").trim();
 }
 
