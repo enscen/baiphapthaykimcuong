@@ -92,7 +92,7 @@ function renderPlayer(p){
     if(fb)return `<div class="fb-reel-shell"><iframe src="${esc(fb)}" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>`;
     if(v)return `<div class="video-shell video-16x9"><video controls autoplay playsinline src="${esc(v)}"></video></div>`;
     if(im)return `<div class="video-shell image-shell"><img src="${esc(im)}" alt=""></div>`;
-    return `<div class="video-shell image-shell"><img class="teacher-fallback-img" src="${assetPath('assets/thay-kim-cuong.jpg')}" alt=""></div>`||'<div class="fb-modal-blank">Bài viết Facebook dạng chữ</div>';
+    return `<div class="video-shell image-shell"><img class="teacher-fallback-img" src="${assetPath('assets/thay-kim-cuong.jpg')}" alt=""></div>`;
   }
   if(p.platform==='youtube'){
     const s=ytEmbed(p.source_url);
