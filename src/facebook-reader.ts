@@ -163,7 +163,7 @@ async function expandSeeMore(page: Page) {
       const nodes = Array.from(document.querySelectorAll('div,span,a,[role="button"]')) as HTMLElement[];
       const target = nodes.find((node) => {
         const text = (node.innerText || node.textContent || "").trim().toLowerCase();
-        return text === "see more" || text.includes("xem th?m") || text.includes("xem them");
+        return text === "see more" || text.includes("xem thêm") || text.includes("xem th?m") || text.includes("xem them");
       });
       if (!target) return false;
       target.click();
@@ -176,16 +176,16 @@ async function expandSeeMore(page: Page) {
 
 
 function cleanReelText(value = "") {
-  const lines = cleanText(value).split("\n").map((line) => line.trim()).filter(Boolean);
+  const lines = cleanText(value).replace(/^.*?lượt xem\s*·\s*.*?cảm xúc\s*\|\s*/i, "").replace(/\s*\|\s*Vũ Kim Cương$/i, "").split("\n").map((line) => line.trim()).filter(Boolean);
   const hasVietnamese = lines.some((line) => /[àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]/i.test(line));
-  const drop = /^(.*Số thông báo|\d+$|Vũ Kim Cương|Thầy Kim Cương|Đang theo dõi|Tạo thước phim|Reels|Xem thêm)$/i;
+  const drop = /^(.*Số thông báo|\d+$|Vũ Kim Cương|Thầy Kim Cương|Đang theo dõi|Tạo thước phim|Reels|Xem thêm|Đăng nhập|Bạn quên tài khoản ư\?|Công khai|trên Facebook|Email hoặc số điện thoại|Mật khẩu|Quên mật khẩu\?|hoặc|Tạo tài khoản mới|Quét mã QR.*|[A-Z]{3}-[A-Z]{3}-[A-Z]{4})$/i;
   const kept = lines.filter((line) => !drop.test(line) && !(hasVietnamese && /^[\x00-\x7F]{30,}$/.test(line)));
   return kept.join("\n").replace(/…\s*Xem thêm$/i, "").trim();
 }
 
 async function readReelText(page: Page) {
   await expandSeeMore(page);
-  return page.evaluate(() => document.body.innerText || "");
+  return page.evaluate(() => (document.querySelector('meta[property="og:title"]') as HTMLMetaElement | null)?.content || document.body.innerText || "");
 }
 
 async function readFirstArticle(page: Page) {
