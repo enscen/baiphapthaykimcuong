@@ -38,7 +38,7 @@ const payload = {
   posts,
 };
 
-for (const file of ['data.json', path.join('deploy', 'data.json')]) {
+for (const file of ['data.json', path.join('deploy', 'data.json'), path.join('public', 'data.json')]) {
   const dir = path.dirname(file);
   if (dir !== '.') fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(file, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
