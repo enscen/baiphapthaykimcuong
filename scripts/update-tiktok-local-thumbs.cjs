@@ -3,13 +3,11 @@ const cp = require('child_process');
 const path = require('path');
 
 const data = JSON.parse(fs.readFileSync('data.json', 'utf8').replace(/^\uFEFF/, ''));
-const titles = JSON.parse(fs.readFileSync('tiktok-thumb-titles.json', 'utf8').replace(/^\uFEFF/, ''));
 const outDir = path.join('assets', 'tiktok-thumbs');
 fs.mkdirSync(outDir, { recursive: true });
 
 const posts = (data.posts || [])
-  .filter(p => p.platform === 'tiktok' && String(p.source_account || '').includes('@diamond.paramita'))
-  .filter(p => titles[String(p.source_item_id || p.id).replace('tiktok:', '')]);
+  .filter(p => p.platform === 'tiktok' && String(p.source_account || '').includes('@diamond.paramita'));
 
 let made = 0;
 let skipped = 0;

@@ -79,6 +79,8 @@ function recentlyTried(id) {
 }
 
 function freshThumbnail(job) {
+  const local = path.join(root, 'assets', 'tiktok-thumbs', `${job.id}.jpg`);
+  if (fs.existsSync(local)) return local;
   if (!job.source_url) return job.url;
   try {
     const raw = cp.execFileSync('python', ['-m', 'yt_dlp', '--skip-download', '--dump-json', job.source_url], { encoding: 'utf8', timeout: 60000, stdio: ['ignore', 'pipe', 'pipe'] });
