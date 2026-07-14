@@ -2,14 +2,23 @@
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ["Auto Update", "Scrape Facebook Media"]
+    types: [completed]
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: publish-static-site
+  cancel-in-progress: true
 jobs:
   publish:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Prepare static files
         run: |
           mkdir site
@@ -29,4 +38,3 @@ jobs:
           publish_branch: gh-pages
           publish_dir: ./site
           force_orphan: true
-
