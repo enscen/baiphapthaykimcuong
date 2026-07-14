@@ -1,4 +1,4 @@
-﻿name: Auto Update
+name: Auto Update
 on:
   schedule:
     - cron: "*/10 0-5,10-13 * * *"
@@ -15,9 +15,11 @@ jobs:
         with: { node-version: "22" }
       - run: npm ci && npm run build
       - run: python3 -m pip install --user yt-dlp
+      - run: npx playwright@1.60.0 install chromium --with-deps
       - env:
           FACEBOOK_COOKIE_HEADER: ${{ secrets.FACEBOOK_COOKIE_HEADER }}
-          FACEBOOK_READER_MODE: "cookies"
+          FACEBOOK_READER_MODE: "hybrid"
+          FACEBOOK_USE_PLAYWRIGHT_CHROMIUM: "1"
         run: node scripts/ci-update.js
       - run: node scripts/export-jobs.cjs
       - run: npm run thumbs:tiktok
@@ -29,4 +31,3 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A state/jobs.json data.json deploy/data.json public/data.json tiktok-thumb-titles.json deploy/tiktok-thumb-titles.json public/tiktok-thumb-titles.json tiktok-thumb-title-attempts.json tiktok-title-skip.json assets/tiktok-thumbs deploy/assets/tiktok-thumbs public/assets/tiktok-thumbs
           git diff --cached --quiet || (git commit -m "Auto update" && git push)
-
