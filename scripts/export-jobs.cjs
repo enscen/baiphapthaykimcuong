@@ -22,12 +22,14 @@ function publishedAt(job, source) {
 const seenFacebookText = new Set();
 function keepPost(post) {
   if (post.platform !== 'facebook') return true;
-  const text = String(post.original_text || post.caption_or_text || post.title || '').normalize('NFC').replace(/\s+/g, ' ').trim();
+  const raw = String(post.original_text || post.caption_or_text || post.title || '').normalize('NFC');
+  const text = raw.replace(/\s+/g, ' ').trim();
   const url = String(post.source_url || '');
   if (/^(?:Đăng nhập|Log in)\b|Bạn quên tài khoản|đã cập nhật ảnh (?:đại diện|bìa)/i.test(text)) return false;
   if (/facebook\.com\/[^/?#]+(?:\?|$)/i.test(url) && !/facebook\.com\/(?:vukim\.cuong\.71(?:\/|$)|reel\/|watch(?:\/|\?)|share\/)/i.test(url)) return false;
   if (text.length < 160) return true;
-  const key = `${String(post.published_at || '').slice(0, 10)}:${text.slice(0, 400).toLowerCase()}`;
+  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng)|\d{1,2}\s+tháng\s+\d{1,2}\b.*)$/i;
+  const key = raw.split(/\r?\n/).map((line) => line.trim()).filter((line) => line && !noise.test(line)).join(' ').replace(/\s+/g, ' ').slice(0, 400).toLowerCase();
   if (seenFacebookText.has(key)) return false;
   seenFacebookText.add(key);
   return true;

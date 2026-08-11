@@ -164,6 +164,11 @@ function facebookItemText(item: SourceItem) {
   return cleanText(item.original_text || item.caption_or_text || item.title || "");
 }
 
+function facebookContentFingerprint(value: string) {
+  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng)|\d{1,2}\s+tháng\s+\d{1,2}\b.*)$/i;
+  return cleanText(value).split("\n").map((line) => line.trim()).filter((line) => line && !noise.test(line)).join(" ").replace(/\s+/g, " ").slice(0, 400).toLowerCase();
+}
+
 export function isUsableFacebookItem(item: SourceItem, account = DEFAULT_URL) {
   const sourceUrl = canonicalFacebookUrl(item.source_url || "");
   let url: URL;
@@ -191,8 +196,8 @@ export function dedupeFacebookItems(items: SourceItem[], account = DEFAULT_URL) 
     const sourceUrl = canonicalFacebookUrl(item.source_url || "");
     const normalized = { ...item, source_url: sourceUrl, source_item_id: postIdFromUrl(sourceUrl) || item.source_item_id || extractPostId(sourceUrl, index) };
     if (!isUsableFacebookItem(normalized, account) || seenUrls.has(sourceUrl)) return;
-    const text = facebookItemText(normalized).replace(/\s+/g, " ").toLowerCase();
-    const contentKey = normalized.published_at && text.length >= 160 ? `${normalized.published_at.slice(0, 10)}:${text.slice(0, 400)}` : "";
+    const text = facebookItemText(normalized);
+    const contentKey = text.length >= 160 ? facebookContentFingerprint(text) : "";
     if (contentKey && seenContent.has(contentKey)) return;
     seenUrls.add(sourceUrl);
     if (contentKey) seenContent.add(contentKey);

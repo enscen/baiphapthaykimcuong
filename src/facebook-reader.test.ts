@@ -9,10 +9,10 @@ test("parses Vietnamese Facebook dates", () => {
 });
 
 test("canonicalizes and removes duplicate Facebook captures", () => {
-  const text = `Vũ Kim Cương\n1 tháng 7 lúc 03:08\nTRÁI TIM THẬT SỰ CỦA ĐẠO\n${"Nội dung bài pháp ".repeat(20)}`;
+  const body = `TRÁI TIM THẬT SỰ CỦA ĐẠO\n${"Nội dung bài pháp ".repeat(30)}`;
   const items = [
-    { source_platform: "facebook", source_account: "https://www.facebook.com/vukim.cuong.71", source_item_id: "one", source_url: "https://www.facebook.com/vukim.cuong.71/posts/pfbidOne?comment_id=1&__cft__[0]=x", published_at: "2026-06-30T20:08:00.000Z", title: "1 tháng 7 lúc 03:08", caption_or_text: text, original_text: text, media_type: "text", media_urls: [], author_name: "Vũ Kim Cương" },
-    { source_platform: "facebook", source_account: "https://www.facebook.com/vukim.cuong.71", source_item_id: "two", source_url: "https://www.facebook.com/vukim.cuong.71/posts/pfbidTwo?__tn__=R", published_at: "2026-06-30T20:08:00.000Z", title: "1 tháng 7 lúc 03:08", caption_or_text: text, original_text: text, media_type: "text", media_urls: [], author_name: "Vũ Kim Cương" },
+    { source_platform: "facebook", source_account: "https://www.facebook.com/vukim.cuong.71", source_item_id: "one", source_url: "https://www.facebook.com/vukim.cuong.71/posts/pfbidOne?comment_id=1&__cft__[0]=x", published_at: "2026-07-01T11:38:05.900Z", title: "TRÁI TIM THẬT SỰ CỦA ĐẠO", caption_or_text: `Vũ Kim Cương\n5 ngày\n${body}`, original_text: `Vũ Kim Cương\n5 ngày\n${body}`, media_type: "text", media_urls: [], author_name: "Vũ Kim Cương" },
+    { source_platform: "facebook", source_account: "https://www.facebook.com/vukim.cuong.71", source_item_id: "two", source_url: "https://www.facebook.com/vukim.cuong.71/posts/pfbidTwo?__tn__=R", published_at: "2026-06-30T20:08:00.000Z", title: "1 tháng 7 lúc 03:08", caption_or_text: `Vũ Kim Cương\n1 tháng 7 lúc 03:08\n${body}\nTất cả cảm xúc: 306`, original_text: `Vũ Kim Cương\n1 tháng 7 lúc 03:08\n${body}\nTất cả cảm xúc: 306`, media_type: "text", media_urls: [], author_name: "Vũ Kim Cương" },
     { source_platform: "facebook", source_account: "https://www.facebook.com/vukim.cuong.71", source_item_id: "bad", source_url: "https://www.facebook.com/another.profile?comment_id=1", published_at: "", title: "Đăng nhập", caption_or_text: "Đăng nhập\nBạn quên tài khoản ư?", original_text: "Đăng nhập\nBạn quên tài khoản ư?", media_type: "text", media_urls: [], author_name: "" },
   ] as any;
   assert.equal(canonicalFacebookUrl(items[0].source_url), "https://www.facebook.com/vukim.cuong.71/posts/pfbidOne");
