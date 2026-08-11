@@ -15,12 +15,12 @@ function videoUrl(id: string) {
   return `https://www.youtube.com/watch?v=${id}`;
 }
 
-function mapEntry(entry: string): SourceItem {
+function mapEntry(entry: string, account: string): SourceItem {
   const videoId = entry.match(/<yt:videoId>(.*?)<\/yt:videoId>/)?.[1] || "";
   const title = decodeXml(entry.match(/<title>(.*?)<\/title>/s)?.[1] || "").trim();
   const published = entry.match(/<published>(.*?)<\/published>/)?.[1];
   const description = decodeXml(entry.match(/<media:description>(.*?)<\/media:description>/s)?.[1] || "").trim();
-  return mapRawVideo({ id: videoId, title, description, timestamp: published, webpage_url: videoUrl(videoId), uploader: "@enscen" }, "@enscen");
+  return mapRawVideo({ id: videoId, title, description, timestamp: published, webpage_url: videoUrl(videoId), uploader: account }, account);
 }
 
 function mapRawVideo(raw: any, account: string): SourceItem {
@@ -103,7 +103,7 @@ export class YouTubeReader implements Reader {
     const channelId = channelPage.match(/"channelId":"(UC[\w-]+)"/)?.[1] || channelPage.match(/https:\/\/www\.youtube\.com\/channel\/(UC[\w-]+)/)?.[1];
     if (!channelId) throw new Error("Cannot resolve YouTube channel id");
     const xml = await fetch(`https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`, { headers: { "user-agent": "Mozilla/5.0" } }).then((res) => res.text());
-    return extractEntries(xml).map(mapEntry).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
+    return extractEntries(xml).map((entry) => mapEntry(entry, target)).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
   }
 
   async getItem(request: GetItemRequest): Promise<SourceItem> {

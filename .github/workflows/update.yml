@@ -21,7 +21,7 @@ jobs:
           FACEBOOK_COOKIE_HEADER: ${{ secrets.FACEBOOK_COOKIE_HEADER }}
           FACEBOOK_READER_MODE: "hybrid"
           FACEBOOK_USE_PLAYWRIGHT_CHROMIUM: "1"
-          YOUTUBE_FETCH_DETAILS: "true"
+          YOUTUBE_READER_MODE: "rss"
         run: node scripts/ci-update.js
       - run: node scripts/export-jobs.cjs
       - run: npm run thumbs:tiktok

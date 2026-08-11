@@ -2,6 +2,23 @@
 const path = require('path');
 
 const jobsById = JSON.parse(fs.readFileSync('state/jobs.json', 'utf8'));
+
+function facebookDate(text = '', reference = '') {
+  const match = String(text).match(/\b(\d{1,2})\s+tháng\s+(\d{1,2})(?:,?\s+(\d{4}))?(?:\s+lúc\s+(\d{1,2}):(\d{2}))?/i);
+  if (!match) return '';
+  const now = new Date(reference || Date.now());
+  const year = Number(match[3] || now.getUTCFullYear());
+  const date = new Date(Date.UTC(year, Number(match[2]) - 1, Number(match[1]), Number(match[4] || 0) - 7, Number(match[5] || 0)));
+  if (!match[3] && date.getTime() > now.getTime() + 86400000) date.setUTCFullYear(year - 1);
+  return date.toISOString();
+}
+
+function publishedAt(job, source) {
+  if (source.published_at) return source.published_at;
+  if (source.source_platform !== 'facebook') return '';
+  return facebookDate(job.original_text || source.original_text || source.caption_or_text, job.created_at);
+}
+
 const posts = Object.values(jobsById)
   .map((job) => {
     const source = job.source || {};
@@ -12,7 +29,7 @@ const posts = Object.values(jobsById)
       source_account: source.source_account || '',
       source_item_id: source.source_item_id || '',
       source_url: source.source_url || '',
-      published_at: source.published_at || '',
+      published_at: publishedAt(job, source),
       title: source.title || job.title || job.id,
       caption_or_text: source.caption_or_text || '',
       original_text: job.original_text || source.original_text || source.caption_or_text || '',
