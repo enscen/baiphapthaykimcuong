@@ -192,7 +192,7 @@ export function dedupeFacebookItems(items: SourceItem[], account = DEFAULT_URL) 
     const normalized = { ...item, source_url: sourceUrl, source_item_id: postIdFromUrl(sourceUrl) || item.source_item_id || extractPostId(sourceUrl, index) };
     if (!isUsableFacebookItem(normalized, account) || seenUrls.has(sourceUrl)) return;
     const text = facebookItemText(normalized).replace(/\s+/g, " ").toLowerCase();
-    const contentKey = normalized.published_at && text.length >= 160 ? `${normalized.published_at.slice(0, 10)}:${text}` : "";
+    const contentKey = normalized.published_at && text.length >= 160 ? `${normalized.published_at.slice(0, 10)}:${text.slice(0, 400)}` : "";
     if (contentKey && seenContent.has(contentKey)) return;
     seenUrls.add(sourceUrl);
     if (contentKey) seenContent.add(contentKey);

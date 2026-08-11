@@ -27,7 +27,7 @@ function keepPost(post) {
   if (/^(?:Đăng nhập|Log in)\b|Bạn quên tài khoản|đã cập nhật ảnh (?:đại diện|bìa)/i.test(text)) return false;
   if (/facebook\.com\/[^/?#]+(?:\?|$)/i.test(url) && !/facebook\.com\/(?:vukim\.cuong\.71(?:\/|$)|reel\/|watch(?:\/|\?)|share\/)/i.test(url)) return false;
   if (text.length < 160) return true;
-  const key = text.toLowerCase();
+  const key = `${String(post.published_at || '').slice(0, 10)}:${text.slice(0, 400).toLowerCase()}`;
   if (seenFacebookText.has(key)) return false;
   seenFacebookText.add(key);
   return true;
