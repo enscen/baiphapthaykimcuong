@@ -1,4 +1,4 @@
-﻿const fs = require('fs');
+const fs = require('fs');
 const path = require('path');
 
 const jobsById = JSON.parse(fs.readFileSync('state/jobs.json', 'utf8'));
@@ -17,6 +17,20 @@ function publishedAt(job, source) {
   if (source.published_at) return source.published_at;
   if (source.source_platform !== 'facebook') return '';
   return facebookDate(job.original_text || source.original_text || source.caption_or_text, job.created_at);
+}
+
+const seenFacebookText = new Set();
+function keepPost(post) {
+  if (post.platform !== 'facebook') return true;
+  const text = String(post.original_text || post.caption_or_text || post.title || '').normalize('NFC').replace(/\s+/g, ' ').trim();
+  const url = String(post.source_url || '');
+  if (/^(?:Đăng nhập|Log in)\b|Bạn quên tài khoản|đã cập nhật ảnh (?:đại diện|bìa)/i.test(text)) return false;
+  if (/facebook\.com\/[^/?#]+(?:\?|$)/i.test(url) && !/facebook\.com\/(?:vukim\.cuong\.71(?:\/|$)|reel\/|watch(?:\/|\?)|share\/)/i.test(url)) return false;
+  if (text.length < 160) return true;
+  const key = text.toLowerCase();
+  if (seenFacebookText.has(key)) return false;
+  seenFacebookText.add(key);
+  return true;
 }
 
 const posts = Object.values(jobsById)
@@ -43,6 +57,7 @@ const posts = Object.values(jobsById)
       source,
     };
   })
+  .filter(keepPost)
   .sort((a, b) => {
     const left = Date.parse(b.published_at || b.updated_at || b.created_at || '') || 0;
     const right = Date.parse(a.published_at || a.updated_at || a.created_at || '') || 0;
