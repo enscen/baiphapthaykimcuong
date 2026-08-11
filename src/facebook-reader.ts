@@ -136,11 +136,18 @@ function extractPostId(url: string, index: number) {
   return url.match(/(?:posts|videos|reel|watch|permalink|story_fbid=)[/=]?([0-9A-Za-z_-]+)/)?.[1] || `${url}#${index}`;
 }
 
-function facebookPublishedAt(text: string) {
+export function facebookPublishedAt(text: string, now = new Date()) {
+  const absolute = cleanText(text).match(/\b(\d{1,2})\s+tháng\s+(\d{1,2})(?:,?\s+(\d{4}))?(?:\s+lúc\s+(\d{1,2}):(\d{2}))?/i);
+  if (absolute) {
+    const year = Number(absolute[3] || now.getUTCFullYear());
+    const date = new Date(Date.UTC(year, Number(absolute[2]) - 1, Number(absolute[1]), Number(absolute[4] || 0) - 7, Number(absolute[5] || 0)));
+    if (!absolute[3] && date.getTime() > now.getTime() + 86400000) date.setUTCFullYear(year - 1);
+    return date.toISOString();
+  }
   const line = cleanText(text).split("\n").map((value) => value.trim()).find((value) => /^\d+\s*(phút|giờ|ngày|tuần|tháng)$/i.test(value));
   const match = line?.match(/^(\d+)\s*(phút|giờ|ngày|tuần|tháng)$/i);
   if (!match) return undefined;
-  const date = new Date();
+  const date = new Date(now);
   const amount = Number(match[1]);
   const unit = match[2].toLowerCase();
   if (unit === "phút") date.setMinutes(date.getMinutes() - amount);
@@ -152,7 +159,7 @@ function facebookPublishedAt(text: string) {
 }
 
 function facebookTitle(text: string) {
-  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng))$/i;
+  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng)|\d{1,2}\s+tháng\s+\d{1,2}\b.*)$/i;
   return cleanText(text).split("\n").map((value) => value.trim()).find((value) => value && !noise.test(value))?.slice(0, 120) || "Facebook post";
 }
 

@@ -12,7 +12,7 @@ const posts = Object.values(jobsById)
       source_account: source.source_account || '',
       source_item_id: source.source_item_id || '',
       source_url: source.source_url || '',
-      published_at: source.published_at || job.updated_at || job.created_at || '',
+      published_at: source.published_at || '',
       title: source.title || job.title || job.id,
       caption_or_text: source.caption_or_text || '',
       original_text: job.original_text || source.original_text || source.caption_or_text || '',

@@ -60,7 +60,7 @@ export async function upsertJobsFromItems(items: SourceItem[]) {
       const newLen = text.length;
       const oldMedia = existing.source?.media_urls?.length || 0;
       const newMedia = item.media_urls?.length || 0;
-      const shouldRefresh = newLen > oldLen || newMedia > oldMedia || item.thumbnail_url && item.thumbnail_url !== existing.source?.thumbnail_url;
+      const shouldRefresh = newLen > oldLen || newMedia > oldMedia || item.thumbnail_url && item.thumbnail_url !== existing.source?.thumbnail_url || item.published_at && item.published_at !== existing.source?.published_at;
       if (shouldRefresh) {
         const shouldReplaceProposed = (existing.proposed_text || "").trim() === (existing.original_text || "").trim();
         jobs[id] = { ...existing, source: item, original_text: newLen > oldLen ? text : existing.original_text, proposed_text: shouldReplaceProposed && newLen > oldLen ? text : existing.proposed_text, updated_at: now() };
