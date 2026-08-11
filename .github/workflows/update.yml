@@ -15,6 +15,7 @@ jobs:
         with: { node-version: "22" }
       - run: npm ci && npm run build
       - run: python3 -m pip install --user yt-dlp
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - run: npx playwright@1.60.0 install chromium --with-deps
       - env:
           FACEBOOK_COOKIE_HEADER: ${{ secrets.FACEBOOK_COOKIE_HEADER }}
@@ -23,7 +24,9 @@ jobs:
         run: node scripts/ci-update.js
       - run: node scripts/export-jobs.cjs
       - run: npm run thumbs:tiktok
-      - run: npm run ocr:tiktok
+      - name: OCR TikTok thumbnails
+        continue-on-error: true
+        run: npm run ocr:tiktok
         env:
           TIKTOK_OCR_LIMIT: "80"
       - run: |
