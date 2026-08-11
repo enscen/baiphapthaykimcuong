@@ -1,4 +1,4 @@
-﻿import fs from "fs";
+import fs from "fs";
 import { getReader } from "../dist/publishers.js";
 import { upsertJobsFromItems } from "../dist/jobs.js";
 
@@ -13,14 +13,28 @@ const sources = [
   { action: "list_new_youtube_videos", account: "https://www.youtube.com/@KimCuongMaster", limit: 10 }
 ];
 
-async function run() {
-  for (const s of sources) {
-    try {
-      const reader = getReader(s.action);
-      const items = await reader.listNew({ account: s.account, limit: s.limit });
-      await upsertJobsFromItems(items);
-      console.log(`Scanned ${s.account}: ${items.length} items`);
-    } catch(e) { console.error(`Error ${s.account}:`, e.message); }
+async function scan(source) {
+  try {
+    const reader = getReader(source.action);
+    return { source, items: await reader.listNew({ account: source.account, limit: source.limit }) };
+  } catch (error) {
+    console.error(`Error ${source.account}:`, error.message);
+    return null;
   }
 }
-run();
+
+async function run() {
+  const facebook = sources.filter((source) => source.action.includes("facebook"));
+  const others = sources.filter((source) => !source.action.includes("facebook"));
+  const [facebookResults, otherResults] = await Promise.all([
+    (async () => { const results = []; for (const source of facebook) results.push(await scan(source)); return results; })(),
+    Promise.all(others.map(scan)),
+  ]);
+  for (const result of [...facebookResults, ...otherResults]) {
+    if (!result) continue;
+    await upsertJobsFromItems(result.items);
+    console.log(`Scanned ${result.source.account}: ${result.items.length} items`);
+  }
+}
+
+await run();
