@@ -20,9 +20,12 @@ jobs:
       - env:
           FACEBOOK_COOKIE_HEADER: ${{ secrets.FACEBOOK_COOKIE_HEADER }}
           FACEBOOK_READER_MODE: "hybrid"
-          FACEBOOK_USE_PLAYWRIGHT_CHROMIUM: "1"
+          BRAVE_USER_DATA_DIR: "/tmp"
           YOUTUBE_READER_MODE: "rss"
-        run: node scripts/ci-update.js
+        run: |
+          export BRAVE_EXECUTABLE_PATH="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium || command -v chromium-browser)"
+          test -n "$BRAVE_EXECUTABLE_PATH"
+          node scripts/ci-update.js
       - run: node scripts/export-jobs.cjs
       - run: npm run thumbs:tiktok
       - name: OCR TikTok thumbnails
