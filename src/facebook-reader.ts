@@ -1,4 +1,4 @@
-import fs from "node:fs/promises";
+﻿import fs from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
 import type { BrowserContext, Page } from "playwright-core";
@@ -78,8 +78,9 @@ async function cookieFileFromHeader(header: string) {
 
 function browserCookieArgs() {
   const browser = process.env.FACEBOOK_COOKIES_BROWSER || "brave";
+  const profileRoot = process.env.BRAVE_USER_DATA_DIR || defaultBraveUserDataDir();
   const profile = process.env.BRAVE_PROFILE_DIRECTORY || "Default";
-  return ["--cookies-from-browser", process.env.FACEBOOK_COOKIES_BROWSER_SPEC || `${browser}:${profile}`];
+  return ["--cookies-from-browser", `${browser}:${profileRoot}:${profile}`];
 }
 
 async function browserProfileAvailable() {
@@ -131,93 +132,15 @@ async function withFacebookBrowser<T>(fn: (context: BrowserContext) => Promise<T
   }
 }
 
-function postIdFromUrl(url: string) {
-  return url.match(/(?:\/(?:posts|videos|reel)\/|[?&](?:story_fbid|v)=)([0-9A-Za-z_-]+)/i)?.[1];
-}
-
 function extractPostId(url: string, index: number) {
-  return postIdFromUrl(url) || `${url}#${index}`;
+  return url.match(/(?:posts|videos|reel|watch|permalink|story_fbid=)[/=]?([0-9A-Za-z_-]+)/)?.[1] || `${url}#${index}`;
 }
 
-export function canonicalFacebookUrl(value: string) {
-  try {
-    const url = new URL(value);
-    const storyId = url.searchParams.get("story_fbid");
-    const ownerId = url.searchParams.get("id");
-    const videoId = url.searchParams.get("v");
-    url.hash = "";
-    url.search = "";
-    url.pathname = url.pathname.replace(/\/+$/, "") || "/";
-    if (/\/(?:permalink|story|profile)\.php$/i.test(url.pathname) && storyId) {
-      url.searchParams.set("story_fbid", storyId);
-      if (ownerId) url.searchParams.set("id", ownerId);
-    } else if (/\/watch$/i.test(url.pathname) && videoId) {
-      url.searchParams.set("v", videoId);
-    }
-    return url.toString();
-  } catch {
-    return value.split("#")[0];
-  }
-}
-
-function facebookItemText(item: SourceItem) {
-  return cleanText(item.original_text || item.caption_or_text || item.title || "");
-}
-
-function facebookContentFingerprint(value: string) {
-  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng)|\d{1,2}\s+tháng\s+\d{1,2}\b.*)$/i;
-  return cleanText(value).split("\n").map((line) => line.trim()).filter((line) => line && !noise.test(line)).join(" ").replace(/\s+/g, " ").slice(0, 400).toLowerCase();
-}
-
-export function isUsableFacebookItem(item: SourceItem, account = DEFAULT_URL) {
-  const sourceUrl = canonicalFacebookUrl(item.source_url || "");
-  let url: URL;
-  try {
-    url = new URL(sourceUrl);
-  } catch {
-    return false;
-  }
-  if (!/(^|\.)facebook\.com$/i.test(url.hostname)) return false;
-  const validPath = /^\/(?:[^/]+\/(?:posts|videos)\/[^/]+|reel\/\d+|watch|share\/[prv]\/[^/]+|(?:permalink|story|profile)\.php)$/i.test(url.pathname);
-  if (!validPath) return false;
-  const accountSlug = new URL(account).pathname.split("/").filter(Boolean)[0]?.toLowerCase();
-  const ownerSlug = url.pathname.match(/^\/([^/]+)\/(?:posts|videos)\//i)?.[1]?.toLowerCase();
-  if (ownerSlug && accountSlug && ownerSlug !== accountSlug) return false;
-  const text = facebookItemText(item);
-  if (text.length < 12) return false;
-  return !/^(?:Đăng nhập|Log in)\b|Bạn quên tài khoản|đã cập nhật ảnh (?:đại diện|bìa)/i.test(text);
-}
-
-export function dedupeFacebookItems(items: SourceItem[], account = DEFAULT_URL) {
-  const seenUrls = new Set<string>();
-  const seenContent = new Set<string>();
-  const result: SourceItem[] = [];
-  items.forEach((item, index) => {
-    const sourceUrl = canonicalFacebookUrl(item.source_url || "");
-    const normalized = { ...item, source_url: sourceUrl, source_item_id: postIdFromUrl(sourceUrl) || item.source_item_id || extractPostId(sourceUrl, index) };
-    if (!isUsableFacebookItem(normalized, account) || seenUrls.has(sourceUrl)) return;
-    const text = facebookItemText(normalized);
-    const contentKey = text.length >= 160 ? facebookContentFingerprint(text) : "";
-    if (contentKey && seenContent.has(contentKey)) return;
-    seenUrls.add(sourceUrl);
-    if (contentKey) seenContent.add(contentKey);
-    result.push(normalized);
-  });
-  return result;
-}
-
-export function facebookPublishedAt(text: string, now = new Date()) {
-  const absolute = cleanText(text).match(/\b(\d{1,2})\s+tháng\s+(\d{1,2})(?:,?\s+(\d{4}))?(?:\s+lúc\s+(\d{1,2}):(\d{2}))?/i);
-  if (absolute) {
-    const year = Number(absolute[3] || now.getUTCFullYear());
-    const date = new Date(Date.UTC(year, Number(absolute[2]) - 1, Number(absolute[1]), Number(absolute[4] || 0) - 7, Number(absolute[5] || 0)));
-    if (!absolute[3] && date.getTime() > now.getTime() + 86400000) date.setUTCFullYear(year - 1);
-    return date.toISOString();
-  }
+function facebookPublishedAt(text: string) {
   const line = cleanText(text).split("\n").map((value) => value.trim()).find((value) => /^\d+\s*(phút|giờ|ngày|tuần|tháng)$/i.test(value));
   const match = line?.match(/^(\d+)\s*(phút|giờ|ngày|tuần|tháng)$/i);
   if (!match) return undefined;
-  const date = new Date(now);
+  const date = new Date();
   const amount = Number(match[1]);
   const unit = match[2].toLowerCase();
   if (unit === "phút") date.setMinutes(date.getMinutes() - amount);
@@ -229,7 +152,7 @@ export function facebookPublishedAt(text: string, now = new Date()) {
 }
 
 function facebookTitle(text: string) {
-  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng)|\d{1,2}\s+tháng\s+\d{1,2}\b.*)$/i;
+  const noise = /^(Vũ Kim Cương|Thầy Kim Cương|Facebook Thầy Kim Cương|\d+\s*(phút|giờ|ngày|tuần|tháng))$/i;
   return cleanText(text).split("\n").map((value) => value.trim()).find((value) => value && !noise.test(value))?.slice(0, 120) || "Facebook post";
 }
 
@@ -265,9 +188,9 @@ async function readReelText(page: Page) {
   return page.evaluate(() => (document.querySelector('meta[property="og:title"]') as HTMLMetaElement | null)?.content || document.body.innerText || "");
 }
 
-async function readFirstArticle(page: Page, expectedId = "") {
+async function readFirstArticle(page: Page) {
   await expandSeeMore(page);
-  return page.evaluate((postId) => {
+  return page.evaluate(() => {
     const pickImage = (root: ParentNode | null) => {
       const images = Array.from(root?.querySelectorAll('img[src]') || []) as HTMLImageElement[];
       return images
@@ -283,38 +206,27 @@ async function readFirstArticle(page: Page, expectedId = "") {
       const escaped = html.match(/"(?:browser_native_hd_url|browser_native_sd_url|playable_url(?:_quality_hd)?)":"([^"]+)"/)?.[1];
       return escaped ? escaped.replace(/\\\//g, "/").replace(/\\u0025/g, "%") : undefined;
     };
-    const articles = Array.from(document.querySelectorAll('[role="article"]')) as HTMLElement[];
-    const article = (postId ? articles.find((candidate) => Array.from(candidate.querySelectorAll('a[href]')).some((anchor) => (anchor as HTMLAnchorElement).href.includes(postId))) : articles[0]) || (articles.length === 1 ? articles[0] : null);
+    const article = document.querySelector('[role="article"]') as HTMLElement | null;
     const text = article?.innerText || document.body.innerText || "";
     const video = pickVideo(article);
     const img = pickImage(article);
-    return { text, img: img || undefined, video: video || undefined, matched: Boolean(article) };
-  }, expectedId);
+    return { text, img: img || undefined, video: video || undefined };
+  });
 }
 
 async function scrapeProfile(account: string, limit: number): Promise<SourceItem[]> {
   return withFacebookBrowser(async (context) => {
     const page = await context.newPage();
-    const isReels = /\/reels\/?$/i.test(account);
-    const target = new URL(account);
-    if (!isReels) target.searchParams.set("sk", "posts");
-    await page.goto(target.toString(), { waitUntil: "domcontentloaded", timeout: 60000 });
+    await page.goto(account, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForTimeout(5000);
     await expandSeeMore(page);
-    let previousCount = 0;
-    let stalled = 0;
-    const maxScrolls = Math.min(40, Math.max(5, Math.ceil(limit / 3)));
-    for (let i = 0; i < maxScrolls && stalled < 4; i += 1) {
+    for (let i = 0; i < 5; i += 1) {
       await page.mouse.wheel(0, 1400);
       await page.waitForTimeout(900);
       await expandSeeMore(page);
-      const count = await page.evaluate((reels) => reels ? document.querySelectorAll('a[href*="/reel/"]').length : document.querySelectorAll('[role="article"]').length, isReels);
-      if (count >= limit) break;
-      stalled = count <= previousCount ? stalled + 1 : 0;
-      previousCount = count;
     }
 
-    if (isReels) {
+    if (/\/reels\/?$/i.test(account)) {
       const reels = await page.evaluate((max) => {
         const seen = new Set<string>();
         const out: Array<{ url: string; img?: string; text?: string }> = [];
@@ -347,7 +259,7 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
         }
       }
 
-      return dedupeFacebookItems(detailed.map((reel, index) => ({
+      return detailed.map((reel, index) => ({
         source_platform: "facebook" as const,
         source_account: account,
         source_item_id: extractPostId(reel.url, index),
@@ -361,10 +273,10 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
         thumbnail_url: reel.img || undefined,
         author_name: account,
         raw: reel,
-      })), account);
+      }));
     }
 
-    const posts = await page.evaluate((max) => {
+    const readPosts = () => page.evaluate((max) => {
       const pickImage = (root: ParentNode | null) => {
         const images = Array.from(root?.querySelectorAll('img[src]') || []) as HTMLImageElement[];
         return images
@@ -394,6 +306,23 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
       }
       return out;
     }, limit);
+    const posts = await readPosts();
+    if (!/\/reels\/?$/i.test(account) && posts.length === 0) {
+      const alt = new URL(account);
+      alt.pathname = alt.pathname.replace(/\/+$/, "") + "/posts";
+      try {
+        await page.goto(alt.toString(), { waitUntil: "domcontentloaded", timeout: 60000 });
+        await page.waitForTimeout(5000);
+        await expandSeeMore(page);
+        for (let i = 0; i < 10; i += 1) {
+          await page.mouse.wheel(0, 1400);
+          await page.waitForTimeout(900);
+          await expandSeeMore(page);
+        }
+        posts.push(...(await readPosts()));
+      } catch {}
+    }
+
 
     const enriched: Array<{ text: string; url: string; img?: string; video?: string }> = [];
     for (const post of posts) {
@@ -403,8 +332,8 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
         try {
           await detail.goto(post.url, { waitUntil: "domcontentloaded", timeout: 60000 });
           await detail.waitForTimeout(3500);
-          const article = await readFirstArticle(detail, postIdFromUrl(post.url));
-          if (article.matched && cleanText(article.text).length > cleanText(post.text).length) {
+          const article = await readFirstArticle(detail);
+          if (cleanText(article.text).length > cleanText(post.text).length) {
             full = { ...post, text: article.text, img: article.img || post.img, video: article.video || post.video };
           }
         } catch {
@@ -416,7 +345,7 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
       enriched.push(full);
     }
 
-    return dedupeFacebookItems(enriched.map((post, index) => ({
+    return enriched.map((post, index) => ({
       source_platform: "facebook" as const,
       source_account: account,
       source_item_id: extractPostId(post.url, index),
@@ -430,7 +359,7 @@ async function scrapeProfile(account: string, limit: number): Promise<SourceItem
       thumbnail_url: post.img || undefined,
       author_name: account,
       raw: post,
-    })), account);
+    }));
   });
 }
 
@@ -439,7 +368,7 @@ async function scrapeSingle(url: string, account: string): Promise<SourceItem> {
     const page = await context.newPage();
     await page.goto(url, { waitUntil: "domcontentloaded", timeout: 60000 });
     await page.waitForTimeout(5000);
-    const article = await readFirstArticle(page, postIdFromUrl(url));
+    const article = await readFirstArticle(page);
     const text = article.text;
     const img = article.img;
     const video = article.video;
@@ -466,7 +395,7 @@ export class FacebookReader implements Reader {
     const target = request.account || DEFAULT_URL;
     const mode = process.env.FACEBOOK_READER_MODE || "browser";
     if (mode === "browser") {
-      return dedupeFacebookItems(await scrapeProfile(target, request.limit), target).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
+      return (await scrapeProfile(target, request.limit)).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
     }
     let extra = mode === "cookies" || mode === "hybrid" ? browserCookieArgs() : [];
     const cookieHeader = process.env.FACEBOOK_COOKIE_HEADER || process.env.FACEBOOK_COOKIES || "";
@@ -475,21 +404,14 @@ export class FacebookReader implements Reader {
         extra = ["--cookies", await cookieFileFromHeader(cookieHeader)];
       } catch {}
     }
-    let ytDlpItems: SourceItem[] = [];
     try {
       const result = await runYtDlp(target, request.limit, extra);
-      ytDlpItems = result.stdout.split(/\r?\n/).filter(Boolean).map((line) => JSON.parse(line)).map((raw) => mapYtDlpItem(raw, target));
+      const items = result.stdout.split(/\r?\n/).filter(Boolean).map((line) => JSON.parse(line)).map((raw) => mapYtDlpItem(raw, target)).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
+      if (items.length > 0 || mode !== "hybrid") return items;
     } catch (error) {
       if (mode === "cookies") throw error;
     }
-    if (mode === "cookies") return dedupeFacebookItems(ytDlpItems, target).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
-    let browserItems: SourceItem[] = [];
-    if (!/\/reels\/?$/i.test(target) || ytDlpItems.length === 0) {
-      try {
-        browserItems = await scrapeProfile(target, request.limit);
-      } catch {}
-    }
-    return dedupeFacebookItems([...browserItems, ...ytDlpItems], target).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
+    return (await scrapeProfile(target, request.limit)).filter((item) => afterSince(item, request.since_timestamp)).slice(0, request.limit);
   }
 
   async getItem(request: GetItemRequest): Promise<SourceItem> {
