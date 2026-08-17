@@ -97,6 +97,11 @@ function renderGrid(){
   el('grid').innerHTML=html||'<p>Không có nội dung.</p>';
   el('loadMore').style.display=list.length>shown?'block':'none';bindOpen(el('grid'))
 }
+function bindOpen(root){root.querySelectorAll('[data-id]').forEach(node=>{node.onclick=()=>openPost(node.dataset.id);const v=node.querySelector('video');if(v){node.onmouseenter=()=>v.play().catch(()=>{});node.onmouseleave=()=>{v.pause();v.currentTime=0}}})}
+function detailUrl(id){const u=new URL(location.href);u.searchParams.set('post',id);return u.pathname+u.search+u.hash}
+function displayAuthor(p){const a=txt(p.author_name||'');return /vũ kim cương|vu kim cuong/i.test(a)?'Thầy Kim Cương':(a||label(p)||'Đang cập nhật')}
+function detailMeta(p){return `<div class="detail-meta"><div><b>Nguồn:</b> ${esc(label(p))}</div><div><b>Ngày đăng:</b> ${esc(fmt(p)||'Đang cập nhật')}</div><div><b>Tác giả:</b> ${esc(displayAuthor(p))}</div><div><b>Chuyên mục:</b> ${esc(p.category||'Bài pháp')}</div></div>`}
+function relatedHtml(p){const list=posts.filter(x=>x.id!==p.id&&(label(x)===label(p)||x.platform===p.platform)).slice(0,4);return `<div class="related"><h4>Các bài liên quan</h4>${list.map(x=>`<div class="related-item" data-id="${esc(x.id)}">${x.platform==='facebook'?'<div class="related-text-thumb">FB</div>':`<img src="${esc(thumb(x)||assetPath('assets/thay-kim-cuong.jpg'))}" alt="">`}<div><b>${esc(goodTitle(x))}</b><span>${esc(label(x))} · ${esc(fmt(x))}</span></div></div>`).join('')}</div>`}
 function renderPlayer(p){
   if(p.platform==='facebook'){
     if(p.embed_url){const Q=String.fromCharCode(34);return '<div class='+Q+'fb-embed-shell'+Q+'>'+'<iframe src='+Q+esc(p.embed_url)+Q+' style='+Q+'height:'+(Math.max(700,Number(p.embed_height)))+'px'+Q+' scrolling='+Q+'no'+Q+' allowfullscreen='+Q+'true'+Q+' allow='+Q+'autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share'+Q+' title='+Q+'Bai viet Facebook'+Q+'>'+'</iframe></div>'+Q+';'}
