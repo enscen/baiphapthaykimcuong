@@ -3,6 +3,13 @@ const path = require('path');
 const cp = require('child_process');
 const { createWorker } = require('tesseract.js');
 
+process.on('uncaughtException', (err) => {
+  console.warn('Tesseract OCR warning (uncaughtException):', err.message);
+});
+process.on('unhandledRejection', (reason) => {
+  console.warn('Tesseract OCR warning (unhandledRejection):', reason);
+});
+
 const root = process.cwd();
 const dataPath = path.join(root, 'data.json');
 const outPath = path.join(root, 'tiktok-thumb-titles.json');

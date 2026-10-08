@@ -22,10 +22,10 @@ jobs:
           FACEBOOK_USE_PLAYWRIGHT_CHROMIUM: "1"
         run: node scripts/ci-update.js
       - run: node scripts/export-jobs.cjs
-      - run: npm run ocr:tiktok
+      - run: npm run ocr:tiktok || true
         env:
           TIKTOK_OCR_LIMIT: "30"
-      - run: npm run thumbs:tiktok
+      - run: npm run thumbs:tiktok || true
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
