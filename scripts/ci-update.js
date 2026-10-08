@@ -32,8 +32,17 @@ async function run() {
   ]);
   for (const result of [...facebookResults, ...otherResults]) {
     if (!result) continue;
-    await upsertJobsFromItems(result.items);
-    console.log(`Scanned ${result.source.account}: ${result.items.length} items`);
+    let items = result.items;
+    if (result.source.account.includes("ditimchannga")) {
+      items = items.filter((it) => {
+        const text = `${it.title || ''} ${it.caption_or_text || ''} ${it.original_text || ''}`.toLowerCase();
+        const challenges = (it.raw?.challenges || []).map((c) => String(c.title || "").toLowerCase());
+        const textExtra = (it.raw?.textExtra || []).map((t) => String(t.hashtagName || "").toLowerCase());
+        return /#thaykimcuong\b/i.test(text) || challenges.includes("thaykimcuong") || textExtra.includes("thaykimcuong");
+      });
+    }
+    await upsertJobsFromItems(items);
+    console.log(`Scanned ${result.source.account}: ${items.length} items`);
   }
 }
 

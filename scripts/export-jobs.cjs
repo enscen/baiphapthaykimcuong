@@ -21,6 +21,14 @@ function publishedAt(job, source) {
 
 const seenFacebookText = new Set();
 function keepPost(post) {
+  if (post.platform === 'tiktok' && String(post.source_account || '').includes('ditimchannga')) {
+    const text = `${post.title || ''} ${post.caption_or_text || ''} ${post.original_text || ''}`.toLowerCase();
+    const raw = post.source?.raw || {};
+    const challenges = (raw.challenges || []).map((c) => String(c.title || '').toLowerCase());
+    const textExtra = (raw.textExtra || []).map((t) => String(t.hashtagName || '').toLowerCase());
+    const hasTag = /#thaykimcuong\b/i.test(text) || challenges.includes('thaykimcuong') || textExtra.includes('thaykimcuong');
+    if (!hasTag) return false;
+  }
   if (post.platform !== 'facebook') return true;
   const raw = String(post.original_text || post.caption_or_text || post.title || '').normalize('NFC');
   const text = raw.replace(/\s+/g, ' ').trim();
