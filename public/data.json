@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:24:16.472Z",
+  "generated_at": "2026-10-14T14:56:22.602Z",
   "count": 3179,
   "posts": [
     {
@@ -17,11 +17,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=DnDRPGXyYG0"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLClIngvJuAHtgZNGD17ENgAjTuSdQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCCxKk7RFzCdNQ1q8OYGvsgtJvIg",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -34,18 +34,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=DnDRPGXyYG0"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLClIngvJuAHtgZNGD17ENgAjTuSdQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCCxKk7RFzCdNQ1q8OYGvsgtJvIg",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Tập 29) - Ý NIỆM TRONG PHẬT GIÁO - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDwJNT09qLyEMZpMHYXdnjmXngHlw",
+              "url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDlaakgcePfEo2R77UxyYVruluPLw",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLClIngvJuAHtgZNGD17ENgAjTuSdQ",
+              "url": "https://i.ytimg.com/vi/DnDRPGXyYG0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCCxKk7RFzCdNQ1q8OYGvsgtJvIg",
               "height": 404,
               "width": 720
             }
@@ -82,7 +82,7 @@
           "playlist_index": 1,
           "__last_playlist_index": 55,
           "playlist_autonumber": 1,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "15:18",
           "release_year": null,
           "_version": {
@@ -109,11 +109,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=AQGSnKBf_30"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBXg1UA2R4BM6ZprO-fosnhLXdzEg",
+      "thumbnail_url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC-6MLSg_nR2lSj6kr87DKnMeyO_w",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -126,18 +126,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=AQGSnKBf_30"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBXg1UA2R4BM6ZprO-fosnhLXdzEg",
+        "thumbnail_url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC-6MLSg_nR2lSj6kr87DKnMeyO_w",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Trailer Tập 29) - Ý NIỆM TRONG PHẬT GIÁO - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBo8BBna0_HLPS0TlrZFqMomFiVog",
+              "url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDmSwSo-E8daRu3TAXvoPyMtPeG2w",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBXg1UA2R4BM6ZprO-fosnhLXdzEg",
+              "url": "https://i.ytimg.com/vi/AQGSnKBf_30/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC-6MLSg_nR2lSj6kr87DKnMeyO_w",
               "height": 404,
               "width": 720
             }
@@ -174,7 +174,7 @@
           "playlist_index": 2,
           "__last_playlist_index": 55,
           "playlist_autonumber": 2,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "46",
           "release_year": null,
           "_version": {
@@ -201,11 +201,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=wrov5YLLcAo"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA80K1PguVl_f5aBjOR29B5uKqcrg",
+      "thumbnail_url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB4kzdcE_93lSk4szVvfRxiO_u4MQ",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -218,18 +218,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=wrov5YLLcAo"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA80K1PguVl_f5aBjOR29B5uKqcrg",
+        "thumbnail_url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB4kzdcE_93lSk4szVvfRxiO_u4MQ",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Tập 28) - TỰ DO TỰ TẠI - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAjMtDpvl8eBXyLMrDroZoBT8yNUQ",
+              "url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLClQi6aDTSqoD3ihXaFJQ5EzJ43kQ",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA80K1PguVl_f5aBjOR29B5uKqcrg",
+              "url": "https://i.ytimg.com/vi/wrov5YLLcAo/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB4kzdcE_93lSk4szVvfRxiO_u4MQ",
               "height": 404,
               "width": 720
             }
@@ -266,7 +266,7 @@
           "playlist_index": 3,
           "__last_playlist_index": 55,
           "playlist_autonumber": 3,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "11:06",
           "release_year": null,
           "_version": {
@@ -293,11 +293,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=tsRKNCdS2sc"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBqkcxr_ktSoRuimJqlfyCuq7D1aA",
+      "thumbnail_url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCpWAOa4kmJURvTonteLyII2dEztA",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -310,18 +310,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=tsRKNCdS2sc"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBqkcxr_ktSoRuimJqlfyCuq7D1aA",
+        "thumbnail_url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCpWAOa4kmJURvTonteLyII2dEztA",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Trailer Tập 28) - TỰ DO TỰ TẠI - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLChCqW9X-H4jgFJsSCg3sVVGRRe8g",
+              "url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCEAXsjVwz_Nq63nvGWtw0nAGrZuA",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBqkcxr_ktSoRuimJqlfyCuq7D1aA",
+              "url": "https://i.ytimg.com/vi/tsRKNCdS2sc/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCpWAOa4kmJURvTonteLyII2dEztA",
               "height": 404,
               "width": 720
             }
@@ -358,7 +358,7 @@
           "playlist_index": 4,
           "__last_playlist_index": 55,
           "playlist_autonumber": 4,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "46",
           "release_year": null,
           "_version": {
@@ -385,11 +385,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=m5DKwfunUtE"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCGKUOITLsPzCMwErq8fslYYqdGKw",
+      "thumbnail_url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDL2t1oUrKzIbwY8ctT0q3d935pGg",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -402,18 +402,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=m5DKwfunUtE"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCGKUOITLsPzCMwErq8fslYYqdGKw",
+        "thumbnail_url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDL2t1oUrKzIbwY8ctT0q3d935pGg",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Tập 27) - TIẾT KIỆM PHƯỚC BÁU - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDRBDURxT4j6dsrHgFgoAbXV9aPwg",
+              "url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC1Cwxxmf_B5qFpStaMUzpZEk-1tg",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCGKUOITLsPzCMwErq8fslYYqdGKw",
+              "url": "https://i.ytimg.com/vi/m5DKwfunUtE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDL2t1oUrKzIbwY8ctT0q3d935pGg",
               "height": 404,
               "width": 720
             }
@@ -450,7 +450,7 @@
           "playlist_index": 5,
           "__last_playlist_index": 55,
           "playlist_autonumber": 5,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "15:45",
           "release_year": null,
           "_version": {
@@ -477,11 +477,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=JgfF-EED5uE"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAfXjhUZVaubV2NxJNkjiIJ0lSXAw",
+      "thumbnail_url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDsBqWfJBDcIAY_8IjXIVK1BlFLKw",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -494,18 +494,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=JgfF-EED5uE"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAfXjhUZVaubV2NxJNkjiIJ0lSXAw",
+        "thumbnail_url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDsBqWfJBDcIAY_8IjXIVK1BlFLKw",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Trailer Tập 27) - TIẾT KIỆM PHƯỚC BÁU - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDQwsgUu5dF2dvA63iQtJM4ArxD1w",
+              "url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDnVo0ix6B0WbxKv9Np8t_21DwxOg",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAfXjhUZVaubV2NxJNkjiIJ0lSXAw",
+              "url": "https://i.ytimg.com/vi/JgfF-EED5uE/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDsBqWfJBDcIAY_8IjXIVK1BlFLKw",
               "height": 404,
               "width": 720
             }
@@ -542,7 +542,7 @@
           "playlist_index": 6,
           "__last_playlist_index": 55,
           "playlist_autonumber": 6,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "49",
           "release_year": null,
           "_version": {
@@ -569,11 +569,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=QK2eY-FB5lQ"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB9IwVYNKyKdK2htV_WxlV4M3hhmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAG5HQHobjA8433T_Mp6p78WxE1vQ",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -586,18 +586,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=QK2eY-FB5lQ"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB9IwVYNKyKdK2htV_WxlV4M3hhmQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAG5HQHobjA8433T_Mp6p78WxE1vQ",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Tập 26) - Ý NGHĨA CỦA VIỆC SÁM HỐI - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDJzZS9hWlAuEJcxlmGUqAACDyNKg",
+              "url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCE5vALwi8mf1iMd-185RmotIxW7g",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB9IwVYNKyKdK2htV_WxlV4M3hhmQ",
+              "url": "https://i.ytimg.com/vi/QK2eY-FB5lQ/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAG5HQHobjA8433T_Mp6p78WxE1vQ",
               "height": 404,
               "width": 720
             }
@@ -634,7 +634,7 @@
           "playlist_index": 7,
           "__last_playlist_index": 55,
           "playlist_autonumber": 7,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "14:50",
           "release_year": null,
           "_version": {
@@ -661,11 +661,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=dQuizJt0rO0"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDiDABCAJEnIrWOrZFtD_ZFTbqFAA",
+      "thumbnail_url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDP1r8S6MabImElzbOcJLp46GyycQ",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -678,18 +678,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=dQuizJt0rO0"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDiDABCAJEnIrWOrZFtD_ZFTbqFAA",
+        "thumbnail_url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDP1r8S6MabImElzbOcJLp46GyycQ",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Trailer Tập 26) - Ý NGHĨA CỦA VIỆC SÁM HỐI - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAGM3OboJ2RIsAmDApArqLJgE8e9g",
+              "url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAzMzP5wVb-dGj9lONtxi-xPBkbjQ",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLDiDABCAJEnIrWOrZFtD_ZFTbqFAA",
+              "url": "https://i.ytimg.com/vi/dQuizJt0rO0/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDP1r8S6MabImElzbOcJLp46GyycQ",
               "height": 404,
               "width": 720
             }
@@ -726,7 +726,7 @@
           "playlist_index": 8,
           "__last_playlist_index": 55,
           "playlist_autonumber": 8,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "42",
           "release_year": null,
           "_version": {
@@ -746,42 +746,42 @@
       "source_item_id": "_EDx2p7zC2Q",
       "source_url": "https://www.youtube.com/watch?v=_EDx2p7zC2Q",
       "published_at": "",
-      "title": "Talkshow THỨC TỈNH TÂM HỒN (Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương",
-      "caption_or_text": "Talkshow THỨC TỈNH TÂM HỒN (Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương",
+      "title": "Talkshow SOUL AWAKENING (Episode 25) - THE TRIPITAKA - Master Kim Cuong",
+      "caption_or_text": "Talkshow SOUL AWAKENING (Episode 25) - THE TRIPITAKA - Master Kim Cuong",
       "original_text": "Talkshow THỨC TỈNH TÂM HỒN (Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương\n---------------------\nThân gửi Quý Đại Chúng đôi chút Tuệ Quang để Quý Đại Chúng có thêm góc nhìn về nhân sinh quan quanh ta. Rất mong đôi chút Tuệ Quang tôi gửi tới Quý Đại Chúng có thể giúp ích Quý Đại Chúng có thể soi sáng được những góc tối trong chính bản thân mình. Tôi ở đây dù ở hình tướng nào, năng lượng nào thì cũng với một mục đích cao nhất là giúp Quý Đại Chúng soi sáng được lòng mình và bước chân mình đi trên cõi trần này một lối Quang Minh Tuệ Sáng Duyên Hồng. \nKính Yêu Quý Đại Chúng \nMaster Kim Cương\n---------------------------------\n#MasterKimCương #KimCươngPháp #ThầyKimCương",
       "media_type": "video",
       "media_urls": [
         "https://www.youtube.com/watch?v=_EDx2p7zC2Q"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAX262JRFA-ICdLWOqaUtrqVAevhQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDto2m0-KhZgtxoa8tscFqFtipp9w",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
         "source_item_id": "_EDx2p7zC2Q",
         "source_url": "https://www.youtube.com/watch?v=_EDx2p7zC2Q",
-        "title": "Talkshow THỨC TỈNH TÂM HỒN (Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương",
-        "caption_or_text": "Talkshow THỨC TỈNH TÂM HỒN (Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương",
-        "original_text": "Talkshow THỨC TỈNH TÂM HỒN (Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương",
+        "title": "Talkshow SOUL AWAKENING (Episode 25) - THE TRIPITAKA - Master Kim Cuong",
+        "caption_or_text": "Talkshow SOUL AWAKENING (Episode 25) - THE TRIPITAKA - Master Kim Cuong",
+        "original_text": "Talkshow SOUL AWAKENING (Episode 25) - THE TRIPITAKA - Master Kim Cuong",
         "media_type": "video",
         "media_urls": [
           "https://www.youtube.com/watch?v=_EDx2p7zC2Q"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAX262JRFA-ICdLWOqaUtrqVAevhQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDto2m0-KhZgtxoa8tscFqFtipp9w",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
-          "title": "Talkshow THỨC TỈNH TÂM HỒN (Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương",
+          "title": "Talkshow SOUL AWAKENING (Episode 25) - THE TRIPITAKA - Master Kim Cuong",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAx_rhWBVrhBSJCiDkuRJ9kzBB7sg",
+              "url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBHESCfFGwtuYgTdm1XX6qShKcIcQ",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAX262JRFA-ICdLWOqaUtrqVAevhQ",
+              "url": "https://i.ytimg.com/vi/_EDx2p7zC2Q/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDto2m0-KhZgtxoa8tscFqFtipp9w",
               "height": 404,
               "width": 720
             }
@@ -818,7 +818,7 @@
           "playlist_index": 9,
           "__last_playlist_index": 55,
           "playlist_autonumber": 9,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "13:59",
           "release_year": null,
           "_version": {
@@ -845,11 +845,11 @@
       "media_urls": [
         "https://www.youtube.com/watch?v=NEla5lI4kTk"
       ],
-      "thumbnail_url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCjGb3atpDVEFKqM8dE94200e9k2g",
+      "thumbnail_url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCT-a411xeiFWTvtQEm_pKEMFU9A",
       "author_name": "https://www.youtube.com/@KimCuongMaster",
       "category": "",
       "created_at": "2026-06-15T06:34:28.886Z",
-      "updated_at": "2026-10-14T14:24:15.903Z",
+      "updated_at": "2026-10-14T14:56:21.976Z",
       "source": {
         "source_platform": "youtube",
         "source_account": "https://www.youtube.com/@KimCuongMaster",
@@ -862,18 +862,18 @@
         "media_urls": [
           "https://www.youtube.com/watch?v=NEla5lI4kTk"
         ],
-        "thumbnail_url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCjGb3atpDVEFKqM8dE94200e9k2g",
+        "thumbnail_url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCT-a411xeiFWTvtQEm_pKEMFU9A",
         "author_name": "https://www.youtube.com/@KimCuongMaster",
         "raw": {
           "title": "Talkshow THỨC TỈNH TÂM HỒN (Trailer Tập 25) - TAM TẠNG KINH ĐIỂN - Master Kim Cương",
           "thumbnails": [
             {
-              "url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLATdS5ESncyx5ddKg7hBLulf6O8mw",
+              "url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCOgCEMoBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAoTLv0xMc9ekVo2wjKW4juefs17w",
               "height": 202,
               "width": 360
             },
             {
-              "url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCjGb3atpDVEFKqM8dE94200e9k2g",
+              "url": "https://i.ytimg.com/vi/NEla5lI4kTk/hq720.jpg?sqp=-oaymwEgCNAFEJQDSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCCT-a411xeiFWTvtQEm_pKEMFU9A",
               "height": 404,
               "width": 720
             }
@@ -910,7 +910,7 @@
           "playlist_index": 10,
           "__last_playlist_index": 55,
           "playlist_autonumber": 10,
-          "epoch": 1791987637,
+          "epoch": 1791989568,
           "duration_string": "1:00",
           "release_year": null,
           "_version": {
@@ -919,170 +919,6 @@
             "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
             "repository": "yt-dlp/yt-dlp"
           }
-        }
-      }
-    },
-    {
-      "id": "facebook:717118960988349",
-      "status": "draft",
-      "platform": "facebook",
-      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "source_item_id": "717118960988349",
-      "source_url": "https://www.facebook.com/reel/717118960988349/",
-      "published_at": "",
-      "title": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ",
-      "caption_or_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "original_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.facebook.com/reel/717118960988349/"
-      ],
-      "thumbnail_url": "https://scontent-qro1-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=CvI8wdkFCLAQ7kNvwH58QrD&_nc_oc=AdoUiHwFOtn4VBvHSrQlnrrGxbiOa6Opu48sbfrgokg9-f2N-cQyNJQ63IAFUgjbJjY&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQObC-VxYxCiH8DFZ0fU98PRW2LJJdWfiuQAgLJc_sJlKg&oe=6AD570FE",
-      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "category": "",
-      "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.203Z",
-      "source": {
-        "source_platform": "facebook",
-        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "source_item_id": "717118960988349",
-        "source_url": "https://www.facebook.com/reel/717118960988349/",
-        "title": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ",
-        "caption_or_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "original_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.facebook.com/reel/717118960988349/"
-        ],
-        "thumbnail_url": "https://scontent-qro1-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=CvI8wdkFCLAQ7kNvwH58QrD&_nc_oc=AdoUiHwFOtn4VBvHSrQlnrrGxbiOa6Opu48sbfrgokg9-f2N-cQyNJQ63IAFUgjbJjY&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQObC-VxYxCiH8DFZ0fU98PRW2LJJdWfiuQAgLJc_sJlKg&oe=6AD570FE",
-        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "raw": {
-          "url": "https://www.facebook.com/reel/717118960988349/",
-          "img": "https://scontent-qro1-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=CvI8wdkFCLAQ7kNvwH58QrD&_nc_oc=AdoUiHwFOtn4VBvHSrQlnrrGxbiOa6Opu48sbfrgokg9-f2N-cQyNJQ63IAFUgjbJjY&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQObC-VxYxCiH8DFZ0fU98PRW2LJJdWfiuQAgLJc_sJlKg&oe=6AD570FE",
-          "text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
-        }
-      }
-    },
-    {
-      "id": "facebook:1538230574089923",
-      "status": "draft",
-      "platform": "facebook",
-      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "source_item_id": "1538230574089923",
-      "source_url": "https://www.facebook.com/reel/1538230574089923/",
-      "published_at": "",
-      "title": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?",
-      "caption_or_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "original_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️\nVũ Kim Cương · Âm thanh gốc\nVũ Kim Cương · Âm thanh gốc\nVũ Kim Cương · Âm thanh gốc",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.facebook.com/reel/1538230574089923/"
-      ],
-      "thumbnail_url": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_LZH9jqFGJ0Q7kNvwGY4w10&_nc_oc=Adq_FIgkGMC6GmkrPo_tQo3_RPR9fFRB8h0CTd6v0vq40u-yJN511b7w3yQg9aGeRNc&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOnMyv6DnyW4w4g8sO4L-D4cvdfTuyg_LjT3sptoujjlA&oe=6AD5512D",
-      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "category": "",
-      "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.203Z",
-      "source": {
-        "source_platform": "facebook",
-        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "source_item_id": "1538230574089923",
-        "source_url": "https://www.facebook.com/reel/1538230574089923/",
-        "title": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?",
-        "caption_or_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "original_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.facebook.com/reel/1538230574089923/"
-        ],
-        "thumbnail_url": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_LZH9jqFGJ0Q7kNvwGY4w10&_nc_oc=Adq_FIgkGMC6GmkrPo_tQo3_RPR9fFRB8h0CTd6v0vq40u-yJN511b7w3yQg9aGeRNc&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOnMyv6DnyW4w4g8sO4L-D4cvdfTuyg_LjT3sptoujjlA&oe=6AD5512D",
-        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "raw": {
-          "url": "https://www.facebook.com/reel/1538230574089923/",
-          "img": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_LZH9jqFGJ0Q7kNvwGY4w10&_nc_oc=Adq_FIgkGMC6GmkrPo_tQo3_RPR9fFRB8h0CTd6v0vq40u-yJN511b7w3yQg9aGeRNc&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOnMyv6DnyW4w4g8sO4L-D4cvdfTuyg_LjT3sptoujjlA&oe=6AD5512D",
-          "text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
-        }
-      }
-    },
-    {
-      "id": "facebook:853573487137719",
-      "status": "draft",
-      "platform": "facebook",
-      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "source_item_id": "853573487137719",
-      "source_url": "https://www.facebook.com/reel/853573487137719/",
-      "published_at": "",
-      "title": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY",
-      "caption_or_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
-      "original_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.facebook.com/reel/853573487137719/"
-      ],
-      "thumbnail_url": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=iFjOYTQOiJcQ7kNvwG5Ln9P&_nc_oc=AdoOiHVQ_MUkeZwB2xH0s4ru17yDcmtMWnZldXbYAdSBrLWkoaseyKphWnkm8x8T12U&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQPPW7l5du-on9CNWR77o96BbwHKV-mqpIMTCMNLTsRNTg&oe=6AD55208",
-      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "category": "",
-      "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.203Z",
-      "source": {
-        "source_platform": "facebook",
-        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "source_item_id": "853573487137719",
-        "source_url": "https://www.facebook.com/reel/853573487137719/",
-        "title": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY",
-        "caption_or_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
-        "original_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.facebook.com/reel/853573487137719/"
-        ],
-        "thumbnail_url": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=iFjOYTQOiJcQ7kNvwG5Ln9P&_nc_oc=AdoOiHVQ_MUkeZwB2xH0s4ru17yDcmtMWnZldXbYAdSBrLWkoaseyKphWnkm8x8T12U&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQPPW7l5du-on9CNWR77o96BbwHKV-mqpIMTCMNLTsRNTg&oe=6AD55208",
-        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "raw": {
-          "url": "https://www.facebook.com/reel/853573487137719/",
-          "img": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=iFjOYTQOiJcQ7kNvwG5Ln9P&_nc_oc=AdoOiHVQ_MUkeZwB2xH0s4ru17yDcmtMWnZldXbYAdSBrLWkoaseyKphWnkm8x8T12U&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQPPW7l5du-on9CNWR77o96BbwHKV-mqpIMTCMNLTsRNTg&oe=6AD55208",
-          "text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)"
-        }
-      }
-    },
-    {
-      "id": "facebook:1879177862624458",
-      "status": "draft",
-      "platform": "facebook",
-      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "source_item_id": "1879177862624458",
-      "source_url": "https://www.facebook.com/reel/1879177862624458/",
-      "published_at": "",
-      "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
-      "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.facebook.com/reel/1879177862624458/"
-      ],
-      "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yLUyI6tDXvsQ7kNvwEl31T-&_nc_oc=AdpIjJGsUGJ7I9WKi7HX8GvVVgZviMwg4yU1T1VhuvTpTSmzV_U54VPhtHFg82L-dVY&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQNca0rb3Qkla8lmm7C62CF85Sn4Gp8ZiaOEnj71M6_sfw&oe=6AD57E21",
-      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "category": "",
-      "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.203Z",
-      "source": {
-        "source_platform": "facebook",
-        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "source_item_id": "1879177862624458",
-        "source_url": "https://www.facebook.com/reel/1879177862624458/",
-        "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
-        "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.facebook.com/reel/1879177862624458/"
-        ],
-        "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yLUyI6tDXvsQ7kNvwEl31T-&_nc_oc=AdpIjJGsUGJ7I9WKi7HX8GvVVgZviMwg4yU1T1VhuvTpTSmzV_U54VPhtHFg82L-dVY&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQNca0rb3Qkla8lmm7C62CF85Sn4Gp8ZiaOEnj71M6_sfw&oe=6AD57E21",
-        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "raw": {
-          "url": "https://www.facebook.com/reel/1879177862624458/",
-          "img": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yLUyI6tDXvsQ7kNvwEl31T-&_nc_oc=AdpIjJGsUGJ7I9WKi7HX8GvVVgZviMwg4yU1T1VhuvTpTSmzV_U54VPhtHFg82L-dVY&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQNca0rb3Qkla8lmm7C62CF85Sn4Gp8ZiaOEnj71M6_sfw&oe=6AD57E21",
-          "text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
     },
@@ -1101,11 +937,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/2696859860692317/"
       ],
-      "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=9UXlAcYCrKIQ7kNvwHYGzSK&_nc_oc=AdpauU1hveItelo9gPL5PSxYCL6V4vh42pXf3fYGXg0BXEN62Nvd3_j7xQGSNTGMaew&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQMq-GakGdDZWqUvqItv_0_h7aeWZu6ow9m7oQYNDM58_g&oe=6AD575E0",
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=9UXlAcYCrKIQ7kNvwF2rZel&_nc_oc=AdqlmDzRZny7yOVJe_zfl51G2ZN57R6kM-TONnat3K2m0-tq3IcjqbYxlOXnKODJ2AU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQO0_9P_CiRfcIl2BH5JiYjPvPhrYm8PAocNpkzD_NHH_g&oe=6AD575E0",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.202Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -1118,11 +954,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/2696859860692317/"
         ],
-        "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=9UXlAcYCrKIQ7kNvwHYGzSK&_nc_oc=AdpauU1hveItelo9gPL5PSxYCL6V4vh42pXf3fYGXg0BXEN62Nvd3_j7xQGSNTGMaew&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQMq-GakGdDZWqUvqItv_0_h7aeWZu6ow9m7oQYNDM58_g&oe=6AD575E0",
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=9UXlAcYCrKIQ7kNvwF2rZel&_nc_oc=AdqlmDzRZny7yOVJe_zfl51G2ZN57R6kM-TONnat3K2m0-tq3IcjqbYxlOXnKODJ2AU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQO0_9P_CiRfcIl2BH5JiYjPvPhrYm8PAocNpkzD_NHH_g&oe=6AD575E0",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/2696859860692317/",
-          "img": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=9UXlAcYCrKIQ7kNvwHYGzSK&_nc_oc=AdpauU1hveItelo9gPL5PSxYCL6V4vh42pXf3fYGXg0BXEN62Nvd3_j7xQGSNTGMaew&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQMq-GakGdDZWqUvqItv_0_h7aeWZu6ow9m7oQYNDM58_g&oe=6AD575E0",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=9UXlAcYCrKIQ7kNvwF2rZel&_nc_oc=AdqlmDzRZny7yOVJe_zfl51G2ZN57R6kM-TONnat3K2m0-tq3IcjqbYxlOXnKODJ2AU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQO0_9P_CiRfcIl2BH5JiYjPvPhrYm8PAocNpkzD_NHH_g&oe=6AD575E0",
           "text": "THẦN CHÚ ĐỨC PHẬT VĂN THÙ SƯ LỢI\nPHONG CÁCH ROCK nặng\nOM AH RA PASA NA DHI\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nCủa ĐỨC PHẬT VĂN THÙ SƯ LỢI\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nVà nguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -1142,11 +978,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1389269832609409/"
       ],
-      "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=lw4LcsulGpYQ7kNvwFuwPcE&_nc_oc=AdpNiNSvc9ZQjFZHvCTO_1XS2S_ZOhuLDMNBhNiOLFJkPvZ7YW3x7Cftrz-Syo7BRbA&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQP2vNish9ftzhVWY-AxxBS6IbnmulJ_GmK8gx7D2Y1ASw&oe=6AD56366",
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=lw4LcsulGpYQ7kNvwEOfTn-&_nc_oc=AdpOarlrlHaqWres4idt6NgXvJNAW_m4QtZgfthObt5aeFFXbBH8dNfc4BclxB2y0QQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNFGZvKCL43aUgJbmo6_3cejWbnz510_fFRgftk4wp0NA&oe=6AD56366",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.202Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -1159,11 +995,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1389269832609409/"
         ],
-        "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=lw4LcsulGpYQ7kNvwFuwPcE&_nc_oc=AdpNiNSvc9ZQjFZHvCTO_1XS2S_ZOhuLDMNBhNiOLFJkPvZ7YW3x7Cftrz-Syo7BRbA&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQP2vNish9ftzhVWY-AxxBS6IbnmulJ_GmK8gx7D2Y1ASw&oe=6AD56366",
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=lw4LcsulGpYQ7kNvwEOfTn-&_nc_oc=AdpOarlrlHaqWres4idt6NgXvJNAW_m4QtZgfthObt5aeFFXbBH8dNfc4BclxB2y0QQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNFGZvKCL43aUgJbmo6_3cejWbnz510_fFRgftk4wp0NA&oe=6AD56366",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1389269832609409/",
-          "img": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=lw4LcsulGpYQ7kNvwFuwPcE&_nc_oc=AdpNiNSvc9ZQjFZHvCTO_1XS2S_ZOhuLDMNBhNiOLFJkPvZ7YW3x7Cftrz-Syo7BRbA&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQP2vNish9ftzhVWY-AxxBS6IbnmulJ_GmK8gx7D2Y1ASw&oe=6AD56366",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=lw4LcsulGpYQ7kNvwEOfTn-&_nc_oc=AdpOarlrlHaqWres4idt6NgXvJNAW_m4QtZgfthObt5aeFFXbBH8dNfc4BclxB2y0QQ&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNFGZvKCL43aUgJbmo6_3cejWbnz510_fFRgftk4wp0NA&oe=6AD56366",
           "text": "THẦN CHÚ KIM CƯƠNG TÁT ĐỎA\nTỊNH HÓA NGHIỆP\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nVà ĐỨC PHẬT KIM CƯƠNG TÁT ĐỎA\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nNguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -1183,11 +1019,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1074234051394795/"
       ],
-      "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ksZi3raOe9oQ7kNvwGw5TJi&_nc_oc=Adpw6M5sCgWuGZdV0X8Q9EFrYS1-V7XKLJrtALlFB_EgiWJV7LDTghd3gjc9OSisF1E&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQMBsrolGrFyhjgFBciQZRR2aily9o9dqmUSw9uuzDzH_g&oe=6AD57900",
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ksZi3raOe9oQ7kNvwHRDTnb&_nc_oc=Adp6RedUQSaYxwp5GwQL1IJJI5b1wJiixPseX78I_EUg75WU9r2ooZ5B9wkDCJTEYwA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQN3ob4KZc7sdDWALJJgqVTA81P7JWeFehpU_2-tfxylhA&oe=6AD57900",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.202Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -1200,11 +1036,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1074234051394795/"
         ],
-        "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ksZi3raOe9oQ7kNvwGw5TJi&_nc_oc=Adpw6M5sCgWuGZdV0X8Q9EFrYS1-V7XKLJrtALlFB_EgiWJV7LDTghd3gjc9OSisF1E&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQMBsrolGrFyhjgFBciQZRR2aily9o9dqmUSw9uuzDzH_g&oe=6AD57900",
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ksZi3raOe9oQ7kNvwHRDTnb&_nc_oc=Adp6RedUQSaYxwp5GwQL1IJJI5b1wJiixPseX78I_EUg75WU9r2ooZ5B9wkDCJTEYwA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQN3ob4KZc7sdDWALJJgqVTA81P7JWeFehpU_2-tfxylhA&oe=6AD57900",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1074234051394795/",
-          "img": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ksZi3raOe9oQ7kNvwGw5TJi&_nc_oc=Adpw6M5sCgWuGZdV0X8Q9EFrYS1-V7XKLJrtALlFB_EgiWJV7LDTghd3gjc9OSisF1E&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQMBsrolGrFyhjgFBciQZRR2aily9o9dqmUSw9uuzDzH_g&oe=6AD57900",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ksZi3raOe9oQ7kNvwHRDTnb&_nc_oc=Adp6RedUQSaYxwp5GwQL1IJJI5b1wJiixPseX78I_EUg75WU9r2ooZ5B9wkDCJTEYwA&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQN3ob4KZc7sdDWALJJgqVTA81P7JWeFehpU_2-tfxylhA&oe=6AD57900",
           "text": "THẦN CHÚ ĐẠI BI\nTIẾNG CỔ PHẠN 3 BIẾN\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nVà PHẬT THẦY QUÁN THẾ ÂM\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nNguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -1224,11 +1060,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1084500940349293/"
       ],
-      "thumbnail_url": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=KgCJYvKU87kQ7kNvwFlMHVa&_nc_oc=AdqFGmyJZQOluH9eZNaZfDZk7rpvD6TT9LTwBl7TwQvq-ndkr5A8RDXh3ryELg6ntF0&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOKCWccvFo1BbJPD8qUYEVf0HtKVNMeMW91aVcfG0D04w&oe=6AD55BB9",
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=KgCJYvKU87kQ7kNvwHF6xcr&_nc_oc=AdqhYJRoIyIroAbBoULOm5R_ZdcLPvqsGbSx8LfbsBCSkRiOKb52JBLRuh3oTbclD3U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNzDE7OiWox93yyuXd0_BLafps7nV9zfvDtKsLIGMXQFA&oe=6AD55BB9",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.202Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -1241,11 +1077,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1084500940349293/"
         ],
-        "thumbnail_url": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=KgCJYvKU87kQ7kNvwFlMHVa&_nc_oc=AdqFGmyJZQOluH9eZNaZfDZk7rpvD6TT9LTwBl7TwQvq-ndkr5A8RDXh3ryELg6ntF0&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOKCWccvFo1BbJPD8qUYEVf0HtKVNMeMW91aVcfG0D04w&oe=6AD55BB9",
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=KgCJYvKU87kQ7kNvwHF6xcr&_nc_oc=AdqhYJRoIyIroAbBoULOm5R_ZdcLPvqsGbSx8LfbsBCSkRiOKb52JBLRuh3oTbclD3U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNzDE7OiWox93yyuXd0_BLafps7nV9zfvDtKsLIGMXQFA&oe=6AD55BB9",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1084500940349293/",
-          "img": "https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=KgCJYvKU87kQ7kNvwFlMHVa&_nc_oc=AdqFGmyJZQOluH9eZNaZfDZk7rpvD6TT9LTwBl7TwQvq-ndkr5A8RDXh3ryELg6ntF0&_nc_zt=23&_nc_ht=scontent-qro1-2.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOKCWccvFo1BbJPD8qUYEVf0HtKVNMeMW91aVcfG0D04w&oe=6AD55BB9",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=KgCJYvKU87kQ7kNvwHF6xcr&_nc_oc=AdqhYJRoIyIroAbBoULOm5R_ZdcLPvqsGbSx8LfbsBCSkRiOKb52JBLRuh3oTbclD3U&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNzDE7OiWox93yyuXd0_BLafps7nV9zfvDtKsLIGMXQFA&oe=6AD55BB9",
           "text": "THẦN CHÚ THỦ LĂNG NGHIÊM\nTIẾNG CỔ PHẠN 458 CÂU\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nVà nguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -1265,11 +1101,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1549744096153314/"
       ],
-      "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uYKMMgs38xgQ7kNvwHL4rVT&_nc_oc=AdqijafOhy9B6BsimULzaN_xGIeypHJIBEVYXutzYyDRmskvi24KT6Ocb33VeKssOMM&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOU_5rQ3zSkIoPiwjnwPW7Wayf12wz8_f83D4n8Hu5emw&oe=6AD56EDF",
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uYKMMgs38xgQ7kNvwHX_l9Z&_nc_oc=Adqy_AEIfwOWkdBVyUw12WaAm-k2ixWOu9wkjVc28GecgTsKtKp02-Om8SyltDaIuUc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPXyVMFpPX0S1WoKrFGQWqnwiAtMyaViCcPl3MUchVvTQ&oe=6AD56EDF",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.202Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -1282,11 +1118,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1549744096153314/"
         ],
-        "thumbnail_url": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uYKMMgs38xgQ7kNvwHL4rVT&_nc_oc=AdqijafOhy9B6BsimULzaN_xGIeypHJIBEVYXutzYyDRmskvi24KT6Ocb33VeKssOMM&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOU_5rQ3zSkIoPiwjnwPW7Wayf12wz8_f83D4n8Hu5emw&oe=6AD56EDF",
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uYKMMgs38xgQ7kNvwHX_l9Z&_nc_oc=Adqy_AEIfwOWkdBVyUw12WaAm-k2ixWOu9wkjVc28GecgTsKtKp02-Om8SyltDaIuUc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPXyVMFpPX0S1WoKrFGQWqnwiAtMyaViCcPl3MUchVvTQ&oe=6AD56EDF",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1549744096153314/",
-          "img": "https://scontent-qro3-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uYKMMgs38xgQ7kNvwHL4rVT&_nc_oc=AdqijafOhy9B6BsimULzaN_xGIeypHJIBEVYXutzYyDRmskvi24KT6Ocb33VeKssOMM&_nc_zt=23&_nc_ht=scontent-qro3-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQOU_5rQ3zSkIoPiwjnwPW7Wayf12wz8_f83D4n8Hu5emw&oe=6AD56EDF",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=uYKMMgs38xgQ7kNvwHX_l9Z&_nc_oc=Adqy_AEIfwOWkdBVyUw12WaAm-k2ixWOu9wkjVc28GecgTsKtKp02-Om8SyltDaIuUc&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPXyVMFpPX0S1WoKrFGQWqnwiAtMyaViCcPl3MUchVvTQ&oe=6AD56EDF",
           "text": "NGÀY RẰM LẠI ĐẾN RỒI ĐẤY CÁC CON 🤗🤗🤗\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTA NIỆM THẦN CHÚ CỦA ĐỨC PHẬT LIÊN HOA SANH\nNương vào oai lực ĐẠI BI, ĐẠI TRÍ, ĐẠI DỤNG, ĐẠI NGUYỆN của NGÀI\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN TẤT CẢ CHÚNG SANH sớm trọn thành PHẬT ĐẠO\n❤️NGUYỆN CÁC CON ĐƯỢC MẠNH KHỎE, TINH TẤN trên con đường TU ĐẠO GIẢI THOÁT, lợi ích CHÚNG SANH\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎"
         }
       }
@@ -1306,11 +1142,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/721404403862668/"
       ],
-      "thumbnail_url": "https://scontent-qro1-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=7NztranSZk0Q7kNvwGKnSng&_nc_oc=AdrBe5TB9omlVAp82tz9qjmB3E8PMz3sERxY_bINKMHSNDT2ToEOzIEeq2nrjfS_acI&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQPkYM9iWKa0WV82Jw3yeZ02CaP9mIFZs8ZPD3jMkLzvBw&oe=6AD5639E",
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=7NztranSZk0Q7kNvwGkJqS5&_nc_oc=AdobLXoAC9fKjqaFIb6nwi3FXW1cVR3Uon0fdklgdOyNgNp0ZKphaP5GA9VngWeOkqk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNS2Tc8vuhOM76HLMu9P2_FqP9E_VYxOFLgYgJuS89k2Q&oe=6AD5639E",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-14T14:24:13.202Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -1323,12 +1159,176 @@
         "media_urls": [
           "https://www.facebook.com/reel/721404403862668/"
         ],
-        "thumbnail_url": "https://scontent-qro1-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=7NztranSZk0Q7kNvwGKnSng&_nc_oc=AdrBe5TB9omlVAp82tz9qjmB3E8PMz3sERxY_bINKMHSNDT2ToEOzIEeq2nrjfS_acI&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQPkYM9iWKa0WV82Jw3yeZ02CaP9mIFZs8ZPD3jMkLzvBw&oe=6AD5639E",
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=7NztranSZk0Q7kNvwGkJqS5&_nc_oc=AdobLXoAC9fKjqaFIb6nwi3FXW1cVR3Uon0fdklgdOyNgNp0ZKphaP5GA9VngWeOkqk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNS2Tc8vuhOM76HLMu9P2_FqP9E_VYxOFLgYgJuS89k2Q&oe=6AD5639E",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/721404403862668/",
-          "img": "https://scontent-qro1-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=7NztranSZk0Q7kNvwGKnSng&_nc_oc=AdrBe5TB9omlVAp82tz9qjmB3E8PMz3sERxY_bINKMHSNDT2ToEOzIEeq2nrjfS_acI&_nc_zt=23&_nc_ht=scontent-qro1-1.xx&_nc_gid=lvVn4oYQ-ae6LxwoZcKkQw&_nc_ss=7f289&oh=00_AQPkYM9iWKa0WV82Jw3yeZ02CaP9mIFZs8ZPD3jMkLzvBw&oe=6AD5639E",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=7NztranSZk0Q7kNvwGkJqS5&_nc_oc=AdobLXoAC9fKjqaFIb6nwi3FXW1cVR3Uon0fdklgdOyNgNp0ZKphaP5GA9VngWeOkqk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQNS2Tc8vuhOM76HLMu9P2_FqP9E_VYxOFLgYgJuS89k2Q&oe=6AD5639E",
           "text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT QUÁN THẾ ÂM\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT QUÁN TỰ TẠI!\nNAMO ĐẠI BI QUÁN THẾ ÂM BỒ TÁT MAHA TÁT!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nOM MANI PADME HUM\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPHẦN NHẠC do đệ tử HẢI ĐĂNG và LỆ KHUYÊN dùng AI hỗ chợ\nĐây là TA niệm đọc thì thầm, ko phải hát\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
+        }
+      }
+    },
+    {
+      "id": "facebook:717118960988349",
+      "status": "draft",
+      "platform": "facebook",
+      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "source_item_id": "717118960988349",
+      "source_url": "https://www.facebook.com/reel/717118960988349/",
+      "published_at": "",
+      "title": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ",
+      "caption_or_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+      "original_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.facebook.com/reel/717118960988349/"
+      ],
+      "thumbnail_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=CvI8wdkFCLAQ7kNvwGIHWEm&_nc_oc=AdpM6L0l9bzPNs4Q2m6-tmicSXH2QqNkPcV1vLgd8RjCcykr8ky7oyfHauj_6mhkF5c&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQOGsf1Rci1-i5XqCw8-aHQHTBhevx1UR7BGAB0QYibdlA&oe=6AD570FE",
+      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "category": "",
+      "created_at": "2026-07-06T07:02:46.312Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
+      "source": {
+        "source_platform": "facebook",
+        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "source_item_id": "717118960988349",
+        "source_url": "https://www.facebook.com/reel/717118960988349/",
+        "title": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ",
+        "caption_or_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "original_text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.facebook.com/reel/717118960988349/"
+        ],
+        "thumbnail_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=CvI8wdkFCLAQ7kNvwGIHWEm&_nc_oc=AdpM6L0l9bzPNs4Q2m6-tmicSXH2QqNkPcV1vLgd8RjCcykr8ky7oyfHauj_6mhkF5c&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQOGsf1Rci1-i5XqCw8-aHQHTBhevx1UR7BGAB0QYibdlA&oe=6AD570FE",
+        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "raw": {
+          "url": "https://www.facebook.com/reel/717118960988349/",
+          "img": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=CvI8wdkFCLAQ7kNvwGIHWEm&_nc_oc=AdpM6L0l9bzPNs4Q2m6-tmicSXH2QqNkPcV1vLgd8RjCcykr8ky7oyfHauj_6mhkF5c&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQOGsf1Rci1-i5XqCw8-aHQHTBhevx1UR7BGAB0QYibdlA&oe=6AD570FE",
+          "text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
+        }
+      }
+    },
+    {
+      "id": "facebook:1538230574089923",
+      "status": "draft",
+      "platform": "facebook",
+      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "source_item_id": "1538230574089923",
+      "source_url": "https://www.facebook.com/reel/1538230574089923/",
+      "published_at": "",
+      "title": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?",
+      "caption_or_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+      "original_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️\nVũ Kim Cương · Âm thanh gốc\nVũ Kim Cương · Âm thanh gốc\nVũ Kim Cương · Âm thanh gốc",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.facebook.com/reel/1538230574089923/"
+      ],
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_LZH9jqFGJ0Q7kNvwFA7sGv&_nc_oc=Adqw6ZSivl9UjTu-Kqr9WYVsUoCDQgSXM8e1a0-DAOwFs1meg6I_AZLrOKcJUG6PQEU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQMATqFvJ6dLB2a72ckHWWS1hH2qgs3HyTsRUDfmucPWwQ&oe=6AD5512D",
+      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "category": "",
+      "created_at": "2026-07-06T07:02:46.312Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
+      "source": {
+        "source_platform": "facebook",
+        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "source_item_id": "1538230574089923",
+        "source_url": "https://www.facebook.com/reel/1538230574089923/",
+        "title": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?",
+        "caption_or_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "original_text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.facebook.com/reel/1538230574089923/"
+        ],
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_LZH9jqFGJ0Q7kNvwFA7sGv&_nc_oc=Adqw6ZSivl9UjTu-Kqr9WYVsUoCDQgSXM8e1a0-DAOwFs1meg6I_AZLrOKcJUG6PQEU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQMATqFvJ6dLB2a72ckHWWS1hH2qgs3HyTsRUDfmucPWwQ&oe=6AD5512D",
+        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "raw": {
+          "url": "https://www.facebook.com/reel/1538230574089923/",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=_LZH9jqFGJ0Q7kNvwFA7sGv&_nc_oc=Adqw6ZSivl9UjTu-Kqr9WYVsUoCDQgSXM8e1a0-DAOwFs1meg6I_AZLrOKcJUG6PQEU&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQMATqFvJ6dLB2a72ckHWWS1hH2qgs3HyTsRUDfmucPWwQ&oe=6AD5512D",
+          "text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
+        }
+      }
+    },
+    {
+      "id": "facebook:853573487137719",
+      "status": "draft",
+      "platform": "facebook",
+      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "source_item_id": "853573487137719",
+      "source_url": "https://www.facebook.com/reel/853573487137719/",
+      "published_at": "",
+      "title": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY",
+      "caption_or_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
+      "original_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.facebook.com/reel/853573487137719/"
+      ],
+      "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=iFjOYTQOiJcQ7kNvwFKAdxt&_nc_oc=Adq6aVsbSy807j9qn8HrOODUASGNWdGfS0ZkG9jffAeJDA_iKE4P-bCY7_R1hjTahj4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPtMVn_5_F7akcgMPg7RL-m--ZmdcqncgZCtUAkj-2-iQ&oe=6AD55208",
+      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "category": "",
+      "created_at": "2026-07-06T07:02:46.312Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
+      "source": {
+        "source_platform": "facebook",
+        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "source_item_id": "853573487137719",
+        "source_url": "https://www.facebook.com/reel/853573487137719/",
+        "title": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY",
+        "caption_or_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
+        "original_text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.facebook.com/reel/853573487137719/"
+        ],
+        "thumbnail_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=iFjOYTQOiJcQ7kNvwFKAdxt&_nc_oc=Adq6aVsbSy807j9qn8HrOODUASGNWdGfS0ZkG9jffAeJDA_iKE4P-bCY7_R1hjTahj4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPtMVn_5_F7akcgMPg7RL-m--ZmdcqncgZCtUAkj-2-iQ&oe=6AD55208",
+        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "raw": {
+          "url": "https://www.facebook.com/reel/853573487137719/",
+          "img": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=iFjOYTQOiJcQ7kNvwFKAdxt&_nc_oc=Adq6aVsbSy807j9qn8HrOODUASGNWdGfS0ZkG9jffAeJDA_iKE4P-bCY7_R1hjTahj4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPtMVn_5_F7akcgMPg7RL-m--ZmdcqncgZCtUAkj-2-iQ&oe=6AD55208",
+          "text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)"
+        }
+      }
+    },
+    {
+      "id": "facebook:1879177862624458",
+      "status": "draft",
+      "platform": "facebook",
+      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "source_item_id": "1879177862624458",
+      "source_url": "https://www.facebook.com/reel/1879177862624458/",
+      "published_at": "",
+      "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
+      "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+      "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.facebook.com/reel/1879177862624458/"
+      ],
+      "thumbnail_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yLUyI6tDXvsQ7kNvwG9jaYm&_nc_oc=AdoRCHWxw7yTersfRt0HRp5i4_zkvUOOQDc9jNVwdAqmT480l_t71loVo8UsWChEhfQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPFqg9xLz-WlDx5zAGaTpdTMtgkE_Y9yX0_zP5G1ymrFQ&oe=6AD57E21",
+      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "category": "",
+      "created_at": "2026-07-06T07:02:46.312Z",
+      "updated_at": "2026-10-14T14:56:18.910Z",
+      "source": {
+        "source_platform": "facebook",
+        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "source_item_id": "1879177862624458",
+        "source_url": "https://www.facebook.com/reel/1879177862624458/",
+        "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
+        "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.facebook.com/reel/1879177862624458/"
+        ],
+        "thumbnail_url": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yLUyI6tDXvsQ7kNvwG9jaYm&_nc_oc=AdoRCHWxw7yTersfRt0HRp5i4_zkvUOOQDc9jNVwdAqmT480l_t71loVo8UsWChEhfQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPFqg9xLz-WlDx5zAGaTpdTMtgkE_Y9yX0_zP5G1ymrFQ&oe=6AD57E21",
+        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "raw": {
+          "url": "https://www.facebook.com/reel/1879177862624458/",
+          "img": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yLUyI6tDXvsQ7kNvwG9jaYm&_nc_oc=AdoRCHWxw7yTersfRt0HRp5i4_zkvUOOQDc9jNVwdAqmT480l_t71loVo8UsWChEhfQ&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=YHqenF-pdxhDh-vJEk7iew&_nc_ss=7f289&oh=00_AQPFqg9xLz-WlDx5zAGaTpdTMtgkE_Y9yX0_zP5G1ymrFQ&oe=6AD57E21",
+          "text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
     },
