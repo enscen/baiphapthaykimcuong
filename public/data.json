@@ -1,7 +1,927 @@
 {
-  "generated_at": "2026-10-20T01:04:41.304Z",
+  "generated_at": "2026-10-20T03:16:35.051Z",
   "count": 3182,
   "posts": [
+    {
+      "id": "youtube:W7uE_xy2SqM",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "W7uE_xy2SqM",
+      "source_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
+      "published_at": "",
+      "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+      "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7559511150904282376\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=W7uE_xy2SqM"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLArGu32Jqi8_yM8uYJQuG2PWDVGpA",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "W7uE_xy2SqM",
+        "source_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
+        "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "original_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=W7uE_xy2SqM"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLArGu32Jqi8_yM8uYJQuG2PWDVGpA",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLBEqmRT-h537BvYOoF3j-2Hm229JA",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLArGu32Jqi8_yM8uYJQuG2PWDVGpA",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1794,
+          "view_count": 520,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "W7uE_xy2SqM",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
+          "original_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 1,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 1,
+          "epoch": 1792466006,
+          "duration_string": "29:54",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:gCH8JacJYuA",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "gCH8JacJYuA",
+      "source_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
+      "published_at": "",
+      "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+      "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7539806497895795976\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=gCH8JacJYuA"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLDm60n_wYnX6c0Cwd7Tl6MNqtDssA",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "gCH8JacJYuA",
+        "source_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
+        "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "original_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=gCH8JacJYuA"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLDm60n_wYnX6c0Cwd7Tl6MNqtDssA",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLD7mB1L_fhYMYbGnUmCDg_6tbD7tQ",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLDm60n_wYnX6c0Cwd7Tl6MNqtDssA",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1731,
+          "view_count": 360,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "gCH8JacJYuA",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
+          "original_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 2,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 2,
+          "epoch": 1792466006,
+          "duration_string": "28:51",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:Pr5umhr9npg",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "Pr5umhr9npg",
+      "source_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
+      "published_at": "",
+      "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+      "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7559511150904282376\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=Pr5umhr9npg"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLDCrJ2M8gmGUaw-lesH-bDoTPk7Vg",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "Pr5umhr9npg",
+        "source_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
+        "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "original_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=Pr5umhr9npg"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLDCrJ2M8gmGUaw-lesH-bDoTPk7Vg",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLAcVu59hpo9qdk6KCz3ppqjHfemNA",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLDCrJ2M8gmGUaw-lesH-bDoTPk7Vg",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1794,
+          "view_count": 143,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "Pr5umhr9npg",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
+          "original_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 3,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 3,
+          "epoch": 1792466006,
+          "duration_string": "29:54",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:VXARRg6fQeA",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "VXARRg6fQeA",
+      "source_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
+      "published_at": "",
+      "title": "LIFE AND DHARMA",
+      "caption_or_text": "LIFE AND DHARMA",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7566197258497068306\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=VXARRg6fQeA"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAPuAL3GA==&rs=AOn4CLDn4yEnmX_j7unqt6zgQgJQ-hcHRQ",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "VXARRg6fQeA",
+        "source_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
+        "title": "LIFE AND DHARMA",
+        "caption_or_text": "LIFE AND DHARMA",
+        "original_text": "LIFE AND DHARMA",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=VXARRg6fQeA"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAPuAL3GA==&rs=AOn4CLDn4yEnmX_j7unqt6zgQgJQ-hcHRQ",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "LIFE AND DHARMA",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAPuAL3GA==&rs=AOn4CLCH05lmw0BDJbaqPFSNjSx7kYnulQ",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAPuAL3GA==&rs=AOn4CLDn4yEnmX_j7unqt6zgQgJQ-hcHRQ",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1761,
+          "view_count": 202,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "VXARRg6fQeA",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
+          "original_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 4,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 4,
+          "epoch": 1792466006,
+          "duration_string": "29:21",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:KUo1fpIvP1M",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "KUo1fpIvP1M",
+      "source_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
+      "published_at": "",
+      "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+      "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7560192136684408082\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=KUo1fpIvP1M"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLDO7pKrY3yJG6lNRQ9hQfBK0aPFbw",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "KUo1fpIvP1M",
+        "source_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
+        "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+        "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+        "original_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=KUo1fpIvP1M"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLDO7pKrY3yJG6lNRQ9hQfBK0aPFbw",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLAXXCqIrITJJ7o7HWnWu-iGtjndXw",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLDO7pKrY3yJG6lNRQ9hQfBK0aPFbw",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1109,
+          "view_count": 161,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "KUo1fpIvP1M",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
+          "original_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 5,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 5,
+          "epoch": 1792466006,
+          "duration_string": "18:29",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:DjjGdoFcEXs",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "DjjGdoFcEXs",
+      "source_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
+      "published_at": "",
+      "title": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
+      "caption_or_text": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7563585457213230344\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=DjjGdoFcEXs"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAPuAL3GA==&rs=AOn4CLB1oNRcJ_jltKGbFh6ktCf-YhGivg",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "DjjGdoFcEXs",
+        "source_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
+        "title": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
+        "caption_or_text": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
+        "original_text": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=DjjGdoFcEXs"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAPuAL3GA==&rs=AOn4CLB1oNRcJ_jltKGbFh6ktCf-YhGivg",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAPuAL3GA==&rs=AOn4CLD5J4xVjv7GaluKxs5JQmHvOgzFDw",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAPuAL3GA==&rs=AOn4CLB1oNRcJ_jltKGbFh6ktCf-YhGivg",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1800,
+          "view_count": 125,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "DjjGdoFcEXs",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
+          "original_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 6,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 6,
+          "epoch": 1792466006,
+          "duration_string": "30:00",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:UmgajUxpfq0",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "UmgajUxpfq0",
+      "source_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
+      "published_at": "",
+      "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+      "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7539806497895795976\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=UmgajUxpfq0"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLAHuP8T8AFih0T18h_bYBuRLbrAew",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "UmgajUxpfq0",
+        "source_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
+        "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "original_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=UmgajUxpfq0"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLAHuP8T8AFih0T18h_bYBuRLbrAew",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLBWgFlVO7CpPEhwZTmHnefKNpXxUQ",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLAHuP8T8AFih0T18h_bYBuRLbrAew",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1731,
+          "view_count": 63,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "UmgajUxpfq0",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
+          "original_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 7,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 7,
+          "epoch": 1792466006,
+          "duration_string": "28:51",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:LkLqlL2cKIs",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "LkLqlL2cKIs",
+      "source_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
+      "published_at": "",
+      "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+      "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7560192136684408082\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=LkLqlL2cKIs"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLAfRIaWtbv7ixsfwnKwu9B25Ra1ug",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "LkLqlL2cKIs",
+        "source_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
+        "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+        "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+        "original_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=LkLqlL2cKIs"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLAfRIaWtbv7ixsfwnKwu9B25Ra1ug",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLDFRBoyoK_S1sTskz_0VaCkUpADVw",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAPuAL3GA==&rs=AOn4CLAfRIaWtbv7ixsfwnKwu9B25Ra1ug",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1109,
+          "view_count": 38,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "LkLqlL2cKIs",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
+          "original_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 8,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 8,
+          "epoch": 1792466006,
+          "duration_string": "18:29",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:uc6FnpLwFR4",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "uc6FnpLwFR4",
+      "source_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
+      "published_at": "",
+      "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+      "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7539806497895795976\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=uc6FnpLwFR4"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLDXFhylWRNPkxJjh5DomVBbyxb-wg",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.413Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "uc6FnpLwFR4",
+        "source_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
+        "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "original_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=uc6FnpLwFR4"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLDXFhylWRNPkxJjh5DomVBbyxb-wg",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLCbmhbMkzmBG4q2v3BTaUldH27bfQ",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAPuAL3GA==&rs=AOn4CLDXFhylWRNPkxJjh5DomVBbyxb-wg",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1731,
+          "view_count": 31,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "uc6FnpLwFR4",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
+          "original_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 9,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 9,
+          "epoch": 1792466006,
+          "duration_string": "28:51",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "youtube:NSPmBYRpKuc",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "NSPmBYRpKuc",
+      "source_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
+      "published_at": "",
+      "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+      "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7559511150904282376\n\n#ThayKimCuong #LoiPhap",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=NSPmBYRpKuc"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLBv-ahFZO80hBVUjmzL0Ue1NHWt5A",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-08-11T07:54:56.414Z",
+      "updated_at": "2026-10-20T03:16:33.186Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "NSPmBYRpKuc",
+        "source_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
+        "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "original_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=NSPmBYRpKuc"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLBv-ahFZO80hBVUjmzL0Ue1NHWt5A",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE6COgCEMoBSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLAyiRBxWIlCw0jG2qEvDRVdRfTE3w",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE6CNAFEJQDSFXyq4qpAywIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAPuAL3GA==&rs=AOn4CLBv-ahFZO80hBVUjmzL0Ue1NHWt5A",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 1794,
+          "view_count": 44,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "NSPmBYRpKuc",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
+          "original_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 10,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 10,
+          "epoch": 1792466006,
+          "duration_string": "29:54",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
     {
       "id": "facebook:2696859860692317",
       "status": "draft",
@@ -17,11 +937,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/2696859860692317/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=HE4WTSMlVrgQ7kNvwEdRbsF&_nc_oc=Ado2OLQ0MfHsfY0QhGJaKYpkvUxKsDXFu78nnwMDKrmZsZ5jFNyj4mjDfwhWKMAZYRI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQN7VpSr5s1e-x9dEJ6nIKL610UvoXMNz12uZ9XlpzhoZg&oe=6ADC7DE0",
+      "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwElOO9w&_nc_oc=Adpo3JjxXe3x0y0n5M4u1cO-_ulr5w0UtqXcvGYC5KRZDBDWeuPh3_ku9rlIT2_LPDk&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPC0XJL-_eVcrJWna-3ckz0SIkhyolNlQCNVFfVUWFjJw&oe=6ADCB620",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -34,11 +954,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/2696859860692317/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=HE4WTSMlVrgQ7kNvwEdRbsF&_nc_oc=Ado2OLQ0MfHsfY0QhGJaKYpkvUxKsDXFu78nnwMDKrmZsZ5jFNyj4mjDfwhWKMAZYRI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQN7VpSr5s1e-x9dEJ6nIKL610UvoXMNz12uZ9XlpzhoZg&oe=6ADC7DE0",
+        "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwElOO9w&_nc_oc=Adpo3JjxXe3x0y0n5M4u1cO-_ulr5w0UtqXcvGYC5KRZDBDWeuPh3_ku9rlIT2_LPDk&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPC0XJL-_eVcrJWna-3ckz0SIkhyolNlQCNVFfVUWFjJw&oe=6ADCB620",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/2696859860692317/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=HE4WTSMlVrgQ7kNvwEdRbsF&_nc_oc=Ado2OLQ0MfHsfY0QhGJaKYpkvUxKsDXFu78nnwMDKrmZsZ5jFNyj4mjDfwhWKMAZYRI&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQN7VpSr5s1e-x9dEJ6nIKL610UvoXMNz12uZ9XlpzhoZg&oe=6ADC7DE0",
+          "img": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwElOO9w&_nc_oc=Adpo3JjxXe3x0y0n5M4u1cO-_ulr5w0UtqXcvGYC5KRZDBDWeuPh3_ku9rlIT2_LPDk&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPC0XJL-_eVcrJWna-3ckz0SIkhyolNlQCNVFfVUWFjJw&oe=6ADCB620",
           "text": "THẦN CHÚ ĐỨC PHẬT VĂN THÙ SƯ LỢI\nPHONG CÁCH ROCK nặng\nOM AH RA PASA NA DHI\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nCủa ĐỨC PHẬT VĂN THÙ SƯ LỢI\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nVà nguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -58,11 +978,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1389269832609409/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwFKivs9&_nc_oc=AdpWjrUj1DaW8JgqQzt3TWbk9Xm34ueBOud9lu5KIVrcq_oUPufdwHlby-KGpFJijTw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOOp16MYiOXYHtzJxmf3VvOA3ssJ26iCOlm-hoYvmGFAA&oe=6ADCA3A6",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwHAGYHN&_nc_oc=AdolnqDHfHHDRKON5M-1nYLs9VWLoTtLFomw5As8A6vNt09_xrS1b7oi9TDNHLkwP-8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNkhvQW_R2rHEKh8J9nJ8qsANJWEFvnCOJMJCTliuY82A&oe=6ADCA3A6",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -75,11 +995,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1389269832609409/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwFKivs9&_nc_oc=AdpWjrUj1DaW8JgqQzt3TWbk9Xm34ueBOud9lu5KIVrcq_oUPufdwHlby-KGpFJijTw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOOp16MYiOXYHtzJxmf3VvOA3ssJ26iCOlm-hoYvmGFAA&oe=6ADCA3A6",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwHAGYHN&_nc_oc=AdolnqDHfHHDRKON5M-1nYLs9VWLoTtLFomw5As8A6vNt09_xrS1b7oi9TDNHLkwP-8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNkhvQW_R2rHEKh8J9nJ8qsANJWEFvnCOJMJCTliuY82A&oe=6ADCA3A6",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1389269832609409/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwFKivs9&_nc_oc=AdpWjrUj1DaW8JgqQzt3TWbk9Xm34ueBOud9lu5KIVrcq_oUPufdwHlby-KGpFJijTw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOOp16MYiOXYHtzJxmf3VvOA3ssJ26iCOlm-hoYvmGFAA&oe=6ADCA3A6",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwHAGYHN&_nc_oc=AdolnqDHfHHDRKON5M-1nYLs9VWLoTtLFomw5As8A6vNt09_xrS1b7oi9TDNHLkwP-8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNkhvQW_R2rHEKh8J9nJ8qsANJWEFvnCOJMJCTliuY82A&oe=6ADCA3A6",
           "text": "THẦN CHÚ KIM CƯƠNG TÁT ĐỎA\nTỊNH HÓA NGHIỆP\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nVà ĐỨC PHẬT KIM CƯƠNG TÁT ĐỎA\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nNguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -99,11 +1019,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1074234051394795/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwFJG64a&_nc_oc=AdoOrhxLmJ2oxX3GnATrFZR9hYtiKuENoLY3aNOvrQc7BQip7tLUhoRKDKFtxOAxw9s&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQObzH_Huq3WEx0EnlKQMjlCkZXrEiYslvAqIUEqoucWSw&oe=6ADC8100",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwHPr3sL&_nc_oc=AdrOVeU8wzE_IcJm9_2RJYhAzIykmEmzIpU_-lXOl8arkX1cjf0AHjCEQ2h1yFnc3f4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPLXnIO_wavlh3OXEM7q0FGpumVufgo9vSCPqjUavA0og&oe=6ADCB940",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -116,11 +1036,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1074234051394795/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwFJG64a&_nc_oc=AdoOrhxLmJ2oxX3GnATrFZR9hYtiKuENoLY3aNOvrQc7BQip7tLUhoRKDKFtxOAxw9s&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQObzH_Huq3WEx0EnlKQMjlCkZXrEiYslvAqIUEqoucWSw&oe=6ADC8100",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwHPr3sL&_nc_oc=AdrOVeU8wzE_IcJm9_2RJYhAzIykmEmzIpU_-lXOl8arkX1cjf0AHjCEQ2h1yFnc3f4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPLXnIO_wavlh3OXEM7q0FGpumVufgo9vSCPqjUavA0og&oe=6ADCB940",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1074234051394795/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwFJG64a&_nc_oc=AdoOrhxLmJ2oxX3GnATrFZR9hYtiKuENoLY3aNOvrQc7BQip7tLUhoRKDKFtxOAxw9s&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQObzH_Huq3WEx0EnlKQMjlCkZXrEiYslvAqIUEqoucWSw&oe=6ADC8100",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwHPr3sL&_nc_oc=AdrOVeU8wzE_IcJm9_2RJYhAzIykmEmzIpU_-lXOl8arkX1cjf0AHjCEQ2h1yFnc3f4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPLXnIO_wavlh3OXEM7q0FGpumVufgo9vSCPqjUavA0og&oe=6ADCB940",
           "text": "THẦN CHÚ ĐẠI BI\nTIẾNG CỔ PHẠN 3 BIẾN\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nVà PHẬT THẦY QUÁN THẾ ÂM\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nNguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -140,11 +1060,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1084500940349293/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwFQbzfP&_nc_oc=AdpAIWPkJ_Ud0LINfMhBxzTZDQLpyrOLOBimyjYrgcSvz6y8wunDDlCBARd4ftCGzbg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOph36iecjLI9olJ5HthwgxZMvmYYdesoXDREX5-aoOYw&oe=6ADC9BF9",
+      "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwHBi6DW&_nc_oc=AdpraoA3khGA2gQSL-AQjl3fWrJFil343C1xzaS1erv9TwdYLfC4b8kEQELZrGeFnp0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNTp8Pq9vFx1IRaapEtZl7pUtQVlBVyLvhVH9h0-94qgw&oe=6ADC9BF9",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -157,11 +1077,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1084500940349293/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwFQbzfP&_nc_oc=AdpAIWPkJ_Ud0LINfMhBxzTZDQLpyrOLOBimyjYrgcSvz6y8wunDDlCBARd4ftCGzbg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOph36iecjLI9olJ5HthwgxZMvmYYdesoXDREX5-aoOYw&oe=6ADC9BF9",
+        "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwHBi6DW&_nc_oc=AdpraoA3khGA2gQSL-AQjl3fWrJFil343C1xzaS1erv9TwdYLfC4b8kEQELZrGeFnp0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNTp8Pq9vFx1IRaapEtZl7pUtQVlBVyLvhVH9h0-94qgw&oe=6ADC9BF9",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1084500940349293/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwFQbzfP&_nc_oc=AdpAIWPkJ_Ud0LINfMhBxzTZDQLpyrOLOBimyjYrgcSvz6y8wunDDlCBARd4ftCGzbg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOph36iecjLI9olJ5HthwgxZMvmYYdesoXDREX5-aoOYw&oe=6ADC9BF9",
+          "img": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwHBi6DW&_nc_oc=AdpraoA3khGA2gQSL-AQjl3fWrJFil343C1xzaS1erv9TwdYLfC4b8kEQELZrGeFnp0&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNTp8Pq9vFx1IRaapEtZl7pUtQVlBVyLvhVH9h0-94qgw&oe=6ADC9BF9",
           "text": "THẦN CHÚ THỦ LĂNG NGHIÊM\nTIẾNG CỔ PHẠN 458 CÂU\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nVà nguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -181,11 +1101,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1549744096153314/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwGAf192&_nc_oc=AdpHNUK-2UOopzdBx73zhxUV65nRLV46crLNa2cIN0-PSUadrru_59hcVKzjCIBv8ug&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQNwgknZKYavrpZ-fOF7eyR5D5BeIm8gH-cpxezogJzLeA&oe=6ADC76DF",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwFmngAd&_nc_oc=Adq-dNnvlLLNGP_hAlPbVx-NeQlD9OqJtsG1JsjVXBcJG8mKYamIBAeYluZAs_BoYcA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPV5bD1lpwiCI-LUBbZTTK5KiYa4ilo_IH-qfZ5dk_ylw&oe=6ADCAF1F",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -198,11 +1118,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1549744096153314/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwGAf192&_nc_oc=AdpHNUK-2UOopzdBx73zhxUV65nRLV46crLNa2cIN0-PSUadrru_59hcVKzjCIBv8ug&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQNwgknZKYavrpZ-fOF7eyR5D5BeIm8gH-cpxezogJzLeA&oe=6ADC76DF",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwFmngAd&_nc_oc=Adq-dNnvlLLNGP_hAlPbVx-NeQlD9OqJtsG1JsjVXBcJG8mKYamIBAeYluZAs_BoYcA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPV5bD1lpwiCI-LUBbZTTK5KiYa4ilo_IH-qfZ5dk_ylw&oe=6ADCAF1F",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1549744096153314/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwGAf192&_nc_oc=AdpHNUK-2UOopzdBx73zhxUV65nRLV46crLNa2cIN0-PSUadrru_59hcVKzjCIBv8ug&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQNwgknZKYavrpZ-fOF7eyR5D5BeIm8gH-cpxezogJzLeA&oe=6ADC76DF",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwFmngAd&_nc_oc=Adq-dNnvlLLNGP_hAlPbVx-NeQlD9OqJtsG1JsjVXBcJG8mKYamIBAeYluZAs_BoYcA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPV5bD1lpwiCI-LUBbZTTK5KiYa4ilo_IH-qfZ5dk_ylw&oe=6ADCAF1F",
           "text": "NGÀY RẰM LẠI ĐẾN RỒI ĐẤY CÁC CON 🤗🤗🤗\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTA NIỆM THẦN CHÚ CỦA ĐỨC PHẬT LIÊN HOA SANH\nNương vào oai lực ĐẠI BI, ĐẠI TRÍ, ĐẠI DỤNG, ĐẠI NGUYỆN của NGÀI\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN TẤT CẢ CHÚNG SANH sớm trọn thành PHẬT ĐẠO\n❤️NGUYỆN CÁC CON ĐƯỢC MẠNH KHỎE, TINH TẤN trên con đường TU ĐẠO GIẢI THOÁT, lợi ích CHÚNG SANH\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎"
         }
       }
@@ -222,11 +1142,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/721404403862668/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwFXp4rg&_nc_oc=AdqqkY9jBAz4PRC7gt-Pq8kT8eqLk0v_ndwOcpBanPq76jDw17Zl4xhDC1gNBf4vqDk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQMWyH_9UbEcZhJudCfhFH8IrC7cK5Evhxj-4gr-TUYRYQ&oe=6ADCA3DE",
+      "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwF1BAux&_nc_oc=Adp3BRuvC-_guTq4mgC05ProBcS9T9huQxqLO0EmLy9jZeZO5_ZOK0LLc-JCLPKI6uI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQMOPvxHbNqylsuAGjyLve5XRHbXkYatuWWm1aV0SIdL2A&oe=6ADCA3DE",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -239,11 +1159,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/721404403862668/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwFXp4rg&_nc_oc=AdqqkY9jBAz4PRC7gt-Pq8kT8eqLk0v_ndwOcpBanPq76jDw17Zl4xhDC1gNBf4vqDk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQMWyH_9UbEcZhJudCfhFH8IrC7cK5Evhxj-4gr-TUYRYQ&oe=6ADCA3DE",
+        "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwF1BAux&_nc_oc=Adp3BRuvC-_guTq4mgC05ProBcS9T9huQxqLO0EmLy9jZeZO5_ZOK0LLc-JCLPKI6uI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQMOPvxHbNqylsuAGjyLve5XRHbXkYatuWWm1aV0SIdL2A&oe=6ADCA3DE",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/721404403862668/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwFXp4rg&_nc_oc=AdqqkY9jBAz4PRC7gt-Pq8kT8eqLk0v_ndwOcpBanPq76jDw17Zl4xhDC1gNBf4vqDk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQMWyH_9UbEcZhJudCfhFH8IrC7cK5Evhxj-4gr-TUYRYQ&oe=6ADCA3DE",
+          "img": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwF1BAux&_nc_oc=Adp3BRuvC-_guTq4mgC05ProBcS9T9huQxqLO0EmLy9jZeZO5_ZOK0LLc-JCLPKI6uI&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQMOPvxHbNqylsuAGjyLve5XRHbXkYatuWWm1aV0SIdL2A&oe=6ADCA3DE",
           "text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT QUÁN THẾ ÂM\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT QUÁN TỰ TẠI!\nNAMO ĐẠI BI QUÁN THẾ ÂM BỒ TÁT MAHA TÁT!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nOM MANI PADME HUM\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPHẦN NHẠC do đệ tử HẢI ĐĂNG và LỆ KHUYÊN dùng AI hỗ chợ\nĐây là TA niệm đọc thì thầm, ko phải hát\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -263,11 +1183,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/717118960988349/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGPz8Yq&_nc_oc=AdoHvCVNGadCaoUgiSxIylyYYWc4ofrhTQs7mGgFrRc37H9gO5ADUHOwuo9OUtXJWTY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOajUYG6zewn-WxXAlCH33bC8TMLZis_mvX5HDcoSAEHQ&oe=6ADC78FE",
+      "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwHOEKzp&_nc_oc=Adp5zGI-D6AVToUpTIuZU4WMzQLDOq7BHld5F5neRvI1DRcCKrUIVLcUQx5wpQeZvUE&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPPdvAAu5SuWOSVIF4YY5GwdsXfq2YXbYNdSSljD5rKyg&oe=6ADCB13E",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -280,11 +1200,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/717118960988349/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGPz8Yq&_nc_oc=AdoHvCVNGadCaoUgiSxIylyYYWc4ofrhTQs7mGgFrRc37H9gO5ADUHOwuo9OUtXJWTY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOajUYG6zewn-WxXAlCH33bC8TMLZis_mvX5HDcoSAEHQ&oe=6ADC78FE",
+        "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwHOEKzp&_nc_oc=Adp5zGI-D6AVToUpTIuZU4WMzQLDOq7BHld5F5neRvI1DRcCKrUIVLcUQx5wpQeZvUE&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPPdvAAu5SuWOSVIF4YY5GwdsXfq2YXbYNdSSljD5rKyg&oe=6ADCB13E",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/717118960988349/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGPz8Yq&_nc_oc=AdoHvCVNGadCaoUgiSxIylyYYWc4ofrhTQs7mGgFrRc37H9gO5ADUHOwuo9OUtXJWTY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOajUYG6zewn-WxXAlCH33bC8TMLZis_mvX5HDcoSAEHQ&oe=6ADC78FE",
+          "img": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwHOEKzp&_nc_oc=Adp5zGI-D6AVToUpTIuZU4WMzQLDOq7BHld5F5neRvI1DRcCKrUIVLcUQx5wpQeZvUE&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPPdvAAu5SuWOSVIF4YY5GwdsXfq2YXbYNdSSljD5rKyg&oe=6ADCB13E",
           "text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -304,11 +1224,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1538230574089923/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwHbYfof&_nc_oc=AdoyAsz1Sa9CymMLoPp2TUJ5nXXSGbU167vrVXws2umfHDYs9h48UY4aKRQD7pHWPPk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQM6evtO18BsA68medrSKX-oHGaSyS3NQmtKCnkIhOCBvg&oe=6ADC916D",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwFq8I0_&_nc_oc=AdoOXQukRkXMt_c4iefb1dmDeY-DR4tIXAdD427nj6M7u6GyxX2_9WCI699n6nTOVL8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQOLzh8LGAOitwGsCHhWDhlmzUsOvGwnT2z_NOjGwGLQlA&oe=6ADCC9AD",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -321,11 +1241,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1538230574089923/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwHbYfof&_nc_oc=AdoyAsz1Sa9CymMLoPp2TUJ5nXXSGbU167vrVXws2umfHDYs9h48UY4aKRQD7pHWPPk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQM6evtO18BsA68medrSKX-oHGaSyS3NQmtKCnkIhOCBvg&oe=6ADC916D",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwFq8I0_&_nc_oc=AdoOXQukRkXMt_c4iefb1dmDeY-DR4tIXAdD427nj6M7u6GyxX2_9WCI699n6nTOVL8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQOLzh8LGAOitwGsCHhWDhlmzUsOvGwnT2z_NOjGwGLQlA&oe=6ADCC9AD",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1538230574089923/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwHbYfof&_nc_oc=AdoyAsz1Sa9CymMLoPp2TUJ5nXXSGbU167vrVXws2umfHDYs9h48UY4aKRQD7pHWPPk&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQM6evtO18BsA68medrSKX-oHGaSyS3NQmtKCnkIhOCBvg&oe=6ADC916D",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwFq8I0_&_nc_oc=AdoOXQukRkXMt_c4iefb1dmDeY-DR4tIXAdD427nj6M7u6GyxX2_9WCI699n6nTOVL8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQOLzh8LGAOitwGsCHhWDhlmzUsOvGwnT2z_NOjGwGLQlA&oe=6ADCC9AD",
           "text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -345,11 +1265,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/853573487137719/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwFo70BN&_nc_oc=AdouQrXBOR9bqV2AqxFI2VOyRupVHwh9_f5q9kcVMn3kAAQjajY5jl9Bd0rApgl6ONc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQP_551zf82ZPgdroO_DGaDRYSALg9Kcnb75oLbiV3wiuw&oe=6ADC9248",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwEERo0e&_nc_oc=AdokJ_JMtOy5mN5Gro3luuxS2jzdVsNjdYQJuXJiKifIvWMq3vi-ZmquyC_AXnGPXj8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPeTeuV5nmz9AmDviJGGLoYQRwdPa_dfatvSufk1303mA&oe=6ADCCA88",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -362,11 +1282,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/853573487137719/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwFo70BN&_nc_oc=AdouQrXBOR9bqV2AqxFI2VOyRupVHwh9_f5q9kcVMn3kAAQjajY5jl9Bd0rApgl6ONc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQP_551zf82ZPgdroO_DGaDRYSALg9Kcnb75oLbiV3wiuw&oe=6ADC9248",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwEERo0e&_nc_oc=AdokJ_JMtOy5mN5Gro3luuxS2jzdVsNjdYQJuXJiKifIvWMq3vi-ZmquyC_AXnGPXj8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPeTeuV5nmz9AmDviJGGLoYQRwdPa_dfatvSufk1303mA&oe=6ADCCA88",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/853573487137719/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwFo70BN&_nc_oc=AdouQrXBOR9bqV2AqxFI2VOyRupVHwh9_f5q9kcVMn3kAAQjajY5jl9Bd0rApgl6ONc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQP_551zf82ZPgdroO_DGaDRYSALg9Kcnb75oLbiV3wiuw&oe=6ADC9248",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwEERo0e&_nc_oc=AdokJ_JMtOy5mN5Gro3luuxS2jzdVsNjdYQJuXJiKifIvWMq3vi-ZmquyC_AXnGPXj8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQPeTeuV5nmz9AmDviJGGLoYQRwdPa_dfatvSufk1303mA&oe=6ADCCA88",
           "text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)"
         }
       }
@@ -386,11 +1306,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1879177862624458/"
       ],
-      "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwEsaGfc&_nc_oc=AdoTInJy97vCHZuzg0lLvgFt0PmFjaSB8Q6KM9UQH1IKDY0z2G4Y-ss8K1huHZuWHvE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOhCQHQAJ-9wnDDNPSlezGasl7EdneF_HdfWEtp4laupA&oe=6ADC8621",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwGLEFzg&_nc_oc=AdqcSoFwARHF9-Lv8rVLEkemY8Fg5EKnD0Kn6uWiXhv-4haI0RqOgrwEEd-gK3m0zi8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNLU_UP_dWpzVtIAq9JO42nhO0HeIcQXsYW5q_trRpgkA&oe=6ADCBE61",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T01:04:38.064Z",
+      "updated_at": "2026-10-20T03:16:31.846Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -403,11 +1323,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1879177862624458/"
         ],
-        "thumbnail_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwEsaGfc&_nc_oc=AdoTInJy97vCHZuzg0lLvgFt0PmFjaSB8Q6KM9UQH1IKDY0z2G4Y-ss8K1huHZuWHvE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOhCQHQAJ-9wnDDNPSlezGasl7EdneF_HdfWEtp4laupA&oe=6ADC8621",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwGLEFzg&_nc_oc=AdqcSoFwARHF9-Lv8rVLEkemY8Fg5EKnD0Kn6uWiXhv-4haI0RqOgrwEEd-gK3m0zi8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNLU_UP_dWpzVtIAq9JO42nhO0HeIcQXsYW5q_trRpgkA&oe=6ADCBE61",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1879177862624458/",
-          "img": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwEsaGfc&_nc_oc=AdoTInJy97vCHZuzg0lLvgFt0PmFjaSB8Q6KM9UQH1IKDY0z2G4Y-ss8K1huHZuWHvE&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=ab2lB-Zg9xvgFRA3IPS1lQ&_nc_ss=7f289&oh=00_AQOhCQHQAJ-9wnDDNPSlezGasl7EdneF_HdfWEtp4laupA&oe=6ADC8621",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwGLEFzg&_nc_oc=AdqcSoFwARHF9-Lv8rVLEkemY8Fg5EKnD0Kn6uWiXhv-4haI0RqOgrwEEd-gK3m0zi8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-n56ZF9SkaGiYApWOxeIyA&_nc_ss=7f289&oh=00_AQNLU_UP_dWpzVtIAq9JO42nhO0HeIcQXsYW5q_trRpgkA&oe=6ADCBE61",
           "text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -1338,8 +2258,8 @@
       "platform": "facebook",
       "source_account": "https://www.facebook.com/vukim.cuong.71",
       "source_item_id": "pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl",
-      "source_url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl?comment_id=1876954443653581&__cft__[0]=AZgHFgLjzEdNw9tyBJ8TggKZzhsWFu8x25F_1a-rfYH6AfHozx3yA4FIGcg0rw7dS89Kzn4trnsplK4PHxYAwm3jXi-vyZ1K5adNGjqO4AYfvcT6IIMcSZovJBkZbtnX_nUd8Oiwfomny0ARPcYbg6dYibujPsuUv3shTC3PQHLxCGBY3aSNLMQ&__tn__=R-R",
-      "published_at": "2026-10-19T01:02:14.481Z",
+      "source_url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl?comment_id=1876954443653581&__cft__[0]=AZiUFojoKbGBzOd9HTvJAHcRB2bAuyoDRyxzAJYgIRAvAhmK4zY6ly2bydiZyl522WRTybG1Dp7x-dm4WTqkrCocGNoTj0j5Kj_2SRK0SuMKQ9uHgmA8gg2FvBLO8WbpNh4B6Szou0M4Iyyki5crGgreBoNyLdF-4uhCZ47faNzj1IBIkrBGBbA&__tn__=R-R",
+      "published_at": "2026-10-19T03:14:02.954Z",
       "title": "Minh Tâm",
       "caption_or_text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n1 ngày\n2",
       "original_text": "Vũ Kim Cương\n1 ngày trước\n1 ngày\nTRẢ LỜI CÂU HỎI\nĐỆ TỬ HỎI\nCon kính thưa THẦY! Có phải pháp TRỰC CHỈ CHÂN TÂM mà THẦY dạy là có sự liên quan đến ĐẠI THỦ ẤN MAHAMUDRA đúng ko ạ?\nTRẢ LỜI\nTrước hết con cần hiểu thế nào là pháp TRỰC CHỈ CHÂN TÂM? Và TRỰC CHỈ CHÂN TÂM để làm gì?\nTiếp theo con cần hiểu thế nào là ĐẠI THỦ ẤN MAHAMUDRA?\nRồi con mới thấy được mối liêm quan giữa pháp TRỰC CHỈ CHÂN TÂM và ĐẠI THỦ ẤN\n TRỰC CHỈ CHÂN TÂM\nLà 1 phương pháp THIỀN dựa trên quan điểm TƯ TƯỞNG DUY TÂM\nQuan điểm DUY TÂM cho rằng: VẠN VẬT DUY TÂM TẠO, nghĩa là tất cả thế gian đều do TÂM ta tạo ra, giống như cách 1 giấc mơ được hình thành\nTÂM thì lại SẴN CÓ và BẤT TỬ \nMuốn thấy được TÂM (KIẾN TÁNH) thì phải ly được VỌNG TƯỞNG, vì chính VỌNG TƯỞNG che TÂM \nVí như:\nNhư MÂY che TRĂNG\nNhư ĐẤT che NGỌC (...)\nTÂM bị che rồi thì dù người ta có sống bởi TÂM cũng sẽ ko thấy được TÂM, mà chỉ có thể thấy VỌNG TƯỞNG\nDo vậy, VỌNG TƯỞNG còn được gọi là VỌNG TÂM, và TÂM còn được gọi là CHÂN TÂM \nPhương pháp luyện tập thì có nhiều lộ trình tùy theo căn cơ\nNhiều CHÚNG SANH theo quan điểm DUY TÂM còn cho rằng: TÂM là tất cả SỰ THẬT về chính mình \nBản chất của TƯ TƯỞNG DUY TÂM này dẫn tới nhiều hệ lụy khiến cho người tu PHÁP TRỰC CHỈ CHÂN TÂM trệch khỏi GIÁC NGỘ GIẢI THOÁT mà PHẬT dạy \nVì sao?\nVì TƯ TƯỞNG DUY TÂM chỉ là 1 góc nhìn, 1 quan điểm trong VÔ TẬN những quan điểm hình thành SỰ SỐNG CỦA TÂM, ko có VỌNG TƯỞNG cũng ko có TÂM, bởi TÂM đang sống bằng chính VỌNG TƯỞNG\nMuôn loài CHÚNG SANH nếu ko có VỌNG TƯỞNG để sống thì lấy gì để tiến hóa mà có TRÍ TUỆ nhận thức về ĐẠO GIẢI THOÁT? \nNếu ko có SỰ VẬN HÀNH và HÌNH TƯỚNG của VẠN VẬT thì TÂM lấy gì để ý thức về chính nó?\nNếu TÂM ko cần VỌNG TƯỞNG cũng có thể sống thì tại sao TÂM lại tạo ra VỌNG TƯỞNG? \nPhải có 1 mối liên quan ko tách rời giữa TÂM và TƯỞNG \nCho nên, những người chỉ biết TƯỞNG DUY TÂM đã tự giam nhốt mình vào quan điểm 1 chiều của TƯỞNG, và bị phạm vi này của TƯỞNG chi phối \n TRỰC CHỈ CHÂN TÂM ĐỂ LÀM GÌ?\nDo CHÚNG SANH quá bám trụ vào HÌNH TƯỚNG, CẢM THỌ, TƯ TƯỞNG nhỏ hẹp trong thế gian và CHÚNG SANH luôn nhốt mình vào nó, khiến cho CHÚNG SANH ko thể tiếp nhận được sự vận hành của tất cả, ko thể mở rộng TÂM trong hành trình tiến hóa \nNên PHÁP TRỰC CHỈ được dùng để phá TRỤ TƯỚNG và mở rộng dần phạm vi CÁI THẤY cho CHÚNG SANH \nGiúp CHÚNG SANH học cách ko nhốt mình vào quan điểm TƯ TƯỞNG mặc dù dùng mọi quan điểm TƯ TƯỞNG\nNhưng CHÚNG SANH học pháp TRỰC CHỈ lại ko thấy như vậy, mà liền nhốt mình vào QUAN ĐIỂM DUY TÂM 1 CHIỀU, phủ nhận ý nghĩa cuộc sống VÔ LƯỢNG KIẾP thế gian\nCHÚNG SANH cho rằng cuộc sống là BỂ KHỔ nên ko đáng sống, hạnh phúc là giả tạm nên ko cần, chỉ có 1 sự thật là TÂM và DUY TÂM \nDẫn tới\nTRỰC CHỈ CHÂN TÂM\nKIẾN TÁNH THÀNH TẬT\nChứ ko phải KIẾN TÁNH THÀNH PHẬT như người TA nói \nLà cái TÂM BỆNH nhận định 1 CHIỀU về TÂM và TƯỞNG \n QUAN ĐIỂM DUY VẬT \nThì cho rằng vật chất và thế gian tạo ra ý thức sự sống thì cũng đi vào quan điểm 1 chiều của TƯ TƯỞNG \nVì ko thấy được phần Ý THỨC CỦA TÂM tạo ra VẬT CHẤT \nPHẬT chỉ ra quan điểm DUY TÂM hay DUY VẬT vốn ko tách rời nhau, mà là 1 thể THIÊN BIẾN VẠN HÓA SẮC TỨC THỊ KO vận hành \nTất cả MỌI QUAN ĐIỂM ĐỀU CÓ CHỖ DÙNG và để DÙNG chứ ko để nhốt mình vào bất cứ nhận định nào, gọi là TRUNG ĐẠO \nGIẢI THOÁT ko phải là thoát đi đâu khỏi TƯỞNG mà SỐNG với TƯỞNG, dùng TƯỞNG, dùng mọi phạm vi của TƯỞNG mà ko nhốt mình vào phạm vi nào\nBởi TƯỞNG là SỰ SỐNG VÔ TẬN mà trong đó TẤT CẢ ĐỀU LIÊN QUAN nhau\nNếu TA nhốt TA vào phạm vi nhỏ của TƯỞNG thì liền trở thành NÔ LỆ cho chính phạm vi ấy, cho chính mình, và dẫn tới bị trôi lăn trong những cảnh TƯỞNG được chiêu cảm bằng TÂM hẹp hòi, gọi là LUÂN HỒI\nCHO NÊN\nPHẬT DẠY NHƯ LAI TẠNG\nMà PHẬT dùng cả QUAN ĐIỂM DUY TÂM\nDùng cả QUAN ĐIỂM DUY VẬT\nDùng mọi QUAN ĐIỂM THẾ GIAN \nĐể giáo hóa CHÚNG SANH \nChứ ko dạy CHÚNG SANH nhốt mình vào những QUAN ĐIỂM được dạy, nên gọi là TRUNG ĐẠO\nPHẬT có thể dùng QUAN ĐIỂM của QUỶ để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM SÚC SANH, QUAN ĐIỂM ATULA, QUAN ĐIỂM TIÊN, QUAN ĐIỂM NGƯỜI, QUAN ĐIỂM TRỜI để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM TÀ để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM CHÁNH để giáo hóa\nPHẬT DÙNG PHÁP TRỰC CHỈ CHÂN TÂM để giáo hóa phá TRỤ TƯỚNG cho CHÚNG SANH, chứ ko dạy CHÚNG SANH nhốt mình vào PHÁP TRỰC CHỈ \nNghĩa là CHÚNG SANH chỉ nên dùng tác dụng của QUAN ĐIỂM được học để luyện tập và trải nghiệm, mang đến lợi ích, chứ ko cho rằng chỉ có quan điểm đó là CHÂN LÝ mà ko còn chấp nhận được điều gì khác, khiến TÂM ngày càng nhỏ hẹp và trôi lăn \n ĐẠI THỦ ẤN MAHAMUDRA\nLà SỰ TRAO TRUYỀN toàn bộ năng lực của PHẬT\nSự trao truyền này gồm 2 phần:\nNăng lực TRÍ TUỆ (TRUNG ĐẠO)\nNăng lực THẦN THÔNG (TOÀN GIÁC)\nLàm chủ mọi quy luật VẬT LÝ trong tất cả VŨ TRỤ \nTrong đó, phần trao truyền TRÍ TUỆ là khó nhất, người ĐỆ TỬ phải được rèn rũa và dẫn dắt trong VÔ LƯỢNG KIẾP \nVì sao?\nVì có những lời dạy, thuyết ra, người ĐỆ TỬ ko hiểu nổi\nNhưng trải qua thì hiểu được \nPhần năng lực thường sẽ bị PHẬT PHONG ẤN trong quá trình dẫn dắt cho đến kiếp cuối cùng đạt THỂ NHẬP TOÀN GIÁC \nBị PHONG ẤN rồi giải PHONG ẤN dẫn tới THỂ NHẬP BAO TRÙM TẤT CẢ nên gọi là ĐẠI THỦ ẤN \nNHƯ VẬY\nMối liên quan giữa TRỰC CHỈ CHÂN TÂM hay ĐẠI THỦ ẤN đã được làm rõ \nTRỰC CHỈ là PHÁP luyện tập để PHÁ TRỤ TƯỚNG\nNhằm cai những cơn nghiện của DỤC VỌNG\nPHÁP TRỰC CHỈ có thể khiến người TU thâm nhập các cảnh giới THIỀN, kể cả NIẾT BÀN TỰ TÁNH (Nơi TÁNH BIẾT NHÌN THẤY CHÍNH NÓ, nơi thấy được SẮC TỨC THỊ KO)\nCHÚNG SANH cần trải qua PHÁP TRỰC CHỈ CHÂN TÂM để mở rộng CÁI THẤY, phát triển TRÍ TUỆ, tiến hóa đến ĐẠI THỦ ẤN của PHẬT TRAO TRUYỀN \nTÓM LẠI\nTechcombank 6198 29 1080 VU KIM CUONG\nTA cảm thấy các con đang rất nhớ TA",
@@ -1349,13 +2269,13 @@
       "author_name": "https://www.facebook.com/vukim.cuong.71",
       "category": "",
       "created_at": "2026-10-19T15:57:31.325Z",
-      "updated_at": "2026-10-20T01:04:37.599Z",
+      "updated_at": "2026-10-20T03:16:31.394Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71",
         "source_item_id": "pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl",
-        "source_url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl?comment_id=1876954443653581&__cft__[0]=AZgHFgLjzEdNw9tyBJ8TggKZzhsWFu8x25F_1a-rfYH6AfHozx3yA4FIGcg0rw7dS89Kzn4trnsplK4PHxYAwm3jXi-vyZ1K5adNGjqO4AYfvcT6IIMcSZovJBkZbtnX_nUd8Oiwfomny0ARPcYbg6dYibujPsuUv3shTC3PQHLxCGBY3aSNLMQ&__tn__=R-R",
-        "published_at": "2026-10-19T01:02:14.481Z",
+        "source_url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl?comment_id=1876954443653581&__cft__[0]=AZiUFojoKbGBzOd9HTvJAHcRB2bAuyoDRyxzAJYgIRAvAhmK4zY6ly2bydiZyl522WRTybG1Dp7x-dm4WTqkrCocGNoTj0j5Kj_2SRK0SuMKQ9uHgmA8gg2FvBLO8WbpNh4B6Szou0M4Iyyki5crGgreBoNyLdF-4uhCZ47faNzj1IBIkrBGBbA&__tn__=R-R",
+        "published_at": "2026-10-19T03:14:02.954Z",
         "title": "Minh Tâm",
         "caption_or_text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n1 ngày\n2",
         "original_text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n1 ngày\n2",
@@ -1364,927 +2284,7 @@
         "author_name": "https://www.facebook.com/vukim.cuong.71",
         "raw": {
           "text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n1 ngày\n2",
-          "url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl?comment_id=1876954443653581&__cft__[0]=AZgHFgLjzEdNw9tyBJ8TggKZzhsWFu8x25F_1a-rfYH6AfHozx3yA4FIGcg0rw7dS89Kzn4trnsplK4PHxYAwm3jXi-vyZ1K5adNGjqO4AYfvcT6IIMcSZovJBkZbtnX_nUd8Oiwfomny0ARPcYbg6dYibujPsuUv3shTC3PQHLxCGBY3aSNLMQ&__tn__=R-R"
-        }
-      }
-    },
-    {
-      "id": "youtube:W7uE_xy2SqM",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "W7uE_xy2SqM",
-      "source_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
-      "published_at": "",
-      "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-      "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7559511150904282376\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=W7uE_xy2SqM"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLBMZwGTq088TT-0f_1Vg4UXJgLv0w",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "W7uE_xy2SqM",
-        "source_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
-        "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "original_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=W7uE_xy2SqM"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLBMZwGTq088TT-0f_1Vg4UXJgLv0w",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLBvuTQrZh18VOgo43blMx6W_FUXqQ",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/W7uE_xy2SqM/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLBMZwGTq088TT-0f_1Vg4UXJgLv0w",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1794,
-          "view_count": 512,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "W7uE_xy2SqM",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
-          "original_url": "https://www.youtube.com/watch?v=W7uE_xy2SqM",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 1,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 1,
-          "epoch": 1792353920,
-          "duration_string": "29:54",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:gCH8JacJYuA",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "gCH8JacJYuA",
-      "source_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
-      "published_at": "",
-      "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-      "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7539806497895795976\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=gCH8JacJYuA"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLCNxCxvbdM9wmVou_jVlVCJd03aag",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "gCH8JacJYuA",
-        "source_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
-        "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "original_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=gCH8JacJYuA"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLCNxCxvbdM9wmVou_jVlVCJd03aag",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLD_SkI3kUTQrfjnwBYEMiI6aijDEw",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/gCH8JacJYuA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLCNxCxvbdM9wmVou_jVlVCJd03aag",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1731,
-          "view_count": 358,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "gCH8JacJYuA",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
-          "original_url": "https://www.youtube.com/watch?v=gCH8JacJYuA",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 2,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 2,
-          "epoch": 1792353920,
-          "duration_string": "28:51",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:Pr5umhr9npg",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "Pr5umhr9npg",
-      "source_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
-      "published_at": "",
-      "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-      "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7559511150904282376\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=Pr5umhr9npg"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLB1RxnWmAEA0LizDNMve1fuhYnTow",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "Pr5umhr9npg",
-        "source_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
-        "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "original_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=Pr5umhr9npg"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLB1RxnWmAEA0LizDNMve1fuhYnTow",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLAvBnY660Dmhmz4jqSkjhgp0q0V1w",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/Pr5umhr9npg/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLB1RxnWmAEA0LizDNMve1fuhYnTow",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1794,
-          "view_count": 143,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "Pr5umhr9npg",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
-          "original_url": "https://www.youtube.com/watch?v=Pr5umhr9npg",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 3,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 3,
-          "epoch": 1792353920,
-          "duration_string": "29:54",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:VXARRg6fQeA",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "VXARRg6fQeA",
-      "source_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
-      "published_at": "",
-      "title": "LIFE AND DHARMA",
-      "caption_or_text": "LIFE AND DHARMA",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7566197258497068306\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=VXARRg6fQeA"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAP&rs=AOn4CLBZNU-IAp2-9tpqM6H6ZWnsquUc6A",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "VXARRg6fQeA",
-        "source_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
-        "title": "LIFE AND DHARMA",
-        "caption_or_text": "LIFE AND DHARMA",
-        "original_text": "LIFE AND DHARMA",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=VXARRg6fQeA"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAP&rs=AOn4CLBZNU-IAp2-9tpqM6H6ZWnsquUc6A",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "LIFE AND DHARMA",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAP&rs=AOn4CLDiuBz9pFqtdyk1UoQyMP1e3ocTmw",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/VXARRg6fQeA/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgcICIofzAP&rs=AOn4CLBZNU-IAp2-9tpqM6H6ZWnsquUc6A",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1761,
-          "view_count": 202,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "VXARRg6fQeA",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
-          "original_url": "https://www.youtube.com/watch?v=VXARRg6fQeA",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 4,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 4,
-          "epoch": 1792353920,
-          "duration_string": "29:21",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:KUo1fpIvP1M",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "KUo1fpIvP1M",
-      "source_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
-      "published_at": "",
-      "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-      "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7560192136684408082\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=KUo1fpIvP1M"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLDZVZnss_W6Kaj59h0cfEPM1sYL2A",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "KUo1fpIvP1M",
-        "source_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
-        "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-        "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-        "original_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=KUo1fpIvP1M"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLDZVZnss_W6Kaj59h0cfEPM1sYL2A",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLCE9BTmEpOaMQ_0qdOHGVNdr2LTNQ",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/KUo1fpIvP1M/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLDZVZnss_W6Kaj59h0cfEPM1sYL2A",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1109,
-          "view_count": 160,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "KUo1fpIvP1M",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
-          "original_url": "https://www.youtube.com/watch?v=KUo1fpIvP1M",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 5,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 5,
-          "epoch": 1792353920,
-          "duration_string": "18:29",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:DjjGdoFcEXs",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "DjjGdoFcEXs",
-      "source_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
-      "published_at": "",
-      "title": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
-      "caption_or_text": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7563585457213230344\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=DjjGdoFcEXs"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAP&rs=AOn4CLCC8offglBq0e_p0fZ-8EVEPfuvaQ",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "DjjGdoFcEXs",
-        "source_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
-        "title": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
-        "caption_or_text": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
-        "original_text": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=DjjGdoFcEXs"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAP&rs=AOn4CLCC8offglBq0e_p0fZ-8EVEPfuvaQ",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "WHAT DOES IT MEAN TO NOT FOLLOW THOUGHTS?",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAP&rs=AOn4CLDX3-pAf5HaojK0kOgKy0ava1Tauw",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/DjjGdoFcEXs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgdICEofzAP&rs=AOn4CLCC8offglBq0e_p0fZ-8EVEPfuvaQ",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1800,
-          "view_count": 125,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "DjjGdoFcEXs",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
-          "original_url": "https://www.youtube.com/watch?v=DjjGdoFcEXs",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 6,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 6,
-          "epoch": 1792353920,
-          "duration_string": "30:00",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:UmgajUxpfq0",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "UmgajUxpfq0",
-      "source_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
-      "published_at": "",
-      "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-      "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7539806497895795976\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=UmgajUxpfq0"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLBuC94RcEjNzVCuw8R5G9L0FdhOIQ",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "UmgajUxpfq0",
-        "source_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
-        "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "original_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=UmgajUxpfq0"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLBuC94RcEjNzVCuw8R5G9L0FdhOIQ",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLB5JBFzdO12cYuTYfGdq84dUWYx4g",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/UmgajUxpfq0/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLBuC94RcEjNzVCuw8R5G9L0FdhOIQ",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1731,
-          "view_count": 63,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "UmgajUxpfq0",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
-          "original_url": "https://www.youtube.com/watch?v=UmgajUxpfq0",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 7,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 7,
-          "epoch": 1792353920,
-          "duration_string": "28:51",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:LkLqlL2cKIs",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "LkLqlL2cKIs",
-      "source_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
-      "published_at": "",
-      "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-      "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7560192136684408082\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=LkLqlL2cKIs"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLADOfqsoCSqVgtBx-0qwefMy8ivcg",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "LkLqlL2cKIs",
-        "source_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
-        "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-        "caption_or_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-        "original_text": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=LkLqlL2cKIs"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLADOfqsoCSqVgtBx-0qwefMy8ivcg",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "IS THERE A WAY TO KNOW WHO IS A BUDDHA?",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLDN8dHpbADpgljaUHW9E0ODTzV4lA",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/LkLqlL2cKIs/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgeIB8ofzAP&rs=AOn4CLADOfqsoCSqVgtBx-0qwefMy8ivcg",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1109,
-          "view_count": 38,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "LkLqlL2cKIs",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
-          "original_url": "https://www.youtube.com/watch?v=LkLqlL2cKIs",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 8,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 8,
-          "epoch": 1792353920,
-          "duration_string": "18:29",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:uc6FnpLwFR4",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "uc6FnpLwFR4",
-      "source_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
-      "published_at": "",
-      "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-      "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7539806497895795976\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=uc6FnpLwFR4"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLBs926BlE1HYdLDHIsryjCetsEbGw",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.413Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "uc6FnpLwFR4",
-        "source_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
-        "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "caption_or_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "original_text": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=uc6FnpLwFR4"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLBs926BlE1HYdLDHIsryjCetsEbGw",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "LUYỆN TÂM THẾ NÀO? GIỮ GIỚI CỦA TÂM",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLBFrG_7KLdldRkPS0hBcZsKGQWXig",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/uc6FnpLwFR4/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgfICQofzAP&rs=AOn4CLBs926BlE1HYdLDHIsryjCetsEbGw",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1731,
-          "view_count": 31,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "uc6FnpLwFR4",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
-          "original_url": "https://www.youtube.com/watch?v=uc6FnpLwFR4",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 9,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 9,
-          "epoch": 1792353920,
-          "duration_string": "28:51",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
-        }
-      }
-    },
-    {
-      "id": "youtube:NSPmBYRpKuc",
-      "status": "draft",
-      "platform": "youtube",
-      "source_account": "https://www.youtube.com/@enscen",
-      "source_item_id": "NSPmBYRpKuc",
-      "source_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
-      "published_at": "",
-      "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-      "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-      "original_text": "Lời pháp của Thầy Kim Cương.\n\nNguồn: https://www.tiktok.com/@diamond.paramita/video/7559511150904282376\n\n#ThayKimCuong #LoiPhap",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.youtube.com/watch?v=NSPmBYRpKuc"
-      ],
-      "thumbnail_url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLAeQOPUGvh3cc1DcxTbxGgb8UI1XQ",
-      "author_name": "https://www.youtube.com/@enscen",
-      "category": "",
-      "created_at": "2026-08-11T07:54:56.414Z",
-      "updated_at": "2026-10-18T20:08:36.638Z",
-      "source": {
-        "source_platform": "youtube",
-        "source_account": "https://www.youtube.com/@enscen",
-        "source_item_id": "NSPmBYRpKuc",
-        "source_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
-        "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "caption_or_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "original_text": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.youtube.com/watch?v=NSPmBYRpKuc"
-        ],
-        "thumbnail_url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLAeQOPUGvh3cc1DcxTbxGgb8UI1XQ",
-        "author_name": "https://www.youtube.com/@enscen",
-        "raw": {
-          "title": "KẺ PHỈ BÁNG KO HIỂU ĐƯỢC TRUNG ĐẠO",
-          "thumbnails": [
-            {
-              "url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLAbq7zdRxGqYK0ucMYmqXMtnZchFQ",
-              "height": 202,
-              "width": 360
-            },
-            {
-              "url": "https://i.ytimg.com/vi/NSPmBYRpKuc/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAtYGigIMCAAQARgbICEofzAP&rs=AOn4CLAeQOPUGvh3cc1DcxTbxGgb8UI1XQ",
-              "height": 404,
-              "width": 720
-            }
-          ],
-          "duration": 1794,
-          "view_count": 44,
-          "timestamp": null,
-          "live_status": null,
-          "availability": null,
-          "channel_url": null,
-          "uploader_url": null,
-          "creators": null,
-          "ie_key": "Youtube",
-          "id": "NSPmBYRpKuc",
-          "_type": "url",
-          "url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
-          "__x_forwarded_for_ip": null,
-          "webpage_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
-          "original_url": "https://www.youtube.com/watch?v=NSPmBYRpKuc",
-          "webpage_url_basename": "watch",
-          "webpage_url_domain": "youtube.com",
-          "extractor": "youtube",
-          "extractor_key": "Youtube",
-          "playlist_count": null,
-          "playlist": "Enscen - Videos",
-          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_title": "Enscen - Videos",
-          "playlist_uploader": "Enscen",
-          "playlist_uploader_id": "@enscen",
-          "playlist_channel": "Enscen",
-          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
-          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
-          "n_entries": 1200,
-          "playlist_index": 10,
-          "__last_playlist_index": 1200,
-          "playlist_autonumber": 10,
-          "epoch": 1792353920,
-          "duration_string": "29:54",
-          "release_year": null,
-          "_version": {
-            "version": "2026.08.19",
-            "current_git_head": null,
-            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
-            "repository": "yt-dlp/yt-dlp"
-          }
+          "url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl?comment_id=1876954443653581&__cft__[0]=AZiUFojoKbGBzOd9HTvJAHcRB2bAuyoDRyxzAJYgIRAvAhmK4zY6ly2bydiZyl522WRTybG1Dp7x-dm4WTqkrCocGNoTj0j5Kj_2SRK0SuMKQ9uHgmA8gg2FvBLO8WbpNh4B6Szou0M4Iyyki5crGgreBoNyLdF-4uhCZ47faNzj1IBIkrBGBbA&__tn__=R-R"
         }
       }
     },
