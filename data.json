@@ -1,7 +1,140 @@
 {
-  "generated_at": "2026-10-20T08:42:54.824Z",
-  "count": 3182,
+  "generated_at": "2026-10-20T13:23:06.527Z",
+  "count": 3184,
   "posts": [
+    {
+      "id": "youtube:rwnl5PEBL-A",
+      "status": "draft",
+      "platform": "youtube",
+      "source_account": "https://www.youtube.com/@enscen",
+      "source_item_id": "rwnl5PEBL-A",
+      "source_url": "https://www.youtube.com/watch?v=rwnl5PEBL-A",
+      "published_at": "",
+      "title": "Nam mô A Di Đà Phật! ",
+      "caption_or_text": "Nam mô A Di Đà Phật! ",
+      "original_text": "Nam mô A Di Đà Phật! ",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.youtube.com/watch?v=rwnl5PEBL-A"
+      ],
+      "thumbnail_url": "https://i.ytimg.com/vi/rwnl5PEBL-A/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFgoWzAP&rs=AOn4CLD5J54D-NevzwQItgOf5r3gHxtanQ",
+      "author_name": "https://www.youtube.com/@enscen",
+      "category": "",
+      "created_at": "2026-10-20T13:23:03.826Z",
+      "updated_at": "2026-10-20T13:23:03.826Z",
+      "source": {
+        "source_platform": "youtube",
+        "source_account": "https://www.youtube.com/@enscen",
+        "source_item_id": "rwnl5PEBL-A",
+        "source_url": "https://www.youtube.com/watch?v=rwnl5PEBL-A",
+        "title": "Nam mô A Di Đà Phật! ",
+        "caption_or_text": "Nam mô A Di Đà Phật! ",
+        "original_text": "Nam mô A Di Đà Phật! ",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.youtube.com/watch?v=rwnl5PEBL-A"
+        ],
+        "thumbnail_url": "https://i.ytimg.com/vi/rwnl5PEBL-A/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFgoWzAP&rs=AOn4CLD5J54D-NevzwQItgOf5r3gHxtanQ",
+        "author_name": "https://www.youtube.com/@enscen",
+        "raw": {
+          "title": "Nam mô A Di Đà Phật! ",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/rwnl5PEBL-A/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFgoWzAP&rs=AOn4CLAYTEq3zYDSMN0T8onbWtUCkLqhWA",
+              "height": 202,
+              "width": 360
+            },
+            {
+              "url": "https://i.ytimg.com/vi/rwnl5PEBL-A/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFgoWzAP&rs=AOn4CLD5J54D-NevzwQItgOf5r3gHxtanQ",
+              "height": 404,
+              "width": 720
+            }
+          ],
+          "duration": 244,
+          "view_count": 8,
+          "timestamp": null,
+          "live_status": null,
+          "availability": null,
+          "channel_url": null,
+          "uploader_url": null,
+          "creators": null,
+          "ie_key": "Youtube",
+          "id": "rwnl5PEBL-A",
+          "_type": "url",
+          "url": "https://www.youtube.com/watch?v=rwnl5PEBL-A",
+          "__x_forwarded_for_ip": null,
+          "webpage_url": "https://www.youtube.com/watch?v=rwnl5PEBL-A",
+          "original_url": "https://www.youtube.com/watch?v=rwnl5PEBL-A",
+          "webpage_url_basename": "watch",
+          "webpage_url_domain": "youtube.com",
+          "extractor": "youtube",
+          "extractor_key": "Youtube",
+          "playlist_count": null,
+          "playlist": "Enscen - Videos",
+          "playlist_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_title": "Enscen - Videos",
+          "playlist_uploader": "Enscen",
+          "playlist_uploader_id": "@enscen",
+          "playlist_channel": "Enscen",
+          "playlist_channel_id": "UCvmdlJJGGMIjb-cxEBDAk1A",
+          "playlist_webpage_url": "https://www.youtube.com/@enscen/videos",
+          "n_entries": 1200,
+          "playlist_index": 1,
+          "__last_playlist_index": 1200,
+          "playlist_autonumber": 1,
+          "epoch": 1792502389,
+          "duration_string": "4:04",
+          "release_year": null,
+          "_version": {
+            "version": "2026.08.19",
+            "current_git_head": null,
+            "release_git_head": "594bd50c2c78ac432f81600d309fdc4e0a92d82c",
+            "repository": "yt-dlp/yt-dlp"
+          }
+        }
+      }
+    },
+    {
+      "id": "facebook:1879177862624458",
+      "status": "draft",
+      "platform": "facebook",
+      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "source_item_id": "1879177862624458",
+      "source_url": "https://www.facebook.com/reel/1879177862624458/",
+      "published_at": "",
+      "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
+      "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+      "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+      "media_type": "video",
+      "media_urls": [
+        "https://www.facebook.com/reel/1879177862624458/"
+      ],
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwGtsE72&_nc_oc=AdoyzNvRIsIZ3iVx9V-z_6ma-SFgaxpgCh8ueOr7Kr74ESDbfffKTkemgRAZY-QApnw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMen_CkJxbkvXWA3g2UFJUulRhmZVlnDlh-fBYgTTa4RQ&oe=6ADD2EE1",
+      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+      "category": "",
+      "created_at": "2026-07-06T07:02:46.312Z",
+      "updated_at": "2026-10-20T13:23:01.891Z",
+      "source": {
+        "source_platform": "facebook",
+        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "source_item_id": "1879177862624458",
+        "source_url": "https://www.facebook.com/reel/1879177862624458/",
+        "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
+        "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
+        "media_type": "video",
+        "media_urls": [
+          "https://www.facebook.com/reel/1879177862624458/"
+        ],
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwGtsE72&_nc_oc=AdoyzNvRIsIZ3iVx9V-z_6ma-SFgaxpgCh8ueOr7Kr74ESDbfffKTkemgRAZY-QApnw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMen_CkJxbkvXWA3g2UFJUulRhmZVlnDlh-fBYgTTa4RQ&oe=6ADD2EE1",
+        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
+        "raw": {
+          "url": "https://www.facebook.com/reel/1879177862624458/",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwGtsE72&_nc_oc=AdoyzNvRIsIZ3iVx9V-z_6ma-SFgaxpgCh8ueOr7Kr74ESDbfffKTkemgRAZY-QApnw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMen_CkJxbkvXWA3g2UFJUulRhmZVlnDlh-fBYgTTa4RQ&oe=6ADD2EE1",
+          "text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
+        }
+      }
+    },
     {
       "id": "facebook:2696859860692317",
       "status": "draft",
@@ -17,11 +150,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/2696859860692317/"
       ],
-      "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwH4Ipjy&_nc_oc=Adqkd2VepISawskkepRgC7Awx-W81EITV5TP6CWVL-9FiybfcnBV5PdQIIN65ftZ9u4&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQMknEySRlg2UoT3DcFhvUB82EyR5QNGjpdFXjFki-5xSw&oe=6ADCEE60",
+      "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwEFLE_5&_nc_oc=AdqNvPLtSDnku11FZ7gNGVGYyTJR47hn2c6CGHtnt6rWuFUA5KqSSE_5bzDZdmPo9aY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMKFJSlf7EHC05bFBz2Yx1_jLoHvk7CGwktG3dRw29PHQ&oe=6ADD26A0",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -34,11 +167,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/2696859860692317/"
         ],
-        "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwH4Ipjy&_nc_oc=Adqkd2VepISawskkepRgC7Awx-W81EITV5TP6CWVL-9FiybfcnBV5PdQIIN65ftZ9u4&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQMknEySRlg2UoT3DcFhvUB82EyR5QNGjpdFXjFki-5xSw&oe=6ADCEE60",
+        "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwEFLE_5&_nc_oc=AdqNvPLtSDnku11FZ7gNGVGYyTJR47hn2c6CGHtnt6rWuFUA5KqSSE_5bzDZdmPo9aY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMKFJSlf7EHC05bFBz2Yx1_jLoHvk7CGwktG3dRw29PHQ&oe=6ADD26A0",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/2696859860692317/",
-          "img": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwH4Ipjy&_nc_oc=Adqkd2VepISawskkepRgC7Awx-W81EITV5TP6CWVL-9FiybfcnBV5PdQIIN65ftZ9u4&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQMknEySRlg2UoT3DcFhvUB82EyR5QNGjpdFXjFki-5xSw&oe=6ADCEE60",
+          "img": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/596035250_2559295887777340_1739357184510103517_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WdjHQjDz9Q4Q7kNvwEFLE_5&_nc_oc=AdqNvPLtSDnku11FZ7gNGVGYyTJR47hn2c6CGHtnt6rWuFUA5KqSSE_5bzDZdmPo9aY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMKFJSlf7EHC05bFBz2Yx1_jLoHvk7CGwktG3dRw29PHQ&oe=6ADD26A0",
           "text": "THẦN CHÚ ĐỨC PHẬT VĂN THÙ SƯ LỢI\nPHONG CÁCH ROCK nặng\nOM AH RA PASA NA DHI\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nCủa ĐỨC PHẬT VĂN THÙ SƯ LỢI\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nVà nguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -58,11 +191,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1389269832609409/"
       ],
-      "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwG5AGv2&_nc_oc=AdpHFvYBVRNJ0vcAYu3BCHADC-VLqDL4Fp2FcMOdrd9rJECIzzp3IrPShseu6cdrWqk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQPd_dvKjPFSdpbdhhPVOO8wG8byZV_K5zciNwIfHUTDGA&oe=6ADD1426",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwGU6J-N&_nc_oc=Adr6jbruOkXzh-ah-Z4LgC_GqAIN50H_LlPF2AyET2puB6_bi1f9dhRSvwS3PhhISE8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPMplBllMMXfSvqCrnyLUE_Q2gflrBl9Ba1IektNaqA3Q&oe=6ADD4C66",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -75,11 +208,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1389269832609409/"
         ],
-        "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwG5AGv2&_nc_oc=AdpHFvYBVRNJ0vcAYu3BCHADC-VLqDL4Fp2FcMOdrd9rJECIzzp3IrPShseu6cdrWqk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQPd_dvKjPFSdpbdhhPVOO8wG8byZV_K5zciNwIfHUTDGA&oe=6ADD1426",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwGU6J-N&_nc_oc=Adr6jbruOkXzh-ah-Z4LgC_GqAIN50H_LlPF2AyET2puB6_bi1f9dhRSvwS3PhhISE8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPMplBllMMXfSvqCrnyLUE_Q2gflrBl9Ba1IektNaqA3Q&oe=6ADD4C66",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1389269832609409/",
-          "img": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwG5AGv2&_nc_oc=AdpHFvYBVRNJ0vcAYu3BCHADC-VLqDL4Fp2FcMOdrd9rJECIzzp3IrPShseu6cdrWqk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQPd_dvKjPFSdpbdhhPVOO8wG8byZV_K5zciNwIfHUTDGA&oe=6ADD1426",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595628643_724787826857601_923692787111726168_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=5liSuoSYeLoQ7kNvwGU6J-N&_nc_oc=Adr6jbruOkXzh-ah-Z4LgC_GqAIN50H_LlPF2AyET2puB6_bi1f9dhRSvwS3PhhISE8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPMplBllMMXfSvqCrnyLUE_Q2gflrBl9Ba1IektNaqA3Q&oe=6ADD4C66",
           "text": "THẦN CHÚ KIM CƯƠNG TÁT ĐỎA\nTỊNH HÓA NGHIỆP\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nVà ĐỨC PHẬT KIM CƯƠNG TÁT ĐỎA\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nNguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -99,11 +232,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1074234051394795/"
       ],
-      "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwEt3HBV&_nc_oc=AdqwXpTpeHuVYwmY3gYH8ZCA_TTZC7T-HOwcvgPB5-KQrFdBr5u8TXAXHRPAmYxKoMk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQOG7qq-4GqnM7J56RzbOuahCCETTudkg-XOsYF67by57w&oe=6ADCF180",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwHmh8rf&_nc_oc=Adqka9prf9aAsjND1_1wL0yjI9yCeOEo27lr9urvdJrhRxcaYc6yB4nTZYZ5r1A6JxA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMYJPE8MW0RecjPR-hvrAOwsRojk4fRmBx90gYX7yw4Xw&oe=6ADD29C0",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -116,11 +249,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1074234051394795/"
         ],
-        "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwEt3HBV&_nc_oc=AdqwXpTpeHuVYwmY3gYH8ZCA_TTZC7T-HOwcvgPB5-KQrFdBr5u8TXAXHRPAmYxKoMk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQOG7qq-4GqnM7J56RzbOuahCCETTudkg-XOsYF67by57w&oe=6ADCF180",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwHmh8rf&_nc_oc=Adqka9prf9aAsjND1_1wL0yjI9yCeOEo27lr9urvdJrhRxcaYc6yB4nTZYZ5r1A6JxA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMYJPE8MW0RecjPR-hvrAOwsRojk4fRmBx90gYX7yw4Xw&oe=6ADD29C0",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1074234051394795/",
-          "img": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwEt3HBV&_nc_oc=AdqwXpTpeHuVYwmY3gYH8ZCA_TTZC7T-HOwcvgPB5-KQrFdBr5u8TXAXHRPAmYxKoMk&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQOG7qq-4GqnM7J56RzbOuahCCETTudkg-XOsYF67by57w&oe=6ADCF180",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/595457693_1244262624424307_9209415217202312775_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=c2pXXOheZQEQ7kNvwHmh8rf&_nc_oc=Adqka9prf9aAsjND1_1wL0yjI9yCeOEo27lr9urvdJrhRxcaYc6yB4nTZYZ5r1A6JxA&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQMYJPE8MW0RecjPR-hvrAOwsRojk4fRmBx90gYX7yw4Xw&oe=6ADD29C0",
           "text": "THẦN CHÚ ĐẠI BI\nTIẾNG CỔ PHẠN 3 BIẾN\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nVà PHẬT THẦY QUÁN THẾ ÂM\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nNguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -140,11 +273,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1084500940349293/"
       ],
-      "thumbnail_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwGr0KiR&_nc_oc=AdpiYTWIbxNIsVEZiUR81m71IPeXKFCB9Chvb9ygtTsla-qPw4eFb2hbW24rW8KjivA&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQP2PHx-ld_CN_lXE56XWiYaj3umoTgcp6bzzpLjFhWj4Q&oe=6ADD0C79",
+      "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwF17ojp&_nc_oc=Adps0Ql4N95Urq2hElgtrPoq3Y-Fx47C1VdvUxIxESQtI0euSbVSzLhw7j1OpaL6olI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQOTwPVKs1-ZB4c47DNnpej-QgSGN19qDv9vABEKDT1Fpw&oe=6ADD44B9",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -157,11 +290,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1084500940349293/"
         ],
-        "thumbnail_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwGr0KiR&_nc_oc=AdpiYTWIbxNIsVEZiUR81m71IPeXKFCB9Chvb9ygtTsla-qPw4eFb2hbW24rW8KjivA&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQP2PHx-ld_CN_lXE56XWiYaj3umoTgcp6bzzpLjFhWj4Q&oe=6ADD0C79",
+        "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwF17ojp&_nc_oc=Adps0Ql4N95Urq2hElgtrPoq3Y-Fx47C1VdvUxIxESQtI0euSbVSzLhw7j1OpaL6olI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQOTwPVKs1-ZB4c47DNnpej-QgSGN19qDv9vABEKDT1Fpw&oe=6ADD44B9",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1084500940349293/",
-          "img": "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwGr0KiR&_nc_oc=AdpiYTWIbxNIsVEZiUR81m71IPeXKFCB9Chvb9ygtTsla-qPw4eFb2hbW24rW8KjivA&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQP2PHx-ld_CN_lXE56XWiYaj3umoTgcp6bzzpLjFhWj4Q&oe=6ADD0C79",
+          "img": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/595726592_1748704265806072_6394646011771281888_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=AY3w86RzFqUQ7kNvwF17ojp&_nc_oc=Adps0Ql4N95Urq2hElgtrPoq3Y-Fx47C1VdvUxIxESQtI0euSbVSzLhw7j1OpaL6olI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQOTwPVKs1-ZB4c47DNnpej-QgSGN19qDv9vABEKDT1Fpw&oe=6ADD44B9",
           "text": "THẦN CHÚ THỦ LĂNG NGHIÊM\nTIẾNG CỔ PHẠN 458 CÂU\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nĐây là bản CHÚ do chính TA niệm\nNương oai lực GIẢI THOÁT của CHƯ PHẬT\nTA nguyện cầu:\nQUỐC THÁI DÂN AN\nCÁC CON ĐƯỢC MẠNH KHỎE\nVà nguyện hồi hướng cho tất cả CHÚNG SANH sớm chọn thành PHẬT ĐẠO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -181,11 +314,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1549744096153314/"
       ],
-      "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwG0jDxn&_nc_oc=AdqkDLcqfMh7LGlmDwKdm2R0c-gSlUP7DyzUe9OFAJPxQlpr4X3cW-tJkZvBu-xDIhE&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQO9Oogp0G6mUfcxO-XUUPzoouX1VeXiwNatecEHhJQoKg&oe=6ADCE75F",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwHDM2zj&_nc_oc=AdpZ9FwzUwWRZ-ke9LhVZ43GFxwo8k7-hl7PTGntS5WMFvyXJv-rm6UIZMgDsEy1rQQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPJNMxSYgcQw88y4m2ZWabOP8t5wcGVFyvEglR1iyClGw&oe=6ADD57DF",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -198,11 +331,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1549744096153314/"
         ],
-        "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwG0jDxn&_nc_oc=AdqkDLcqfMh7LGlmDwKdm2R0c-gSlUP7DyzUe9OFAJPxQlpr4X3cW-tJkZvBu-xDIhE&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQO9Oogp0G6mUfcxO-XUUPzoouX1VeXiwNatecEHhJQoKg&oe=6ADCE75F",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwHDM2zj&_nc_oc=AdpZ9FwzUwWRZ-ke9LhVZ43GFxwo8k7-hl7PTGntS5WMFvyXJv-rm6UIZMgDsEy1rQQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPJNMxSYgcQw88y4m2ZWabOP8t5wcGVFyvEglR1iyClGw&oe=6ADD57DF",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1549744096153314/",
-          "img": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwG0jDxn&_nc_oc=AdqkDLcqfMh7LGlmDwKdm2R0c-gSlUP7DyzUe9OFAJPxQlpr4X3cW-tJkZvBu-xDIhE&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQO9Oogp0G6mUfcxO-XUUPzoouX1VeXiwNatecEHhJQoKg&oe=6ADCE75F",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/593133461_1819432698749878_134678811372863901_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=Hnu6rZ2WPX4Q7kNvwHDM2zj&_nc_oc=AdpZ9FwzUwWRZ-ke9LhVZ43GFxwo8k7-hl7PTGntS5WMFvyXJv-rm6UIZMgDsEy1rQQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPJNMxSYgcQw88y4m2ZWabOP8t5wcGVFyvEglR1iyClGw&oe=6ADD57DF",
           "text": "NGÀY RẰM LẠI ĐẾN RỒI ĐẤY CÁC CON 🤗🤗🤗\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTA NIỆM THẦN CHÚ CỦA ĐỨC PHẬT LIÊN HOA SANH\nNương vào oai lực ĐẠI BI, ĐẠI TRÍ, ĐẠI DỤNG, ĐẠI NGUYỆN của NGÀI\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN TẤT CẢ CHÚNG SANH sớm trọn thành PHẬT ĐẠO\n❤️NGUYỆN CÁC CON ĐƯỢC MẠNH KHỎE, TINH TẤN trên con đường TU ĐẠO GIẢI THOÁT, lợi ích CHÚNG SANH\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎"
         }
       }
@@ -222,11 +355,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/721404403862668/"
       ],
-      "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwHTldZx&_nc_oc=AdrzOyyPq4rHQMd6tgEfUZ8I82sAWmt5chM-OhO15bfkW-R7XeknvqwrrVHGoZnHpoI&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQMGSQXqfZHT5dL77qFqIWylaqq1VPRsKa3s5OPVk8_aHA&oe=6ADD145E",
+      "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwEJ3Unb&_nc_oc=AdoTAs3XJGRwfVIwAVwbRK4nzaqQ7ghI2UE_J-gaA5VosQsVb55g2DzmT8QWtQB9Mso&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQNK8ryxBN9f7y0h1uYzzEUjZv2B3dKXXBteWc_brJUdbA&oe=6ADD4C9E",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -239,11 +372,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/721404403862668/"
         ],
-        "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwHTldZx&_nc_oc=AdrzOyyPq4rHQMd6tgEfUZ8I82sAWmt5chM-OhO15bfkW-R7XeknvqwrrVHGoZnHpoI&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQMGSQXqfZHT5dL77qFqIWylaqq1VPRsKa3s5OPVk8_aHA&oe=6ADD145E",
+        "thumbnail_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwEJ3Unb&_nc_oc=AdoTAs3XJGRwfVIwAVwbRK4nzaqQ7ghI2UE_J-gaA5VosQsVb55g2DzmT8QWtQB9Mso&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQNK8ryxBN9f7y0h1uYzzEUjZv2B3dKXXBteWc_brJUdbA&oe=6ADD4C9E",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/721404403862668/",
-          "img": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwHTldZx&_nc_oc=AdrzOyyPq4rHQMd6tgEfUZ8I82sAWmt5chM-OhO15bfkW-R7XeknvqwrrVHGoZnHpoI&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQMGSQXqfZHT5dL77qFqIWylaqq1VPRsKa3s5OPVk8_aHA&oe=6ADD145E",
+          "img": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/593630316_2359128237857053_3893794453661202254_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=vol_-J05pb8Q7kNvwEJ3Unb&_nc_oc=AdoTAs3XJGRwfVIwAVwbRK4nzaqQ7ghI2UE_J-gaA5VosQsVb55g2DzmT8QWtQB9Mso&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQNK8ryxBN9f7y0h1uYzzEUjZv2B3dKXXBteWc_brJUdbA&oe=6ADD4C9E",
           "text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT QUÁN THẾ ÂM\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT QUÁN TỰ TẠI!\nNAMO ĐẠI BI QUÁN THẾ ÂM BỒ TÁT MAHA TÁT!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nOM MANI PADME HUM\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPHẦN NHẠC do đệ tử HẢI ĐĂNG và LỆ KHUYÊN dùng AI hỗ chợ\nĐây là TA niệm đọc thì thầm, ko phải hát\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -263,11 +396,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/717118960988349/"
       ],
-      "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGOSw6m&_nc_oc=AdovPyWwuoJls4GhvCY6trxecbkhBe3_Mbk8gtfUJ0J0ibNunqsFrpDaQNjMHuUuo4E&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQPGURNCN5MohA_W8XBqqvhHKev6i5KMsihsE7g1TqWDYA&oe=6ADCE97E",
+      "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGph9gV&_nc_oc=AdpQzItnl95DcFBeDVTyNV5ipS4UPrzfvjekn5eMUnHKgmxeTDZUM64rmPtC2kOSDYs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQP7Hw5qN7G0ygzJcbh9ch0mUYROlK3S3-kNkBWQdZnPxA&oe=6ADD21BE",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -280,11 +413,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/717118960988349/"
         ],
-        "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGOSw6m&_nc_oc=AdovPyWwuoJls4GhvCY6trxecbkhBe3_Mbk8gtfUJ0J0ibNunqsFrpDaQNjMHuUuo4E&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQPGURNCN5MohA_W8XBqqvhHKev6i5KMsihsE7g1TqWDYA&oe=6ADCE97E",
+        "thumbnail_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGph9gV&_nc_oc=AdpQzItnl95DcFBeDVTyNV5ipS4UPrzfvjekn5eMUnHKgmxeTDZUM64rmPtC2kOSDYs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQP7Hw5qN7G0ygzJcbh9ch0mUYROlK3S3-kNkBWQdZnPxA&oe=6ADD21BE",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/717118960988349/",
-          "img": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGOSw6m&_nc_oc=AdovPyWwuoJls4GhvCY6trxecbkhBe3_Mbk8gtfUJ0J0ibNunqsFrpDaQNjMHuUuo4E&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQPGURNCN5MohA_W8XBqqvhHKev6i5KMsihsE7g1TqWDYA&oe=6ADCE97E",
+          "img": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/593304973_781779654892455_4862428195072131002_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ZVKhnxKi0SYQ7kNvwGph9gV&_nc_oc=AdpQzItnl95DcFBeDVTyNV5ipS4UPrzfvjekn5eMUnHKgmxeTDZUM64rmPtC2kOSDYs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQP7Hw5qN7G0ygzJcbh9ch0mUYROlK3S3-kNkBWQdZnPxA&oe=6ADD21BE",
           "text": "ĐÂY LÀ BẢN PHỐI DO CHÍNH TA NIỆM, NƯƠNG VÀO THẦN CHÚ VÀ OAI LỰC CỦA ĐỨC PHẬT DƯỢC SƯ\n❤️NGUYỆN CẦU QUỐC THÁI DÂN AN\n❤️NGUYỆN CHO TẤT CẢ CÁC CON ĐỀU MẠNH KHỎE, TAI QUA NẠN KHỎI\n❤️NGUYỆN CHO TẤT CẢ CHÚNG SANH ĐƯỢC SỚM TRỌN THÀNH PHẬT ĐẠO\nNAMO ĐỨC PHẬT DƯỢC SƯ LƯU LY QUANG VƯƠNG NHƯ LAI!\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCác con có thể lưu về mở nghe hàng ngày và niệm theo\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -304,11 +437,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/1538230574089923/"
       ],
-      "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwF9PI__&_nc_oc=Adqp2WbhtLdYuXEIG3Vik2HQtZnWzaDqUTrMd-216vx-lrrkvpdQVi3l3PBlwqguW_w&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQNpZrkdsyaSpGLbaUL_x7lKnI8qiuIIAigKOYieUbLfCw&oe=6ADD01ED",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwHgjNJO&_nc_oc=AdphQKAhek8a49QpTev-Rv83YATwb1nf924pkOrZm7uIemuGJraNUr-3eIlZFNCNO3M&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPyMMIoOGIepMbnu59sP07sTiZCYqhupmVwslqhQ4KQlA&oe=6ADD3A2D",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -321,11 +454,11 @@
         "media_urls": [
           "https://www.facebook.com/reel/1538230574089923/"
         ],
-        "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwF9PI__&_nc_oc=Adqp2WbhtLdYuXEIG3Vik2HQtZnWzaDqUTrMd-216vx-lrrkvpdQVi3l3PBlwqguW_w&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQNpZrkdsyaSpGLbaUL_x7lKnI8qiuIIAigKOYieUbLfCw&oe=6ADD01ED",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwHgjNJO&_nc_oc=AdphQKAhek8a49QpTev-Rv83YATwb1nf924pkOrZm7uIemuGJraNUr-3eIlZFNCNO3M&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPyMMIoOGIepMbnu59sP07sTiZCYqhupmVwslqhQ4KQlA&oe=6ADD3A2D",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/1538230574089923/",
-          "img": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwF9PI__&_nc_oc=Adqp2WbhtLdYuXEIG3Vik2HQtZnWzaDqUTrMd-216vx-lrrkvpdQVi3l3PBlwqguW_w&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQNpZrkdsyaSpGLbaUL_x7lKnI8qiuIIAigKOYieUbLfCw&oe=6ADD01ED",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/592479067_1535160057729123_8485657907199301064_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=x5tRTPUJ7QgQ7kNvwHgjNJO&_nc_oc=AdphQKAhek8a49QpTev-Rv83YATwb1nf924pkOrZm7uIemuGJraNUr-3eIlZFNCNO3M&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPyMMIoOGIepMbnu59sP07sTiZCYqhupmVwslqhQ4KQlA&oe=6ADD3A2D",
           "text": "CÁC CON CÓ MUỐN HỌC PHÁP TRỰC CHỈ CHÂN TÂM BẰNG TÁNH KO KO?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
@@ -345,11 +478,11 @@
       "media_urls": [
         "https://www.facebook.com/reel/853573487137719/"
       ],
-      "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwHdLsUG&_nc_oc=AdpkhRRnl8qpH8oMIx8Bt_UZYo1TV98Q3pjxiOeksZKVk2F9Q6Sku_zFounTKFBsIUY&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQOqKYZGhGIYpsmYPNfcEdbupiO40KXiDArwlOEuVtUo7A&oe=6ADD02C8",
+      "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwEj1TGn&_nc_oc=AdrNBxvTWbnFkneSrb3D4uPdNb1qkOUMENgqSMkN3jAKaUlt2MsxRJ2Hggsz8UNYm18&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPWUTDJFX8bIBhqdsUwiX9BS9Vqm1brmo7SonF642O-ug&oe=6ADD3B08",
       "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
       "category": "",
       "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
+      "updated_at": "2026-10-20T13:23:01.890Z",
       "source": {
         "source_platform": "facebook",
         "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
@@ -362,53 +495,12 @@
         "media_urls": [
           "https://www.facebook.com/reel/853573487137719/"
         ],
-        "thumbnail_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwHdLsUG&_nc_oc=AdpkhRRnl8qpH8oMIx8Bt_UZYo1TV98Q3pjxiOeksZKVk2F9Q6Sku_zFounTKFBsIUY&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQOqKYZGhGIYpsmYPNfcEdbupiO40KXiDArwlOEuVtUo7A&oe=6ADD02C8",
+        "thumbnail_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwEj1TGn&_nc_oc=AdrNBxvTWbnFkneSrb3D4uPdNb1qkOUMENgqSMkN3jAKaUlt2MsxRJ2Hggsz8UNYm18&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPWUTDJFX8bIBhqdsUwiX9BS9Vqm1brmo7SonF642O-ug&oe=6ADD3B08",
         "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
         "raw": {
           "url": "https://www.facebook.com/reel/853573487137719/",
-          "img": "https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwHdLsUG&_nc_oc=AdpkhRRnl8qpH8oMIx8Bt_UZYo1TV98Q3pjxiOeksZKVk2F9Q6Sku_zFounTKFBsIUY&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQOqKYZGhGIYpsmYPNfcEdbupiO40KXiDArwlOEuVtUo7A&oe=6ADD02C8",
+          "img": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/587222977_822714063883195_1296141060649497337_n.jpg?stp=dst-jpg_tt6&cstp=mx576x768&ctp=s576x768&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=UJ_ADzwxQuoQ7kNvwEj1TGn&_nc_oc=AdrNBxvTWbnFkneSrb3D4uPdNb1qkOUMENgqSMkN3jAKaUlt2MsxRJ2Hggsz8UNYm18&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=Cb14548dZUQXJE-3vnvloA&_nc_ss=7f289&oh=00_AQPWUTDJFX8bIBhqdsUwiX9BS9Vqm1brmo7SonF642O-ug&oe=6ADD3B08",
           "text": "THẦY CỦA CÁC CON HƠN 4 NĂM TRƯỚC ĐÂY\n(Hát và thu trực tiếp bằng dt samsung)"
-        }
-      }
-    },
-    {
-      "id": "facebook:1879177862624458",
-      "status": "draft",
-      "platform": "facebook",
-      "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "source_item_id": "1879177862624458",
-      "source_url": "https://www.facebook.com/reel/1879177862624458/",
-      "published_at": "",
-      "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
-      "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "video",
-      "media_urls": [
-        "https://www.facebook.com/reel/1879177862624458/"
-      ],
-      "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwEXf5yC&_nc_oc=Adrb0p7krMoU1C1NaANd6qPSvycbbnSuzzZwCfpaLWeJKDPs-5xRT_fjlziyZdf5Yfg&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQNNSYnUKsRUpSf0z7VLmEce_dVHhVQeGqUbvrhhgvlAQQ&oe=6ADCF6A1",
-      "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-      "category": "",
-      "created_at": "2026-07-06T07:02:46.312Z",
-      "updated_at": "2026-10-20T08:42:50.203Z",
-      "source": {
-        "source_platform": "facebook",
-        "source_account": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "source_item_id": "1879177862624458",
-        "source_url": "https://www.facebook.com/reel/1879177862624458/",
-        "title": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI",
-        "caption_or_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "original_text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-        "media_type": "video",
-        "media_urls": [
-          "https://www.facebook.com/reel/1879177862624458/"
-        ],
-        "thumbnail_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwEXf5yC&_nc_oc=Adrb0p7krMoU1C1NaANd6qPSvycbbnSuzzZwCfpaLWeJKDPs-5xRT_fjlziyZdf5Yfg&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQNNSYnUKsRUpSf0z7VLmEce_dVHhVQeGqUbvrhhgvlAQQ&oe=6ADCF6A1",
-        "author_name": "https://www.facebook.com/vukim.cuong.71/reels/",
-        "raw": {
-          "url": "https://www.facebook.com/reel/1879177862624458/",
-          "img": "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/499362169_1363017478262436_7394166358760473234_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=V59RlKR3srAQ7kNvwEXf5yC&_nc_oc=Adrb0p7krMoU1C1NaANd6qPSvycbbnSuzzZwCfpaLWeJKDPs-5xRT_fjlziyZdf5Yfg&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=to389bVlG1IUmszNqcuW1g&_nc_ss=7f289&oh=00_AQNNSYnUKsRUpSf0z7VLmEce_dVHhVQeGqUbvrhhgvlAQQ&oe=6ADCF6A1",
-          "text": "❤️❤️❤️ BỆNH MONG THÀNH PHẬT, MONG ĐẠT ĐƯỢC TRẠNG THÁI CẢNH GIỚI\nTất cả các pháp trên đời này đều liên quan đến nhau, phụ thuộc nhau, bao gồm toàn bộ pháp HỮU VI và pháp VÔ VI\nPháp HỮU VI là mọi sự vật hiện tượng hữu hình mà các con đang thấy\nPháp VÔ VI là tất cả những trạng thái, cảnh giới thanh tịnh, các cảnh giới KO, bao gồm cả NIẾT BÀN TỰ TÁNH\nPháp HỮU VI và VÔ VI liên quan đến nhau, nên từ HỮU VI mới có thể thâm nhập VÔ VI và từ VÔ VI lại trở về HỮU VI\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nPháp HỮU VI và pháp VÔ VI đều luôn BIẾN ĐỔI\nChính vì các pháp đều liên quan phụ thuộc nên chuyển hóa nhau, nâng đỡ nhau, tiêu hóa nhau, đẻ ra nhau... dẫn tới sự biến đổi bất tận mà ko có bất cứ thứ gì là NGỪNG TRỤ kể cả cái KO và cái KO CẤU TẠO\nTHẾ NÀO LÀ SẮC TỨC THỊ KO?\nNghĩa là TRONG SẮC ĐÃ CÓ KO, TRONG KO ĐÃ CÓ SẮC, SẮC và KO sẵn có trong nhau ko tách rời và luôn BIẾN ĐỔI\nVì SẴN có trong nhau nên chẳng có gì TUYỆT ĐỐI LÀ KO, mà cũng chẳng có gì TUYỆT ĐỐI LÀ CÓ\nCho nên cái KO cũng chính là CÁI CÓ ĐANG BIẾN ĐỔI\nCÁI CÓ ĐANG BIẾN ĐỔI cũng chính là CÁI KO\nĐây là điều mà trí tuệ loài người ko thể nào chạm tới được, loài người luôn cho rằng đã là KO thì KO biến đổi và đã là KO thì chẳng liên quan đến ai, dẫn tới rất nhiều cực đoan thiên lệch vào VÔ VI\nThiên lệch vào VÔ VI rồi, lại gọi VÔ VI ấy là TRUNG ĐẠO là điều ko thể\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVậy các con mong thành PHẬT hay mong đạt được điều gì đấy mà ko nhận ra SỰ BIẾN ĐỔI sẵn đi kèm theo tất cả thì những mong muốn ấy sẽ nhấn chìm các con vào THAM SÂN SI, ÍCH KỶ\nMONG MUỐN vốn chẳng có gì sai cả, cái sai là khi các con chưa chiến thắng THAM SÂN SI, ÍCH KỶ, đang là NÔ LỆ cho THAM SÂN SI, ÍCH KỶ mà các con lại BÁN MÌNH CHO MONG MUỐN, thì bị nhấn chìm là rất đúng thôi\nKhi nào các con đã có kế hoạch, đã có kỷ luật, đã thực hành pháp chiến thắng rốt ráo thì các con TỰ DO\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️"
         }
       }
     },
@@ -2263,11 +2355,9 @@
       "title": "Minh Tâm",
       "caption_or_text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n1 ngày\n2",
       "original_text": "Vũ Kim Cương\n1 ngày trước\n1 ngày\nTRẢ LỜI CÂU HỎI\nĐỆ TỬ HỎI\nCon kính thưa THẦY! Có phải pháp TRỰC CHỈ CHÂN TÂM mà THẦY dạy là có sự liên quan đến ĐẠI THỦ ẤN MAHAMUDRA đúng ko ạ?\nTRẢ LỜI\nTrước hết con cần hiểu thế nào là pháp TRỰC CHỈ CHÂN TÂM? Và TRỰC CHỈ CHÂN TÂM để làm gì?\nTiếp theo con cần hiểu thế nào là ĐẠI THỦ ẤN MAHAMUDRA?\nRồi con mới thấy được mối liêm quan giữa pháp TRỰC CHỈ CHÂN TÂM và ĐẠI THỦ ẤN\n TRỰC CHỈ CHÂN TÂM\nLà 1 phương pháp THIỀN dựa trên quan điểm TƯ TƯỞNG DUY TÂM\nQuan điểm DUY TÂM cho rằng: VẠN VẬT DUY TÂM TẠO, nghĩa là tất cả thế gian đều do TÂM ta tạo ra, giống như cách 1 giấc mơ được hình thành\nTÂM thì lại SẴN CÓ và BẤT TỬ \nMuốn thấy được TÂM (KIẾN TÁNH) thì phải ly được VỌNG TƯỞNG, vì chính VỌNG TƯỞNG che TÂM \nVí như:\nNhư MÂY che TRĂNG\nNhư ĐẤT che NGỌC (...)\nTÂM bị che rồi thì dù người ta có sống bởi TÂM cũng sẽ ko thấy được TÂM, mà chỉ có thể thấy VỌNG TƯỞNG\nDo vậy, VỌNG TƯỞNG còn được gọi là VỌNG TÂM, và TÂM còn được gọi là CHÂN TÂM \nPhương pháp luyện tập thì có nhiều lộ trình tùy theo căn cơ\nNhiều CHÚNG SANH theo quan điểm DUY TÂM còn cho rằng: TÂM là tất cả SỰ THẬT về chính mình \nBản chất của TƯ TƯỞNG DUY TÂM này dẫn tới nhiều hệ lụy khiến cho người tu PHÁP TRỰC CHỈ CHÂN TÂM trệch khỏi GIÁC NGỘ GIẢI THOÁT mà PHẬT dạy \nVì sao?\nVì TƯ TƯỞNG DUY TÂM chỉ là 1 góc nhìn, 1 quan điểm trong VÔ TẬN những quan điểm hình thành SỰ SỐNG CỦA TÂM, ko có VỌNG TƯỞNG cũng ko có TÂM, bởi TÂM đang sống bằng chính VỌNG TƯỞNG\nMuôn loài CHÚNG SANH nếu ko có VỌNG TƯỞNG để sống thì lấy gì để tiến hóa mà có TRÍ TUỆ nhận thức về ĐẠO GIẢI THOÁT? \nNếu ko có SỰ VẬN HÀNH và HÌNH TƯỚNG của VẠN VẬT thì TÂM lấy gì để ý thức về chính nó?\nNếu TÂM ko cần VỌNG TƯỞNG cũng có thể sống thì tại sao TÂM lại tạo ra VỌNG TƯỞNG? \nPhải có 1 mối liên quan ko tách rời giữa TÂM và TƯỞNG \nCho nên, những người chỉ biết TƯỞNG DUY TÂM đã tự giam nhốt mình vào quan điểm 1 chiều của TƯỞNG, và bị phạm vi này của TƯỞNG chi phối \n TRỰC CHỈ CHÂN TÂM ĐỂ LÀM GÌ?\nDo CHÚNG SANH quá bám trụ vào HÌNH TƯỚNG, CẢM THỌ, TƯ TƯỞNG nhỏ hẹp trong thế gian và CHÚNG SANH luôn nhốt mình vào nó, khiến cho CHÚNG SANH ko thể tiếp nhận được sự vận hành của tất cả, ko thể mở rộng TÂM trong hành trình tiến hóa \nNên PHÁP TRỰC CHỈ được dùng để phá TRỤ TƯỚNG và mở rộng dần phạm vi CÁI THẤY cho CHÚNG SANH \nGiúp CHÚNG SANH học cách ko nhốt mình vào quan điểm TƯ TƯỞNG mặc dù dùng mọi quan điểm TƯ TƯỞNG\nNhưng CHÚNG SANH học pháp TRỰC CHỈ lại ko thấy như vậy, mà liền nhốt mình vào QUAN ĐIỂM DUY TÂM 1 CHIỀU, phủ nhận ý nghĩa cuộc sống VÔ LƯỢNG KIẾP thế gian\nCHÚNG SANH cho rằng cuộc sống là BỂ KHỔ nên ko đáng sống, hạnh phúc là giả tạm nên ko cần, chỉ có 1 sự thật là TÂM và DUY TÂM \nDẫn tới\nTRỰC CHỈ CHÂN TÂM\nKIẾN TÁNH THÀNH TẬT\nChứ ko phải KIẾN TÁNH THÀNH PHẬT như người TA nói \nLà cái TÂM BỆNH nhận định 1 CHIỀU về TÂM và TƯỞNG \n QUAN ĐIỂM DUY VẬT \nThì cho rằng vật chất và thế gian tạo ra ý thức sự sống thì cũng đi vào quan điểm 1 chiều của TƯ TƯỞNG \nVì ko thấy được phần Ý THỨC CỦA TÂM tạo ra VẬT CHẤT \nPHẬT chỉ ra quan điểm DUY TÂM hay DUY VẬT vốn ko tách rời nhau, mà là 1 thể THIÊN BIẾN VẠN HÓA SẮC TỨC THỊ KO vận hành \nTất cả MỌI QUAN ĐIỂM ĐỀU CÓ CHỖ DÙNG và để DÙNG chứ ko để nhốt mình vào bất cứ nhận định nào, gọi là TRUNG ĐẠO \nGIẢI THOÁT ko phải là thoát đi đâu khỏi TƯỞNG mà SỐNG với TƯỞNG, dùng TƯỞNG, dùng mọi phạm vi của TƯỞNG mà ko nhốt mình vào phạm vi nào\nBởi TƯỞNG là SỰ SỐNG VÔ TẬN mà trong đó TẤT CẢ ĐỀU LIÊN QUAN nhau\nNếu TA nhốt TA vào phạm vi nhỏ của TƯỞNG thì liền trở thành NÔ LỆ cho chính phạm vi ấy, cho chính mình, và dẫn tới bị trôi lăn trong những cảnh TƯỞNG được chiêu cảm bằng TÂM hẹp hòi, gọi là LUÂN HỒI\nCHO NÊN\nPHẬT DẠY NHƯ LAI TẠNG\nMà PHẬT dùng cả QUAN ĐIỂM DUY TÂM\nDùng cả QUAN ĐIỂM DUY VẬT\nDùng mọi QUAN ĐIỂM THẾ GIAN \nĐể giáo hóa CHÚNG SANH \nChứ ko dạy CHÚNG SANH nhốt mình vào những QUAN ĐIỂM được dạy, nên gọi là TRUNG ĐẠO\nPHẬT có thể dùng QUAN ĐIỂM của QUỶ để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM SÚC SANH, QUAN ĐIỂM ATULA, QUAN ĐIỂM TIÊN, QUAN ĐIỂM NGƯỜI, QUAN ĐIỂM TRỜI để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM TÀ để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM CHÁNH để giáo hóa\nPHẬT DÙNG PHÁP TRỰC CHỈ CHÂN TÂM để giáo hóa phá TRỤ TƯỚNG cho CHÚNG SANH, chứ ko dạy CHÚNG SANH nhốt mình vào PHÁP TRỰC CHỈ \nNghĩa là CHÚNG SANH chỉ nên dùng tác dụng của QUAN ĐIỂM được học để luyện tập và trải nghiệm, mang đến lợi ích, chứ ko cho rằng chỉ có quan điểm đó là CHÂN LÝ mà ko còn chấp nhận được điều gì khác, khiến TÂM ngày càng nhỏ hẹp và trôi lăn \n ĐẠI THỦ ẤN MAHAMUDRA\nLà SỰ TRAO TRUYỀN toàn bộ năng lực của PHẬT\nSự trao truyền này gồm 2 phần:\nNăng lực TRÍ TUỆ (TRUNG ĐẠO)\nNăng lực THẦN THÔNG (TOÀN GIÁC)\nLàm chủ mọi quy luật VẬT LÝ trong tất cả VŨ TRỤ \nTrong đó, phần trao truyền TRÍ TUỆ là khó nhất, người ĐỆ TỬ phải được rèn rũa và dẫn dắt trong VÔ LƯỢNG KIẾP \nVì sao?\nVì có những lời dạy, thuyết ra, người ĐỆ TỬ ko hiểu nổi\nNhưng trải qua thì hiểu được \nPhần năng lực thường sẽ bị PHẬT PHONG ẤN trong quá trình dẫn dắt cho đến kiếp cuối cùng đạt THỂ NHẬP TOÀN GIÁC \nBị PHONG ẤN rồi giải PHONG ẤN dẫn tới THỂ NHẬP BAO TRÙM TẤT CẢ nên gọi là ĐẠI THỦ ẤN \nNHƯ VẬY\nMối liên quan giữa TRỰC CHỈ CHÂN TÂM hay ĐẠI THỦ ẤN đã được làm rõ \nTRỰC CHỈ là PHÁP luyện tập để PHÁ TRỤ TƯỚNG\nNhằm cai những cơn nghiện của DỤC VỌNG\nPHÁP TRỰC CHỈ có thể khiến người TU thâm nhập các cảnh giới THIỀN, kể cả NIẾT BÀN TỰ TÁNH (Nơi TÁNH BIẾT NHÌN THẤY CHÍNH NÓ, nơi thấy được SẮC TỨC THỊ KO)\nCHÚNG SANH cần trải qua PHÁP TRỰC CHỈ CHÂN TÂM để mở rộng CÁI THẤY, phát triển TRÍ TUỆ, tiến hóa đến ĐẠI THỦ ẤN của PHẬT TRAO TRUYỀN \nTÓM LẠI\nTechcombank 6198 29 1080 VU KIM CUONG\nTA cảm thấy các con đang rất nhớ TA",
-      "media_type": "image",
-      "media_urls": [
-        "assets/facebook-media/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl-0.jpg"
-      ],
-      "thumbnail_url": "assets/facebook-media/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl-0.jpg",
+      "media_type": "text",
+      "media_urls": [],
+      "thumbnail_url": "",
       "author_name": "https://www.facebook.com/vukim.cuong.71",
       "category": "",
       "created_at": "2026-10-19T15:57:31.325Z",
@@ -2288,10 +2378,42 @@
           "text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n1 ngày\n2",
           "url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid02o8joww1piUwLJmPn3AyqHnzVoSLU1ZvMeZBYfrfPXYo8gLi5LFHABsafMMwg5SgHl?comment_id=1876954443653581&__cft__[0]=AZiM-LJsWwOUMQhp0_gs6EjsWyQyxEA_wFrnx1aa1I_dl76D5aE2uSauzoTBnTO-YpYvxtVxwaOrcsf78HjE1uIP-BRenu4DzsT0Hh1EU23SW3n_grQ1MPtI_zo4tGlNtcfpM9fRvrJM-F8enzT4gqtv3oMOJsnNPgQcIKYjoeeO4S4amoAG0tU&__tn__=R-R"
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:07:28.115Z"
+      }
+    },
+    {
+      "id": "facebook:pfbid0jb6d2mPTsDUsEzgqAjPstzzLE9rn33hym7hLN6ezMaE9fWurkudpRrVp8J39yJhVl",
+      "status": "draft",
+      "platform": "facebook",
+      "source_account": "https://www.facebook.com/vukim.cuong.71",
+      "source_item_id": "pfbid0jb6d2mPTsDUsEzgqAjPstzzLE9rn33hym7hLN6ezMaE9fWurkudpRrVp8J39yJhVl",
+      "source_url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid0jb6d2mPTsDUsEzgqAjPstzzLE9rn33hym7hLN6ezMaE9fWurkudpRrVp8J39yJhVl?comment_id=1876954443653581&__cft__[0]=AZjn1sA9_9sfsvzrBMkRAPPTnEx1hBLqNlOLbWoB3y0o6WoltoHVIFosFpqnP2cwjj5zLicfAF2vNbSbCYF8wgRi1Ia6dWJcCxAA8EHlpsX7RSQtcgZemIJz732fp8aT-mYtBiJ5JOrMy79LWG_hfclo4Lbrxx9v102fVIpqwalVX4M9DKisTAU&__tn__=R-R",
+      "published_at": "2026-10-18T13:20:35.270Z",
+      "title": "Minh Tâm",
+      "caption_or_text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n2 ngày\n2",
+      "original_text": "Vũ Kim Cương\n2 ngày trước\n2 ngày\nTRẢ LỜI CÂU HỎI\nĐỆ TỬ HỎI\nCon kính thưa THẦY! Có phải pháp TRỰC CHỈ CHÂN TÂM mà THẦY dạy là có sự liên quan đến ĐẠI THỦ ẤN MAHAMUDRA đúng ko ạ?\nTRẢ LỜI\nTrước hết con cần hiểu thế nào là pháp TRỰC CHỈ CHÂN TÂM? Và TRỰC CHỈ CHÂN TÂM để làm gì?\nTiếp theo con cần hiểu thế nào là ĐẠI THỦ ẤN MAHAMUDRA?\nRồi con mới thấy được mối liêm quan giữa pháp TRỰC CHỈ CHÂN TÂM và ĐẠI THỦ ẤN\n TRỰC CHỈ CHÂN TÂM\nLà 1 phương pháp THIỀN dựa trên quan điểm TƯ TƯỞNG DUY TÂM\nQuan điểm DUY TÂM cho rằng: VẠN VẬT DUY TÂM TẠO, nghĩa là tất cả thế gian đều do TÂM ta tạo ra, giống như cách 1 giấc mơ được hình thành\nTÂM thì lại SẴN CÓ và BẤT TỬ \nMuốn thấy được TÂM (KIẾN TÁNH) thì phải ly được VỌNG TƯỞNG, vì chính VỌNG TƯỞNG che TÂM \nVí như:\nNhư MÂY che TRĂNG\nNhư ĐẤT che NGỌC (...)\nTÂM bị che rồi thì dù người ta có sống bởi TÂM cũng sẽ ko thấy được TÂM, mà chỉ có thể thấy VỌNG TƯỞNG\nDo vậy, VỌNG TƯỞNG còn được gọi là VỌNG TÂM, và TÂM còn được gọi là CHÂN TÂM \nPhương pháp luyện tập thì có nhiều lộ trình tùy theo căn cơ\nNhiều CHÚNG SANH theo quan điểm DUY TÂM còn cho rằng: TÂM là tất cả SỰ THẬT về chính mình \nBản chất của TƯ TƯỞNG DUY TÂM này dẫn tới nhiều hệ lụy khiến cho người tu PHÁP TRỰC CHỈ CHÂN TÂM trệch khỏi GIÁC NGỘ GIẢI THOÁT mà PHẬT dạy \nVì sao?\nVì TƯ TƯỞNG DUY TÂM chỉ là 1 góc nhìn, 1 quan điểm trong VÔ TẬN những quan điểm hình thành SỰ SỐNG CỦA TÂM, ko có VỌNG TƯỞNG cũng ko có TÂM, bởi TÂM đang sống bằng chính VỌNG TƯỞNG\nMuôn loài CHÚNG SANH nếu ko có VỌNG TƯỞNG để sống thì lấy gì để tiến hóa mà có TRÍ TUỆ nhận thức về ĐẠO GIẢI THOÁT? \nNếu ko có SỰ VẬN HÀNH và HÌNH TƯỚNG của VẠN VẬT thì TÂM lấy gì để ý thức về chính nó?\nNếu TÂM ko cần VỌNG TƯỞNG cũng có thể sống thì tại sao TÂM lại tạo ra VỌNG TƯỞNG? \nPhải có 1 mối liên quan ko tách rời giữa TÂM và TƯỞNG \nCho nên, những người chỉ biết TƯỞNG DUY TÂM đã tự giam nhốt mình vào quan điểm 1 chiều của TƯỞNG, và bị phạm vi này của TƯỞNG chi phối \n TRỰC CHỈ CHÂN TÂM ĐỂ LÀM GÌ?\nDo CHÚNG SANH quá bám trụ vào HÌNH TƯỚNG, CẢM THỌ, TƯ TƯỞNG nhỏ hẹp trong thế gian và CHÚNG SANH luôn nhốt mình vào nó, khiến cho CHÚNG SANH ko thể tiếp nhận được sự vận hành của tất cả, ko thể mở rộng TÂM trong hành trình tiến hóa \nNên PHÁP TRỰC CHỈ được dùng để phá TRỤ TƯỚNG và mở rộng dần phạm vi CÁI THẤY cho CHÚNG SANH \nGiúp CHÚNG SANH học cách ko nhốt mình vào quan điểm TƯ TƯỞNG mặc dù dùng mọi quan điểm TƯ TƯỞNG\nNhưng CHÚNG SANH học pháp TRỰC CHỈ lại ko thấy như vậy, mà liền nhốt mình vào QUAN ĐIỂM DUY TÂM 1 CHIỀU, phủ nhận ý nghĩa cuộc sống VÔ LƯỢNG KIẾP thế gian\nCHÚNG SANH cho rằng cuộc sống là BỂ KHỔ nên ko đáng sống, hạnh phúc là giả tạm nên ko cần, chỉ có 1 sự thật là TÂM và DUY TÂM \nDẫn tới\nTRỰC CHỈ CHÂN TÂM\nKIẾN TÁNH THÀNH TẬT\nChứ ko phải KIẾN TÁNH THÀNH PHẬT như người TA nói \nLà cái TÂM BỆNH nhận định 1 CHIỀU về TÂM và TƯỞNG \n QUAN ĐIỂM DUY VẬT \nThì cho rằng vật chất và thế gian tạo ra ý thức sự sống thì cũng đi vào quan điểm 1 chiều của TƯ TƯỞNG \nVì ko thấy được phần Ý THỨC CỦA TÂM tạo ra VẬT CHẤT \nPHẬT chỉ ra quan điểm DUY TÂM hay DUY VẬT vốn ko tách rời nhau, mà là 1 thể THIÊN BIẾN VẠN HÓA SẮC TỨC THỊ KO vận hành \nTất cả MỌI QUAN ĐIỂM ĐỀU CÓ CHỖ DÙNG và để DÙNG chứ ko để nhốt mình vào bất cứ nhận định nào, gọi là TRUNG ĐẠO \nGIẢI THOÁT ko phải là thoát đi đâu khỏi TƯỞNG mà SỐNG với TƯỞNG, dùng TƯỞNG, dùng mọi phạm vi của TƯỞNG mà ko nhốt mình vào phạm vi nào\nBởi TƯỞNG là SỰ SỐNG VÔ TẬN mà trong đó TẤT CẢ ĐỀU LIÊN QUAN nhau\nNếu TA nhốt TA vào phạm vi nhỏ của TƯỞNG thì liền trở thành NÔ LỆ cho chính phạm vi ấy, cho chính mình, và dẫn tới bị trôi lăn trong những cảnh TƯỞNG được chiêu cảm bằng TÂM hẹp hòi, gọi là LUÂN HỒI\nCHO NÊN\nPHẬT DẠY NHƯ LAI TẠNG\nMà PHẬT dùng cả QUAN ĐIỂM DUY TÂM\nDùng cả QUAN ĐIỂM DUY VẬT\nDùng mọi QUAN ĐIỂM THẾ GIAN \nĐể giáo hóa CHÚNG SANH \nChứ ko dạy CHÚNG SANH nhốt mình vào những QUAN ĐIỂM được dạy, nên gọi là TRUNG ĐẠO\nPHẬT có thể dùng QUAN ĐIỂM của QUỶ để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM SÚC SANH, QUAN ĐIỂM ATULA, QUAN ĐIỂM TIÊN, QUAN ĐIỂM NGƯỜI, QUAN ĐIỂM TRỜI để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM TÀ để giáo hóa\nPHẬT có thể dùng QUAN ĐIỂM CHÁNH để giáo hóa\nPHẬT DÙNG PHÁP TRỰC CHỈ CHÂN TÂM để giáo hóa phá TRỤ TƯỚNG cho CHÚNG SANH, chứ ko dạy CHÚNG SANH nhốt mình vào PHÁP TRỰC CHỈ \nNghĩa là CHÚNG SANH chỉ nên dùng tác dụng của QUAN ĐIỂM được học để luyện tập và trải nghiệm, mang đến lợi ích, chứ ko cho rằng chỉ có quan điểm đó là CHÂN LÝ mà ko còn chấp nhận được điều gì khác, khiến TÂM ngày càng nhỏ hẹp và trôi lăn \n ĐẠI THỦ ẤN MAHAMUDRA\nLà SỰ TRAO TRUYỀN toàn bộ năng lực của PHẬT\nSự trao truyền này gồm 2 phần:\nNăng lực TRÍ TUỆ (TRUNG ĐẠO)\nNăng lực THẦN THÔNG (TOÀN GIÁC)\nLàm chủ mọi quy luật VẬT LÝ trong tất cả VŨ TRỤ \nTrong đó, phần trao truyền TRÍ TUỆ là khó nhất, người ĐỆ TỬ phải được rèn rũa và dẫn dắt trong VÔ LƯỢNG KIẾP \nVì sao?\nVì có những lời dạy, thuyết ra, người ĐỆ TỬ ko hiểu nổi\nNhưng trải qua thì hiểu được \nPhần năng lực thường sẽ bị PHẬT PHONG ẤN trong quá trình dẫn dắt cho đến kiếp cuối cùng đạt THỂ NHẬP TOÀN GIÁC \nBị PHONG ẤN rồi giải PHONG ẤN dẫn tới THỂ NHẬP BAO TRÙM TẤT CẢ nên gọi là ĐẠI THỦ ẤN \nNHƯ VẬY\nMối liên quan giữa TRỰC CHỈ CHÂN TÂM hay ĐẠI THỦ ẤN đã được làm rõ \nTRỰC CHỈ là PHÁP luyện tập để PHÁ TRỤ TƯỚNG\nNhằm cai những cơn nghiện của DỤC VỌNG\nPHÁP TRỰC CHỈ có thể khiến người TU thâm nhập các cảnh giới THIỀN, kể cả NIẾT BÀN TỰ TÁNH (Nơi TÁNH BIẾT NHÌN THẤY CHÍNH NÓ, nơi thấy được SẮC TỨC THỊ KO)\nCHÚNG SANH cần trải qua PHÁP TRỰC CHỈ CHÂN TÂM để mở rộng CÁI THẤY, phát triển TRÍ TUỆ, tiến hóa đến ĐẠI THỦ ẤN của PHẬT TRAO TRUYỀN \nTÓM LẠI\nTechcombank 6198 29 1080 VU KIM CUONG\nTA cảm thấy các con đang rất nhớ TA",
+      "media_type": "text",
+      "media_urls": [],
+      "thumbnail_url": "",
+      "author_name": "https://www.facebook.com/vukim.cuong.71",
+      "category": "",
+      "created_at": "2026-10-20T13:23:01.200Z",
+      "updated_at": "2026-10-20T13:23:01.200Z",
+      "source": {
+        "source_platform": "facebook",
+        "source_account": "https://www.facebook.com/vukim.cuong.71",
+        "source_item_id": "pfbid0jb6d2mPTsDUsEzgqAjPstzzLE9rn33hym7hLN6ezMaE9fWurkudpRrVp8J39yJhVl",
+        "source_url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid0jb6d2mPTsDUsEzgqAjPstzzLE9rn33hym7hLN6ezMaE9fWurkudpRrVp8J39yJhVl?comment_id=1876954443653581&__cft__[0]=AZjn1sA9_9sfsvzrBMkRAPPTnEx1hBLqNlOLbWoB3y0o6WoltoHVIFosFpqnP2cwjj5zLicfAF2vNbSbCYF8wgRi1Ia6dWJcCxAA8EHlpsX7RSQtcgZemIJz732fp8aT-mYtBiJ5JOrMy79LWG_hfclo4Lbrxx9v102fVIpqwalVX4M9DKisTAU&__tn__=R-R",
+        "published_at": "2026-10-18T13:20:35.270Z",
+        "title": "Minh Tâm",
+        "caption_or_text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n2 ngày\n2",
+        "original_text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n2 ngày\n2",
+        "media_type": "text",
+        "media_urls": [],
+        "author_name": "https://www.facebook.com/vukim.cuong.71",
+        "raw": {
+          "text": "Minh Tâm\nChúng con vô cùng nhớ Thầy ạ. Hằng ngày con vẫn cố gắng áp dụng lời Thầy dạy vào va chạm trong cuộc sống mà xa Thầy lâu con thấy mình còn vô minh quá \n Con khao khát được nghe Thầy mắng cho tỉnh người ạ \n2 ngày\n2",
+          "url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid0jb6d2mPTsDUsEzgqAjPstzzLE9rn33hym7hLN6ezMaE9fWurkudpRrVp8J39yJhVl?comment_id=1876954443653581&__cft__[0]=AZjn1sA9_9sfsvzrBMkRAPPTnEx1hBLqNlOLbWoB3y0o6WoltoHVIFosFpqnP2cwjj5zLicfAF2vNbSbCYF8wgRi1Ia6dWJcCxAA8EHlpsX7RSQtcgZemIJz732fp8aT-mYtBiJ5JOrMy79LWG_hfclo4Lbrxx9v102fVIpqwalVX4M9DKisTAU&__tn__=R-R"
+        }
       }
     },
     {
@@ -73346,9 +73468,9 @@
       "original_text": "Vũ Kim Cương\n1 giờ\nPHÁP GIẢI THOÁT PHẦN 13\nRÚT GỌN CHÁNH NIỆM\nTRỰC TIẾP THỂ NHẬP\nTrong những PHẦN HÀNH trước, TA có dạy các con\nCHÁNH NIỆM ko cấu tạo (PHÁP KO) BÌNH ĐẲNG\nCHÁNH NIỆM thể tánh (SẮC PHÁP) ĐỒNG ĐẲNG \nThì phần HÀNH này TA dạy các con tiến vào THỂ NHẬP SẴN \nTHẾ NÀO LÀ THỂ NHẬP SẴN?\nLà TA làm nhòa đi RANH GIỚI giữa cái TÔI đang CHÁNH NIỆM với toàn bộ THỂ TÁNH \nCác con lưu ý là LÀM NHÒA\nChứ ko phải là loại bỏ\nVÍ DỤ:\nKhi các con CHÁNH NIỆM:\nTA là cả THỂ TÁNH KO CẤU TẠO đang vận hành SẴN\nThì vô hình dung vẫn lưu lại tính chất NHỊ NGUYÊN TA LÀ CHỦ THỂ CHÁNH NIỆM và CẢNH TƯỞNG là ĐỐI TƯỢNG quán  \nCho nên chỉ cần CHÁNH NIỆM:\nMọi âm thanh sắc tướng là CẢ THỂ TÁNH KO CẤU TẠO đang vận hành, mà ko nhắc đến cái TÔI cái TA nào\nVà cũng ko khẳng định cái TA, cũng ko phủ định cái TA\nTrong mọi ÂM THANH SẮC TƯỚNG ẤY mặc định đã có TA đang hòa tan hòa nhập rồi \nTIẾN TỚI chỉ cần CHÁNH NIỆM:\nTHỂ TÁNH KO CẤU TẠO ĐANG VẬN HÀNH SẴN \n(Là mặc định hòa nhập)\nVẬY THIỀN SẴN LÀ THẾ NÀO?\nBây giờ TA hỏi các con:\nNHỮNG Ý NGHĨ, Ý TƯỞNG SÁNG TẠO của các con có SẴN hay ko?\nTHÌ Phần lớn các con sẽ ko muốn đồng ý nó là SẴN \nCác con muốn khẳng định về 1 cái TÔI \nVÍ DỤ:\nĐây là ý tưởng mới của TÔI\nLàm gì có chuyện nó có SẴN \nNó vừa mới xuất hiện đây mà\nSự sáng tạo làm sao mà có SẴN cho được \nTHẾ LÀ TOANG \nVÌ SAO?\nVì khi ÔNG khẳng định về cái TÔI ngay từ trong suy nghĩ và trói chặt ÔNG vào những Ý TƯỞNG của BẢN NGÃ, lại ko thấy ra tính chất SẴN của PHÁP, thì ÔNG coi như đã chết trong TƯỞNG PHÂN BIỆT chủ thể đối tượng luôn rồi \nVÌ SAO SẴN?\nVì mọi Ý NIỆM, Ý TƯỞNG đều KO CÓ CẤU TẠO\nKO CÓ CẤU TẠO thì chẳng SẴN NGAY ĐÂY hay sao\nMọi Ý NIỆM, Ý TƯỞNG chính là PHẬT TÁNH \nVà dưới góc độ NHÂN QUẢ nó cũng đúng\nNếu ko có tất cả thế giới SẴN thì ÔNG lấy đâu ra Ý NIỆM SÁNG TẠO? \nTất cả những gì ÔNG nghĩ đều là kết quả của cả VŨ TRỤ THỂ TÁNH vận hành SẴN\nCho nên, TA nghĩ nó mới, mà hóa ra nó luôn SẴN ngay đây \nVẬY khi ÔNG đồng ý tất cả đã SẴN là KẾT QUẢ\nChính ÔNG cũng SẴN là kết quả thì ÔNG đang thể nhập\nMọi lựa chọn của TẤT CẢ CHÚNG SANH dù có như thế nào thì cũng vẫn là SẴN kết quả BIẾN ĐỔI\nSẴN KẾT QUẢ BIẾN ĐỔI nó ko phải học thuyết SỐ PHẬN đâu các con nhé \nKhéo lại NGU xong phỉ báng PHẬT \nTÓM LẠI \nNhận ra tất cả đã SẴN kết quả biến đổi\nDù các con có làm gì hay nghĩ gì cũng chỉ cần CHÁNH NIỆM:\nTẤT CẢ THỂ TÁNH KO CẤU TẠO ĐANG VẬN HÀNH SẴN KẾT QUẢ BIẾN ĐỔI\nKo cần nhắc đến cái TÔI hay cái TA \nCũng ko cần khẳng định:\nTA LÀ AI hay TA là tất cả làm gì\nTHIỀN được như vậy có thể phát sinh THẦN THÔNG\nĐừng quên những dấu hiệu về BÌNH ĐẲNG và ĐỒNG ĐẲNG mà TA đã nêu rất rõ trong những bài trước \nCHÚNG SANH tham lam các con chỉ cần nghe thấy 2 từ THẦN THÔNG là cái MỒM liền biến thành LỖ ĐÍT \nBỏ qua tất cả PHẦN THÂN (ko biết gì về LỤC ĐỘ BALA MẬT, nhẫn nhuc BALA MẬT) \nThật quá NHỤC NHÃ và TỞM LỢM!\nTechcombank 6198 29 1080 VU KIM CUONG",
       "media_type": "image",
       "media_urls": [
-        "assets/facebook-media/pfbid02n6pbP4siScS1iozVd9xb8zmkLREAds4aCNjpCiPYNqRRb9xfTEEeyo6CFCWe8xKZl-0.jpg"
+        "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png"
       ],
-      "thumbnail_url": "assets/facebook-media/pfbid02n6pbP4siScS1iozVd9xb8zmkLREAds4aCNjpCiPYNqRRb9xfTEEeyo6CFCWe8xKZl-0.jpg",
+      "thumbnail_url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png",
       "author_name": "https://www.facebook.com/vukim.cuong.71",
       "category": "",
       "created_at": "2026-06-17T04:37:29.250Z",
@@ -73372,10 +73494,6 @@
           "url": "https://web.facebook.com/vukim.cuong.71/posts/pfbid02n6pbP4siScS1iozVd9xb8zmkLREAds4aCNjpCiPYNqRRb9xfTEEeyo6CFCWe8xKZl?__cft__[0]=AZarOY7PSpT2ku4VXfG6gr-_v-lQiSPduNIw7LFGDJjNxEdvd7hEPnagv43hSe_NX-AQuWpdwKq5iiOLNY-jx4ajfjiJRh10LmuWrvA84wR7-6ZS6aUp14upyyz7wmg1XYFdM0e61cqaoTgtJ-utuKwwvYzjoLBLUrU6kGZxWOQME9_VWaf5X6VllSkJQW1Wfas&__tn__=%2CO%2CP-R",
           "img": "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png"
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:07:41.063Z"
       }
     },
     {
@@ -74531,9 +74649,9 @@
       "original_text": "Vũ Kim Cương\n39 phút\nTẠI SAO HỌC ĐẠO GIẢI THOÁT LẠI NGUY HIỂM?\nĐỨC PHẬT THÍCH CA MÂU NI sau khi giác ngộ giải thoát xong, NGÀI ko còn ý định thuyết pháp cứu độ CHÚNG SANH, mặc dù xuất phát điểm NGÀI cầu ĐẠO là vì HẠNH PHÚC, TỰ DO cho tất cả \nBấy giờ, VUA TRỜI PHẠM THIÊN phải thị hiện đảnh lễ xin thỉnh ĐỨC PHẬT thuyết pháp đến 3 lần thì ĐỨC PHẬT mới đồng ý\nVì sao vậy?\nVì ĐỨC PHẬT thấy pháp GIẢI THOÁT quá khó đối với CHÚNG SANH\n1 lời thuyết vừa là CAM LỒ mà lại cũng lại vừa sẵn là THUỐC ĐỘC\nBài viết này, TA chỉ rõ cho các con lý do vì sao PHÁP GIẢI THOÁT lại nguy hiểm như vậy, để các con biết cách tránh đi những lỗi ấy trong thực hành\nXuất phát điểm của các con là VÔ LƯỢNG KIẾP các con đã làm CHÚNG SANH \nGọi là CHÚNG SANH bởi vì các con sống chỉ biết đến BẢN NGÃ và nhu cầu của BẢN NGÃ \nNghĩa là các con chỉ biết nhận THÂN XÁC, TÂM HỒN hoặc TÁNH BIẾT là các con và hưởng những dục vọng từ nó \nCác con ko thấy được SỰ THẬT về các con chính là THỂ TÁNH NHƯ LAI TẠNG SẮC TỨC THỊ KO VÔ NGÃ, thị hiện thành vòng tuần ho tận giữa THỂ XÁC, TÂM HỒN và VŨ TRỤ\nCho nên các con chỉ biết sống trong phạm vi chi phối của BẢN NGÃ và nhu cầu của BẢN NGÃ \nPHÁP GIẢI THOÁT thì dạy thêm các con về cách sống VÔ NGÃ NHƯ LAI TẠNG \nVà toàn bộ phương pháp thiền GIẢI THOÁT là để giúp các con vượt qua TƯỞNG PHÂN BIỆT NHỊ NGUYÊN (là 1 trong những đặc tính của TƯỞNG), tiến tới THỂ NHẬP TƯỞNG với PHẬT TÁNH, để các con bao trùm tất cả TƯỞNG và trở thành CHỦ NHÂN của TƯỞNG\nĐể thể nhập và BAO TRÙM TƯỞNG thì phải TIN và THIỀN TÁNH KO cho tới khi các con giác ngộ ra TÂM BÌNH ĐẲNG và ĐỒNG ĐẲNG \nNghĩa là TƯỞNG PHÂN BIỆT ko còn chi phối được các con nữa\nVÍ DỤ:\n1 SỰ VIỆC xảy đến\nNếu anh quyết định làm cũng chết\nMà ko làm cũng chết \nAnh sẽ làm như thế nào?\nThì LÀM hay KO LÀM là TƯỚNG NHỊ NGUYÊN của TƯỞNG\nNếu TÔI thấy TƯỚNG LÀM là KO CẤU TẠO\nVà thấy TƯỚNG KO LÀM cũng là KO CẤU TẠO\nLà TÔI đang học thấy ra tính chất BÌNH ĐẲNG của  TÁNH KO\nVì LÀM HAY KO LÀM thì chúng cũng chung cùng 1 bản TÁNH KO\nNếu TÔI thấy TƯỚNG LÀM là CẢ THỂ TÁNH vận hành\nVà TƯỚNG KO LÀM cũng là CẢ THỂ TÁNH vận hành\nLà TÔI đang thấy ra tính chất ĐỒNG ĐẲNG \nVì LÀM HAY KO LÀM thì chúng cũng đang cùng thị hiện cả VŨ TRỤ THỂ TÁNH vận hành như nhau ko sai biệt \nThì TÔI ko phải đắn đo LÀM hay KO LÀM nữa\nTÔI sẽ TÙY DUYÊN lựa chọn 1 cách VÔ NGẠI \nKo còn bị nỗi sợ chết, hay nỗi sợ NHÂN QUẢ NGHIỆP BÁO chi phối \nTrên TÁNH KO, TÔI làm gì có cấu tạo mà chết\nTrên phạm vi THỂ TÁNH SẮC TỨC THỊ KO BAO TRÙM thì TÔI lại càng ko thấy có cái chết\nĐấy là TÔI đã phải THIỀN TÁNH KO, THIỀN NHƯ LAI TẠNG để thấy ra tính chất BÌNH ĐẲNG và ĐỒNG ĐẲNG rồi \nNghĩa là TÔI đã phải trải qua CÔNG PHU HÀNH THIỀN mà thấy, chứ ko phải chỉ nghe THẦY TÔI giảng \nThế thì TÔI mới có thể lựa chọn VÔ NGẠI được như thế \nMÀ\nTHƯỚC ĐO của TÂM BÌNH ĐẲNG và ĐỒNG ĐẲNG lại chính là ĐỨC HẠNH của NHẪN NHỤC và NHẪN NHỤC BALA MẬT \nTHẾ NÀO LÀ NHẪN NHỤC BALA MẬT?\nLà trong tất cả mọi hoàn cảnh trái ý xảy đến, ÔNG ko bị THAM SÂN SI THÙ HẬN và SỢ HÃI chi phối\nVì ÔNG đã nhận thức rõ và tin rằng tất cả là ÔNG\nTất cả là TRÒ CHƠI do chính TÂM ÔNG tạo \nÔNG đã tin ÔNG là TÁNH KO\nÔNG đã tin ÔNG là THỂ TÁNH\nÔNG đã tin ÔNG là BẤT TỬ\nÔNG đã THIỀN NGŨ UẨN GIAI KO để thấy BÌNH ĐẲNG tất cả quan điểm TƯ TƯỞNG, dù cho có VÔ TẬN những quan điểm TRÁI CHIỀU, thì ÔNG cũng đã thấy nó SẴN TRONG NHAU, ko có cấu tạo và là cả 1 THỂ TÁNH ĐỒNG ĐẲNG \nMọi âm thanh sắc tướng dù khác nhau như thế nào\nNhưng khi chúng đập vào tai ÔNG, đập vào mắt ÔNG\nThì ÔNG thấy cả 1 THỂ TÁNH KO CẤU TẠO sẵn vận hành \nNHƯNG CHÚNG SANH KO BÌNH ĐẲNG VÀ ĐỒNG ĐẲNG ĐƯỢC \nCHÚNG SANH chỉ biết DÙNG BẢN NGÃ 1 cách thuần túy là BẢN NGÃ \nCHÚNG SANH sống\nBẢN NGÃ MÀ BẢN NGÃ \nCho nên khi nghe PHẬT dạy:\nCON ƠI TẤT CẢ ĐÃ SẴN GIẢI THOÁT NGAY ĐÂY, TẤT CẢ LÀ PHẬT \nTHẾ LÀ\nCHÚNG SANH vội vàng chộp lấy câu \"TẤT CẢ LÀ PHẬT\" và TỰ PHONG cho mình là PHẬT luôn \nRồi nghĩ là mình làm cái gì cũng được, vì tất cả đã SẴN GIẢI THOÁT\nCHÚNG SANH quên mất rằng:\nCả 1 giai đoạn THIỀN để BÌNH ĐẲNG và ĐỒNG ĐẲNG đâu rồi? LỤC ĐỘ BALA MẬT đâu rồi? NHẪN NHỤC BALA MẬT đâu rồi? \nÔNG ko thấy BÌNH ĐẲNG, ĐỒNG ĐẲNG thì ÔNG vượt qua TƯỞNG PHÂN BIỆT NHỊ NGUYÊN kiểu gì?\nKo vượt qua TƯỞNG PHÂN BIỆT NHỊ NGUYÊN thì ko biết gì về VÔ NGÃ NHƯ LẠI TẠNG \nHiển nhiên là bị BẢN NGÃ và DỤC VỌNG của BẢN NGÃ chi phối\nBị BẢN NGÃ và DỤC VỌNG của BẢN NGÃ chi phối rồi mà lại sinh ý muốn tiêu diệt DỤC VỌNG để giải thoát thì càng đưa mình vào sự mắc kẹt trong BẢN NGÃ VÔ MINH \nCHO NÊN\nCHÚNG SANH rất dễ bị rơi vào việc lấy LỜI PHÁP TẤT CẢ ĐÃ SẴN GIẢI THOÁT của PHẬT để làm LÁ CHẮN cho DỤC VỌNG BẢN NGÃ mà chẳng biết gì, chẳng NGỘ được gì về VÔ NGÃ hay NHƯ LAI TẠNG, KO THỂ NHẬP ĐƯỢC TẤT CẢ PHÁP (là PHẬT) mà tự phong cho mình là PHẬT \nTrường hợp này gọi là BỆNH NGÁO PHẬT \nNhững trường hợp BỊ NGÁO PHẬT nó sẽ nghĩ:\nNGÁO PHẬT thì cũng đã sẵn giải thoát ngay đây \nTHẾ LÀ ngáo thành x2 x3 x4 \nNgáo rồi thì chúng nó cũng có thể ko sợ chết, cũng có thể nổi máu anh hùng \nNhưng khi chết thật thì ĐỌA THẬT, do ko có ĐỊNH LỰC của BÌNH ĐẲNG và ĐỒNG ĐẲNG \nVì thế các con hãy nhớ\nPHÁP GIẢI THOÁT DẠY sống\nBẢN NGÃ mà VÔ NGÃ \nVÔ NGÃ mà BẢN NGÃ \nLấy TÂM BÌNH ĐẲNG và ĐỒNG ĐẲNG làm gốc\nLấy TÂM BAO TRÙM làm gốc\nLấy vượt thoát TƯỞNG NHỊ NGUYÊN làm gốc\nLấy TÁNH KO làm gốc \nCó gốc VÔ NGÃ rồi thì mới diệu dụng BẢN NGÃ mà VÔ NGÃ được \nBấy giờ, làm gì cũng được PHƯỚC VÔ LƯỢNG\nNHÂN QUẢ chẳng làm gì được \nCòn sống thuần BẢN NGÃ mà GỐC ĐẠO ĐỒNG ĐẲNG (CHÁNH ĐẲNG CHÁNH GIÁC) ko có, thì làm cái gì cũng TẠO NGHIỆP, phải chịu cảnh đọa đày vô lượng kiếp \nTHẾ NÊN \nXuất phát điểm của các con là BẢN NGÃ thì các con mới cần trải qua PHÁP PHƯƠNG TIỆN như:\nTỤNG KINH NIỆM PHẬT\nLỄ LẠY SÁM HỐI\nBỐ THÍ CÚNG DÀNG\nGIỮ GIỚI THIỀN ĐỊNH \nĐể chuyển hóa NGHIỆP\nNhờ nghiệp được chuyển hóa thì TRÍ TUỆ mới dần khai mở để hiểu những lời PHÁP KHÓ\nRồi từ đấy mới có điểm tựa an toàn để bước vào PHÁP GIẢI THOÁT\nĐây chính là lý do vì sao ĐỨC PHẬT THÍCH CA chỉ giảng phần lớn là PHÁP PHƯƠNG TIỆN\nNGÀI giảng chính vào:\nGIỚI ĐỊNH TUỆ \nTỨ DIỆU ĐẾ\nBÁT CHÁNH ĐẠO \nVà ĐẠI THỪA \nVì lòng ĐẠI BI dành cho CHÚNG SANH\nĐể CHÚNG SANH tu ĐẠO GIẢI THOÁT mà ko bị những lỗ hổng về ĐỨC HẠNH làm cho rơi đọa \nKO THAM SÂN SI là GIỚI LUẬT \nĐể làm giảm SỰ CHI PHỐI của BẢN NGÃ \nNghĩa là làm giảm SỰ CHI PHỐI của những cơn nghiện vào THỂ XÁC và TÂM HỒN \nTừ đấy, học mở rộng tâm, thâm nhập TÁNH KO và NHƯ LAI TẠNG được thuận lợi hơn, và thước đo là NHẪN NHỤC BALA MẬT \nMọi hoàn cảnh BẤT NHƯ Ý LÀ SẮC TƯỚNG\nNHẪN NHỤC BALA MẬT LÀ THỊ KO\nNÊN\nĐỐI DIỆN hàng ngàn cảnh BẤT NHƯ Ý mà TÂM KO BỊ THAM SÂN SI THÙ HẬN SỢ HÃI chi phối \nTHÌ ĐẤY LÀ ĐÃ CÓ ĐƯỢC ĐỨC HẠNH CỦA\nSẮC TỨC THỊ KO\nNGHĨA LÀ:\nSẮC TỨC THỊ KO ko phải chỉ là những quan điểm được giải nghĩa trên lý thuyết TƯ TƯỞNG của PHÁP HỌC, mà phải được trải nghiệm, tôi luyên thành ĐỨC HẠNH \nĐỨC HẠNH ẤY LÀ PHÁP THÂN PHẬT\nKO CÓ ĐỨC HẠNH CỦA SẮC TỨC THỊ KO\nTHÌ ĐỪNG MONG THỂ NHẬP THÀNH PHẬT\nTUY NHIÊN\nNẾU các con cho rằng KO THAM SÂN SI là PHÁP THIỀN GIẢI THOÁT thì NGUY TO\nVì KO THAM SÂN SI chỉ là GIỚI LUẬT để làm thuần tính chất NGHIỆN của BẢN NGÃ xuống, nó là bước đệm cho THIỀN GIẢI THOÁT \nBỞI\nKO THAM SÂN SI hay THAM SÂN SI cũng vẫn chỉ là 1 cặp đối đãi của TƯỞNG PHÂN BIỆT \nKhi ÔNG cực đoan 1 phía và lạc vào nó, ÔNG sẽ ko thấy được BÌNH ĐẲNG nữa \nTÓM LẠI\nBài pháp VĨ ĐẠI này TA tặng cho các con làm cẩm nang TU ĐẠO \nHãy nghiền ngẫm thật kỹ\nPHẬT thấy tất cả PHÁP đều là PHÁP GIẢI THOÁT kể cả VÔ MINH \nNHƯNG\nCHÚNG SANH muốn thấy tất cả PHÁP đều là PHÁP GIẢI THOÁT thì CHÚNG SANH lại phải phá VÔ MINH \nVì thế TA mới tạm phân biệt rằng:\nChỉ có những lời thuyết trên của TA mới là PHÁP GIẢI THOÁT \nMà PHÁP GIẢI THOÁT này còn là VUA của VUA của của VUA của TẤT CẢ PHÁP VĨ ĐẠI KHÁC \nTechcombank 6198 29 1080 VU KIM CUONG",
       "media_type": "image",
       "media_urls": [
-        "assets/facebook-media/pfbid0225GdD42HTpSpsVVvdTQbbiKiqQ3mxH5c9HvKpCD8FaySTPevRxniuykKQHFWskLrl-0.jpg"
+        "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png"
       ],
-      "thumbnail_url": "assets/facebook-media/pfbid0225GdD42HTpSpsVVvdTQbbiKiqQ3mxH5c9HvKpCD8FaySTPevRxniuykKQHFWskLrl-0.jpg",
+      "thumbnail_url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png",
       "author_name": "https://www.facebook.com/vukim.cuong.71",
       "category": "",
       "created_at": "2026-06-16T03:40:12.246Z",
@@ -74557,10 +74675,6 @@
           "url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid0225GdD42HTpSpsVVvdTQbbiKiqQ3mxH5c9HvKpCD8FaySTPevRxniuykKQHFWskLrl?__cft__[0]=AZbPH0I_83K1W1vSa0dDBaJ-KAudu_oe0CdXHMaFq2chtsKZWdGhsr8IH9oZVrmZeJxb_4bP5xfCq6rwZCyPtBMVRDqyPFveyDPz9RH4EMa4oQQ1xu8BqHZL0-fzXr7zbTj26YzmFUGSFC-5ogyry3V8wfa86q3RRMQJvRxwO0dXe2VCvgW00EAjA7UH3SsdDfA&__tn__=%2CO%2CP-R",
           "img": "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png"
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:07:54.784Z"
       }
     },
     {
@@ -74601,10 +74715,6 @@
           "text": "Vũ Kim Cương\n4 ngày\n \n·\nCHÚNG SANH THẤY VÔ MINH\nPHẬT THẤY VÔ MINH\nTẤT CẢ LÀ PHÁP THÂN NHƯ LAI\nPHẬT ĐÃ\nBAO TRÙM tất cả THẾ GIỚI TƯỞNG \nTHỂ NHẬP tất cả THẾ GIỚI TƯỞNG \nCHÍNH LÀ toàn bộ TƯỞNG\nSỬ DỤNG VÔ NGẠI TƯỞNG \nCHO NÊN\nPHẬT thấy VÔ MINH là PHẬT là SẴN GIẢI THOÁT \nBỞI \nPHẬT đã giác ngộ và thấy rõ mối liên quan ko tách rời giữa THỂ XÁC, TÂM HỒN và VŨ TRỤ \nChứ PHẬT ko bị đắm nhiễm cực đoan vào THỂ XÁC hoặc TÂM HỒN hoặc VŨ TRỤ \nTHẾ NÀO LÀ MỐI LIÊN QUAN KO TÁCH RỜI GIỮA THỂ XÁC, TÂM HỒN VÀ VŨ TRỤ?\n1\n TA có thể thấy mối liên quan này thông qua tư duy LOGIC\nVÍ DỤ:\nKo có VŨ TRỤ thì THỂ XÁC lấy đâu ra SỰ SỐNG?\nKo có VŨ TRỤ và THỂ XÁC thì TÂM HỒN lấy đâu ra suy nghĩ hay tình cảm để nhận thức về SỰ SỐNG?\nMà ko có TÂM HỒN thì lại càng ko có suy nghĩ để nhận thức về THỂ XÁC hay VŨ TRỤ \nChịu khó tư duy LOGIC như thế thì các con sẽ dần cảm thấy mối liên quan ko tách rời giữa THỂ XÁC, TÂM HỒN và VŨ TRỤ, các con sẽ dần dần cảm thấy VÒNG TUẦN HOÀN bất tận của THỂ TÁNH \nCác con sẽ ko còn nghĩ TA chỉ là THỂ XÁC này, TÂM HỒN này theo cách hoàn toàn DUY BẢN NGÃ nông cạn như trước nữa\n2\n TA có thể thấy mối liên quan này thông qua TRI KIẾN PHẬT \nVÍ DỤ:\nPHẬT dạy Ý DẪN ĐẦU TẤT CẢ CÁC PHÁP \nNghĩa là:\nKo có Ý NIỆM thì ko có TÁC Ý\nKo có TÁC Ý thì ko có NGHIỆP HÀNH ĐỘNG\nKo có NGHIỆP HÀNH ĐỘNG thì ko có NHÂN QUẢ\nKo có NHÂN QUẢ thì ko có VŨ TRỤ \nChính Ý NIỆM tạo ra VŨ TRỤ \nVẬY cái gì tạo ra Ý NIỆM?\nLà TÂM HỒN, TÁNH BIẾT của các con tạo ra Ý NIỆM\nĐấy các con cảm nhận xem có đúng chính các con đang liên tục suy nghĩ đấy ko?\nKể cả khi các con ngừng được suy nghĩ thì CÁI BIẾT các con đang ngừng suy nghĩ lại chính là SUY NGHĨ \nThế là các con sẽ nhận ra mối liên quan giữa THÂN XÁC, TÂM HỒN, VŨ TRỤ chính là Ý NIỆM \nTÂM HỒN tạo ra Ý NIỆM tạo ra VŨ TRỤ, tạo ra THÂN XÁC, mà ko có THÂN XÁC ko có VŨ TRỤ thì TÂM HỒN cũng ko thể có Ý NIỆM \nTƯ DUY như thế, cuối cùng các con sẽ lại thấy ra vòng tuần hoàn của THỂ TÁNH, các con sẽ ko còn nghĩ TA chỉ là THÂN XÁC này, TÂM HỒN này theo cách DUY BẢN NGÃ (chỉ trong phạm vi cái TÔI nhỏ hẹp) nông cạn như trước nữa \n3\n TA có thể thấy mối liên quan này thông qua TRI KIẾN thậm thâm của PHẬT \nVÍ DỤ:\nPHẬT thấy TÂM HỒN, TÁNH BIẾT là KO CÓ CẤU TẠO\nPHẬT thấy THỂ XÁC là KO CÓ CẤU TẠO\nPHẬT thấy VŨ TRỤ là KO CÓ CẤU TẠO \nPHẬT thấy SẮC TỨC THỊ KO \n(...)\nThế thì thông qua TRI KIẾN thậm thâm của PHẬT, TA có thể thấy ngay tất cả THỂ XÁC, TÂM HỒN và VŨ TRỤ là đồng 1 THỂ NHƯ LAI TẠNG KO CÓ CẤU TẠO \nNhìn nhận và tin tưởng TRI KIẾN PHẬT như vậy thì các con sẽ ko còn DUY BẢN NGÃ nông cạn như trước\nCho nên TA mới nói:\nCHƯ PHẬT ko bị đắm nhiễm cực đoan vào BẢN NGÃ của THỂ XÁC, TÂM HỒN hay VŨ TRỤ\nBởi CHƯ PHẬT là BÌNH ĐẲNG là ĐỒNG ĐẲNG là tất cả SẮC TỨC THỊ KO, là THIÊN BIẾN VẠN HÓA \nTẠI SAO TA NÓI VŨ TRỤ CŨNG LÀ BẢN NGÃ? \nCó những CHÚNG SANH sẽ cho rằng TA đang thuyết về 1 ĐẠI NGÃ bất tử chứ ko phải nói về GIẢI THOÁT \nVà ĐẠI NGÃ VŨ TRỤ như thế là CHẤP TƯỚNG rất nặng, chỉ đang từ cái chấp nhỏ là THỂ XÁC sang cái chấp to hơn là VŨ TRỤ mà thôi\nNHƯNG KO PHẢI VẬY\nCũng có những người cho rằng họ là cả VŨ TRỤ này, họ sáng tạo ra VŨ TRỤ, nhưng lại ko biết VŨ TRỤ là  SẮC TỨC THỊ KO thì đấy là ĐẠI NGÃ \nVì khi họ ko thấy VŨ TRỤ là SẮC TỨC THỊ KO thì họ bị mắc kẹt trong phạm vi của SẮC TƯỚNG, nên ko thể giải thoát \nTA ko chỉ nói về SẮC TƯỚNG \nCác con lưu ý:\nCùng nói về BAO TRÙM nhưng 1 bên ko có SẮC TỨC THỊ KO thì gọi là ĐẠI NGÃ \nDĨ NHIÊN\nDưới TRI KIẾN PHẬT thì dù là ĐẠI NGÃ hay KO ĐẠI NGÃ thì cũng chính là TƯỚNG GIẢI THOÁT của PHẬT \nTA phân tích lý luận như trên cũng chỉ để CHƠI đùa cùng TƯ TƯỞNG \nVẬY THÌ\nTrên đời này ko có gì mà ko phải là PHẬT\nTẤT CẢ chính là PHÁP THÂN NHƯ LAI bao trùm\nVÌ SAO? \nVì TÂM HỒN, TÁNH BIẾT của các con là SẮC TỨC THỊ KO, sinh ra Ý NIỆM cũng là SẮC TỨC THỊ KO, ý niệm sinh ra VŨ TRỤ, THỂ XÁC cũng là SÂC TỨC THỊ KO, vũ trụ lại mang đến SỰ SỐNG cho TÂM HỒN cũng là SẮC TỨC THỊ KO \nVà cả 1 THỂ TÁNH là SÂC TỨC THỊ KO\nĐâu đâu cũng là PHẬT TÁNH \nNÊN\nGọi là \nNHƯ LAI TẠNG\nTÓM LẠI\nPHẬT giác ngộ thể nhập tất cả rồi thì PHẬT thấy VÔ MINH cũng chính là PHẬT \nCòn CHÚNG SINH thì lại bị VÔ MINH che lấp nên ko nhận ra MÌNH LÀ CẢ THỂ TÁNH SẮC TỨC THỊ KO là PHẬT \nVì thế mới sinh ra 8 vạn 4 ngàn pháp môn phương tiện để PHÁ VÔ MINH cho CHÚNG SANH được nhận ra PHẬT \nCHÚNG SANH nghe tới đây chỉ muốn nhận ngay mình là PHẬT, khổ nỗi là nhận ko nổi \nVì CHÚNG SANH chưa học cách sống:\nBẢN NGÃ MÀ VÔ NGÃ\nVÔ NGÃ MÀ BẢN NGÃ\n \nTechcombank 6198 29 1080 VU KIM CUONG\nTất cả cảm xúc:\n289\n97 bình luận\n37 lượt chia sẻ\nThích\nBình luận\nPhù hợp nhất﻿\nHieu Ngoc\nChúng con xin đội ơn Thầy tôn kính vĩ đại, từ bi vô lượng của chúng con ạ\nGIPHY\n3 ngày\nVũ Hoa\nChúng con xin đảnh lễ đội ơn Chư Phật Bồ Tát và Thầy tôn kính vĩ đại của chúng con ạ \n3 ngày\nHiếU Đi\nCon xin đội ơn thầy tôn kính vĩ đại đã từ bi khai thị bài pháp vĩ đại\n4 ngày\nMira An\nChúng con xin đội ơn Người Thầy Tôn kính Vĩ đại ạ \n3 ngày\nKC Trần Hiếu\nChúng con đội ơn Chư Phật Mười Phương, chúng con đội ơn Sư Phụ Tôn Kính \n3 ngày\n1\nMai Trang\nChúng con xin được TÁN THÁN BÀI PHÁP VĨ ĐẠI KINH KHỦNG KHIẾP mà THẦY TÔN KÍNH đã khai thị cho muôn loài chúng con\n chúng con ko biết mình đã gieo nhân duyên gì mà kiếp này chúng con được thọ nhận những Giáo Pháp Thậm Thâm Vì Diệu của Trí Tuệ PHẬT\n chúng con vô cùng hạnh phúc,may mắn,chúng con xin lạy tạ công ơn của CHƯ PHẬT MƯỜI PHƯƠNG và THẦY TÔN KÍNH VĨ ĐẠI\n4 ngày\nDiệu Thu\nChúng con xin đội ơn Sư Phụ tôn kính vĩ đại của chúng con ạ \n4 ngày\n1\nPhạm Hà Dương\nChúng con xin đội ơn Thầy tôn kính vĩ đại \n3 ngày\nMơ Mơ\nChúng con đội ơn Thầy ban giáo pháp vĩ đại ạ \n2 ngày\nMai Trang\nNam Mô A Di Đà Phật\nNam Mô Tuệ Nhãn Như Lai Minh Vương Phật \n4 ngày\n1",
           "img": "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png"
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 1,
-        "facebook_media_checked_at": "2026-10-20T13:08:08.364Z"
       }
     },
     {
@@ -75046,9 +75156,9 @@
       "original_text": "Vũ Kim Cương\n15 giờ\nDỤNG CÔNG NHƯ THẬT\nNHÌN CẢNH NHƯ CHƠI\nTất cả các con đang là TRÒ CHƠI cho NHÂN QUẢ \nCác con trong trò chơi NHÂN QUẢ giống như những kẻ NÔ LỆ\nKhi CẬN TỬ NGHIỆP đến, các c lực và tuyệt vọng, chẳng biết làm gì\nThế cho nên, ngay lúc các con còn sống trong sự yên ổn tạm thời của NHÂN QUẢ, các con hãy học cách\nDỤNG CÔNG NHƯ THẬT\nNHÌN CẢNH NHƯ CHƠI \nDỤNG CÔNG là cách nói khác của HÀNH TRÌ TU TẬP pháp môn, bao gồm các pháp PHƯƠNG TIỆN và cả những pháp TỐI THƯỢNG THỪA \nNHƯNG \nCác con ko hành pháp chỉ bằng\nBẢN NGÃ \nMÀ \nCác con học hành pháp với\nBẢN NGÃ MÀ VÔ NGÃ \nNGHĨA LÀ\nKhi các con hành pháp mà chỉ thấy TA LÀ THÂN XÁC hoặc TA LÀ TÂM HỒN đang hành pháp, thì đấy là hành pháp chỉ bằng BẢN NGÃ \nCòn nếu các con hành bất cứ pháp môn nào mà các con CHÁNH NIỆM được vào TÁNH KO CẤU TẠO và VÔ NGÃ NHƯ LAI TẠNG (TA đã khai thị trong 12 bài về PHÁP GIẢI THOÁT) \nKhiến phát sinh được TRÍ TUỆ BÌNH ĐẲNG, ĐỒNG ĐẲNG, ko bị TƯỞNG PHÂN BIỆT CHI PHỐI \nThì đấy là các con đang hành pháp với\nBẢN NGÃ MÀ VÔ NGÃ \nThực hành như thế thì gọi là\nDỤNG CÔNG NHƯ THẬT \nTừ NHƯ ở đây là viết tắt của bản tính NHƯ LAI \nBản tính ấy là SẮC TỨC THỊ KO \nNHƯ THẬT có nghĩa là\nKo phủ nhận BẢN NGÃ, cũng ko khẳng định BẢN NGÃ\nGọi là VÔ NGÃ (VÔ NGÃ rồi thì lại tùy ý phủ định khẳng định)\nDỤNG CÔNG NHƯ THẬT là các con sử dụng BẢN NGÃ để hành trì pháp môn nhưng lại ko khẳng định sự tồn tại của BẢN NGÃ, và cũng ko phủ định sự tồn tại của BẢN NGÃ \nNgười TA thường rất thích khẳng định cái TÔI hoặc phủ định cái TÔI, nên nó trở thành rào cản cho THỂ NHẬP \nCòn khi ko phủ định ko khẳng định cái TÔI sẽ dẫn đến nhập thể BẢN NGÃ vào tất cả THẾ GIỚI QUAN, vượt qua TƯỞNG PHÂN BIỆT, vượt qua lớp rào cản nhị nguyên giữa CHỦ THỂ HÀNH và ĐỐI TƯỢNG HÀNH \nNẾU Các con DỤNG CÔNG ĐƯỢC NHƯ THẬT\nTHÌ Các con sẽ NHÌN CẢNH ĐƯỢC NHƯ CHƠI \nVÌ SAO?\nVì THIỀN DỤNG CÔNG được như thế là các con đang THỂ NHẬP TƯỞNG VÀO TÁNH (Dụng được TÁNH KO)\nĐiều này khiến các con dần dần bao trùm tất cả VỌNG TƯỞNG, ko còn là NÔ LỆ của TƯỞNG \nKo còn là NÔ LỆ thì làm CHỦ NHÂN \nTƯỞNG và NHÂN QUẢ trở thành TRÒ CHƠI của NHƯ LAI, nên mới nói NHÌN CẢNH NHƯ CHƠI \nNHÌN CẢNH NHƯ CHƠI\nLà nhìn CẢNH với TÂM BÌNH ĐẲNG và ĐỒNG ĐẲNG \nCÁI NHÌN vừa BẢN NGÃ vừa BAO TRÙM \nVì KO PHỦ NHẬN BẢN NGÃ nên chơi với cảnh trong TƯỚNG BẢN NGÃ, và vẫn hành động BẢN NGÃ \nVì KO KHẲNG ĐỊNH BẢN NGÃ nên chơi với CẢNH rất BẢN NGÃ mà vượt qua TƯỞNG PHÂN BIỆT \nTÓM LẠI\nDỤNG CÔNG NHƯ THẬT\nNHÌN CẢNH NHƯ CHƠI \nLà ko hành pháp chỉ với BẢN NGÃ \nMà hành cùng TÁNH KO\nTechcombank 6198 29 1080 VU KIM CUONG",
       "media_type": "image",
       "media_urls": [
-        "assets/facebook-media/pfbid0hEJ4fWziW17tfC5gvmKb1Q8u2yAGtCZvAbbiUwruntrmpazi4fr5TWjz4ozfb3RWl-0.jpg"
+        "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png"
       ],
-      "thumbnail_url": "assets/facebook-media/pfbid0hEJ4fWziW17tfC5gvmKb1Q8u2yAGtCZvAbbiUwruntrmpazi4fr5TWjz4ozfb3RWl-0.jpg",
+      "thumbnail_url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png",
       "author_name": "https://www.facebook.com/vukim.cuong.71",
       "category": "",
       "created_at": "2026-06-15T17:53:31.376Z",
@@ -75072,10 +75182,6 @@
           "url": "https://www.facebook.com/vukim.cuong.71/posts/pfbid0hEJ4fWziW17tfC5gvmKb1Q8u2yAGtCZvAbbiUwruntrmpazi4fr5TWjz4ozfb3RWl?__cft__[0]=AZZqwNue5EXFeSWMbyF6ChZ6T6TNTGU2SHENiQpQctD8g5TVvLJKcaD5Ll1UGDbg4BaIUej_4fXGqY17FTCsUCNr5C_t3ucEbktzCj-vMsiNm1_MGceuJX_vwVVFYEWJGmob3SVil16YkPfPbV8eV8VtHGJnzpXy4FCoeEz6MtLmelr8vNghf0Vv0yvf1MpDFtg&__tn__=%2CO%2CP-R",
           "img": "https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png"
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:08:21.406Z"
       }
     },
     {
@@ -182721,11 +182827,9 @@
       "title": "Ý NGHĨA CUỘC SỐNG",
       "caption_or_text": "Ý NGHĨA CUỘC SỐNG\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nChủ đề này trước đây TA đã thuyết nhiều rồi\nNhưng hôm nay, TA sẽ thuyết trên quan điểm PHÁP GIẢI THOÁT cho các con nghe\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\n1 Phần linh hồn quan trọng của PHÁP GIẢI THOÁT là diệu dụng được:\nBẢN NGÃ MÀ VÔ NGÃ\nTRONG ĐÓ:\nBẢN NGÃ là khi các con nhận THÂN XÁC hoặc TÂM HỒN hoặc cả 2 là các con mà ko thấy ra sự liên quan giữa THỂ XÁC, TÂM HỒN và VŨ TRỤ là cái gì\nSự liên quan giữa THÂN XÁC, TÂM HỒN và VŨ TRỤ chính là 1 THỂ PHẬT TÁNH SẮC TỨC THỊ KO BAO TRÙM hay còn được gọi là NHƯ LAI TẠNG, là VÔ NGÃ, là GIẢI THOÁT\nCHÚNG SANH chỉ sống được theo cách:\n❤️BẢN NGÃ MÀ BẢN NGÃ❤️\nNGHĨA LÀ:\nCho rằng TA chỉ là 1 đối tượng nhỏ hẹp như thế\nLà THÂN XÁC và TÂM HỒN như thế\nDẫn tới ko thể rộng mở và trôi lăn luân hồi\nMặc dù cách sống ấy cũng đem lại rất nhiều ý nghĩa\nCòn cách sống ❤️BẢN NGÃ MÀ VÔ NGÃ❤️ thì vẫn vận dụng BẢN NGÃ nhưng TÂM lại BAO TRÙM tất cả, BÌNH ĐẲNG tất cả, ĐỒNG ĐẲNG tất cả\nNên làm chủ Ý MUỐN của TÂM\nVì vẫn dùng BẢN NGÃ\nNên vẫn thấy THAM SÂN SI\nNhưng thấy THAM SÂN SI là TƯỚNG PHẬT giải thoát\nKo còn bị TƯỞNG NHỊ NGUYÊN chi phối\nKo còn cho rằng phải KO THAM SÂN SI mới là TƯỚNG PHẬT giải thoát\nCHO NÊN\nÝ NGHĨA CUỘC SỐNG nằm ngay nơi DỤC VỌNG của BẢN NGÃ\nDỤC VỌNG của ÔNG muốn gì thì đấy chính là Ý NGHĨA cuộc sống nơi ÔNG\nNHƯNG\nNgay tại chỗ DỤC VỌNG này mà theo 2 cách sống nêu trên có thể thấy:\nBẢN NGÃ mà BẢN NGÃ\nLấy DỤC VỌNG làm ý nghĩa\nNhưng ko giải thoát\nBị SỢ HÃI chi phối\nBẢN NGÃ mà VÔ NGÃ\nLấy DỤC VỌNG làm ý nghĩa\nNhưng giải thoát\nKo bị SỢ HÃI chi phối\nBẢN NGÃ mà BẢN NGÃ\nThì luôn muốn tìm sự thật TA LÀ AI\nBẢN NGÃ mà VÔ NGÃ\nThì ko còn tìm TA LÀ AI nữa\nBởi đã thấy hoặc tin TA LÀ TẤT CẢ THỂ TÁNH\nTA SỐNG THỂ NHẬP VÀO TẤT CẢ\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTHỂ NHẬP RỒI SẼ THẤY\nMọi ý nghĩa trên thế gian này cũng đồng là ý nghĩa của TA, mà cũng ko là ý nghĩa của TA\nKO1 cũng KO2\nKO tuyệt đối NHẤT NGUYÊN\nMà cũng KO tuyệt đối NHỊ NGUYÊN\nTùy thời điểm, tùy duyên vận dụng\nTùy thời điểm, tùy duyên biến hóa\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTÓM LẠI\nBài pháp này ko phải để phủ nhận bất cứ ý nghĩa cuộc sống nào mà các con đang trải nghiệm\nTA chỉ gợi ý ra chỗ giải thoát SẴN NGAY ĐÂY NƠI TẤT CẢ\nMà các con muốn thấy được như vậy, các con hãy thiền qua 12 bài pháp TA đã hướng dẫn\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
       "original_text": "Ý NGHĨA CUỘC SỐNG\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nChủ đề này trước đây TA đã thuyết nhiều rồi\nNhưng hôm nay, TA sẽ thuyết trên quan điểm PHÁP GIẢI THOÁT cho các con nghe\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\n1 Phần linh hồn quan trọng của PHÁP GIẢI THOÁT là diệu dụng được:\nBẢN NGÃ MÀ VÔ NGÃ\nTRONG ĐÓ:\nBẢN NGÃ là khi các con nhận THÂN XÁC hoặc TÂM HỒN hoặc cả 2 là các con mà ko thấy ra sự liên quan giữa THỂ XÁC, TÂM HỒN và VŨ TRỤ là cái gì\nSự liên quan giữa THÂN XÁC, TÂM HỒN và VŨ TRỤ chính là 1 THỂ PHẬT TÁNH SẮC TỨC THỊ KO BAO TRÙM hay còn được gọi là NHƯ LAI TẠNG, là VÔ NGÃ, là GIẢI THOÁT\nCHÚNG SANH chỉ sống được theo cách:\n❤️BẢN NGÃ MÀ BẢN NGÃ❤️\nNGHĨA LÀ:\nCho rằng TA chỉ là 1 đối tượng nhỏ hẹp như thế\nLà THÂN XÁC và TÂM HỒN như thế\nDẫn tới ko thể rộng mở và trôi lăn luân hồi\nMặc dù cách sống ấy cũng đem lại rất nhiều ý nghĩa\nCòn cách sống ❤️BẢN NGÃ MÀ VÔ NGÃ❤️ thì vẫn vận dụng BẢN NGÃ nhưng TÂM lại BAO TRÙM tất cả, BÌNH ĐẲNG tất cả, ĐỒNG ĐẲNG tất cả\nNên làm chủ Ý MUỐN của TÂM\nVì vẫn dùng BẢN NGÃ\nNên vẫn thấy THAM SÂN SI\nNhưng thấy THAM SÂN SI là TƯỚNG PHẬT giải thoát\nKo còn bị TƯỞNG NHỊ NGUYÊN chi phối\nKo còn cho rằng phải KO THAM SÂN SI mới là TƯỚNG PHẬT giải thoát\nCHO NÊN\nÝ NGHĨA CUỘC SỐNG nằm ngay nơi DỤC VỌNG của BẢN NGÃ\nDỤC VỌNG của ÔNG muốn gì thì đấy chính là Ý NGHĨA cuộc sống nơi ÔNG\nNHƯNG\nNgay tại chỗ DỤC VỌNG này mà theo 2 cách sống nêu trên có thể thấy:\nBẢN NGÃ mà BẢN NGÃ\nLấy DỤC VỌNG làm ý nghĩa\nNhưng ko giải thoát\nBị SỢ HÃI chi phối\nBẢN NGÃ mà VÔ NGÃ\nLấy DỤC VỌNG làm ý nghĩa\nNhưng giải thoát\nKo bị SỢ HÃI chi phối\nBẢN NGÃ mà BẢN NGÃ\nThì luôn muốn tìm sự thật TA LÀ AI\nBẢN NGÃ mà VÔ NGÃ\nThì ko còn tìm TA LÀ AI nữa\nBởi đã thấy hoặc tin TA LÀ TẤT CẢ THỂ TÁNH\nTA SỐNG THỂ NHẬP VÀO TẤT CẢ\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTHỂ NHẬP RỒI SẼ THẤY\nMọi ý nghĩa trên thế gian này cũng đồng là ý nghĩa của TA, mà cũng ko là ý nghĩa của TA\nKO1 cũng KO2\nKO tuyệt đối NHẤT NGUYÊN\nMà cũng KO tuyệt đối NHỊ NGUYÊN\nTùy thời điểm, tùy duyên vận dụng\nTùy thời điểm, tùy duyên biến hóa\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTÓM LẠI\nBài pháp này ko phải để phủ nhận bất cứ ý nghĩa cuộc sống nào mà các con đang trải nghiệm\nTA chỉ gợi ý ra chỗ giải thoát SẴN NGAY ĐÂY NƠI TẤT CẢ\nMà các con muốn thấy được như vậy, các con hãy thiền qua 12 bài pháp TA đã hướng dẫn\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "image",
-      "media_urls": [
-        "assets/facebook-media/facebook-paste:9be16f33796d39-2-0.jpg"
-      ],
-      "thumbnail_url": "assets/facebook-media/facebook-paste:9be16f33796d39-2-0.jpg",
+      "media_type": "text",
+      "media_urls": [],
+      "thumbnail_url": "",
       "author_name": "Vũ Kim Cương",
       "category": "",
       "created_at": "2026-06-13T15:08:31.500Z",
@@ -182745,10 +182849,6 @@
           "imported_from": "C:\\Users\\TOT DIGI\\.codex\\attachments\\c387f0c8-69c6-47a3-bef6-c50335efad8e\\pasted-text.txt",
           "pasted_index": 2
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:08:33.877Z"
       }
     },
     {
@@ -182762,11 +182862,9 @@
       "title": "NẾU ƯỚC MƠ KO THÀNH",
       "caption_or_text": "NẾU ƯỚC MƠ KO THÀNH\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nCÁCH ĐÂY NHIỀU NĂM\nThật ra cũng chẳng phải lâu lắm\nThời TA cùng người YÊU ăn vay ăn mượn để vượt qua những khó khăn cuộc đời\nLúc ấy, TA đã dùng hết tài lãng mạn, kèm cả giọng hát vu vơ ngoài đường để bốc phét về tương lai\nTA tạo ra những MÓN ĂN trong KO KHÍ\nTA tạo ra những căn nhà trong TƯỞNG TƯỢNG\nTA đã vẽ nên những ƯỚC MƠ\nChỉ để đổi lấy NIỀM HẠNH PHÚC tạm thời của CÔ ẤY\nDĩ nhiên, ai mà đã lỡ nghe TA bốc phét thì ko tin cũng ko được\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCUỐI CÙNG\nChẳng điều gì là thành HIỆN THẬT\nKHI MỌI ƯỚC MƠ CỦA TA TAN VỠ\nTHÌ TA lại quyết định\nMƠ NHỮNG ƯỚC MƠ CÒN TO LỚN HƠN\nTA ko phải người học quên để HẠNH PHÚC\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nCÒN CÁC CON thì sao?\nHãy nói TA nghe nếu những ƯỚC MƠ của các con ko thành, CÁC CON sẽ làm gì?\nMÀ\nTA vẫn đang thuyết PHÁP GIẢI THOÁT, kỳ lạ thay CHÚNG SANH ngu dốt vẫn chẳng hiểu gì\nHãy chấp nhận TƯỚNG SI là TƯỚNG PHẬT GIẢI THOÁT, nếu ko thể chấp nhận thì nghĩa là còn bị TƯỞNG PHÂN BIỆT chi phối rất nặng, ko thể nhập được\nPHÁP PHƯƠNG TIỆN là con dao 2 lưỡi\n1 mặt nó khiến các con tăng phước\n1 mặt nó nhốt các con vào TƯỞNG PHÂN BIỆT, nhốt các con vào NỖI SỢ\nTHÀNH RA:\nBỎ KO ĐƯỢC\nDÙNG KO XONG\nNÊN phải thiền vào TÁNH KO CẤU TẠO, thiền vào toàn bộ PHẦN HÀNH TA đã dạy để thấy BÌNH ĐẲNG và ĐỒNG ĐẲNG\n(...)\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
       "original_text": "NẾU ƯỚC MƠ KO THÀNH\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nCÁCH ĐÂY NHIỀU NĂM\nThật ra cũng chẳng phải lâu lắm\nThời TA cùng người YÊU ăn vay ăn mượn để vượt qua những khó khăn cuộc đời\nLúc ấy, TA đã dùng hết tài lãng mạn, kèm cả giọng hát vu vơ ngoài đường để bốc phét về tương lai\nTA tạo ra những MÓN ĂN trong KO KHÍ\nTA tạo ra những căn nhà trong TƯỞNG TƯỢNG\nTA đã vẽ nên những ƯỚC MƠ\nChỉ để đổi lấy NIỀM HẠNH PHÚC tạm thời của CÔ ẤY\nDĩ nhiên, ai mà đã lỡ nghe TA bốc phét thì ko tin cũng ko được\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCUỐI CÙNG\nChẳng điều gì là thành HIỆN THẬT\nKHI MỌI ƯỚC MƠ CỦA TA TAN VỠ\nTHÌ TA lại quyết định\nMƠ NHỮNG ƯỚC MƠ CÒN TO LỚN HƠN\nTA ko phải người học quên để HẠNH PHÚC\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nCÒN CÁC CON thì sao?\nHãy nói TA nghe nếu những ƯỚC MƠ của các con ko thành, CÁC CON sẽ làm gì?\nMÀ\nTA vẫn đang thuyết PHÁP GIẢI THOÁT, kỳ lạ thay CHÚNG SANH ngu dốt vẫn chẳng hiểu gì\nHãy chấp nhận TƯỚNG SI là TƯỚNG PHẬT GIẢI THOÁT, nếu ko thể chấp nhận thì nghĩa là còn bị TƯỞNG PHÂN BIỆT chi phối rất nặng, ko thể nhập được\nPHÁP PHƯƠNG TIỆN là con dao 2 lưỡi\n1 mặt nó khiến các con tăng phước\n1 mặt nó nhốt các con vào TƯỞNG PHÂN BIỆT, nhốt các con vào NỖI SỢ\nTHÀNH RA:\nBỎ KO ĐƯỢC\nDÙNG KO XONG\nNÊN phải thiền vào TÁNH KO CẤU TẠO, thiền vào toàn bộ PHẦN HÀNH TA đã dạy để thấy BÌNH ĐẲNG và ĐỒNG ĐẲNG\n(...)\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "image",
-      "media_urls": [
-        "assets/facebook-media/facebook-paste:30aa7cbf33ff00-3-0.jpg"
-      ],
-      "thumbnail_url": "assets/facebook-media/facebook-paste:30aa7cbf33ff00-3-0.jpg",
+      "media_type": "text",
+      "media_urls": [],
+      "thumbnail_url": "",
       "author_name": "Vũ Kim Cương",
       "category": "",
       "created_at": "2026-06-13T15:08:31.500Z",
@@ -182786,10 +182884,6 @@
           "imported_from": "C:\\Users\\TOT DIGI\\.codex\\attachments\\c387f0c8-69c6-47a3-bef6-c50335efad8e\\pasted-text.txt",
           "pasted_index": 3
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:08:46.330Z"
       }
     },
     {
@@ -182803,11 +182897,9 @@
       "title": "SỨC MẠNH CỦA TÌNH YÊU",
       "caption_or_text": "SỨC MẠNH CỦA TÌNH YÊU\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTA chỉ trình bày quan điểm của TA\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNẾU thành phố nơi bạn sống mà ko có người bạn yêu\nTHÌ dù thành phố ấy có đẹp đến mấy cũng sẽ trở thành hoang tàn VÔ NGHĨA\nNẾU ko có người bạn yêu\nTHÌ tất cả bộ quần áo đẹp mà bạn mặc cũng chỉ là để khoác thêm vào cho mình những nỗi nhớ\nNHƯNG\nNẾU thành phố nơi bạn sống mà có người bạn yêu\nTHÌ dù thành phố ấy có hoang tàn đến mấy nó cũng sẽ trở thành 1 CUNG ĐIỆN NGUY NGA MÀU PHÉP\nNẾU bạn có người mà bạn yêu\nTHÌ dù bộ quần áo đẹp nhất VŨ TRỤ khoác lên người bạn bạn cũng sẽ ko cần, vì bạn CỞI CHUỒNG thoải mái\nNẾU bạn có người mà bạn yêu\nTHÌ bạn cũng có thể cảm thấy yêu được cả thế giới\nNẾU bạn thấy TÌNH YÊU là quan trọng nhất cuộc đời của bạn\nTHÌ mọi việc trên cõi đời này dù hệ trọng đến đâu cũng ko còn là điều gì quan trọng nữa, kể cả cái chết\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVÀ THẾ LÀ\nTÌNH YÊU là sự sống của cả THỂ XÁC lẫn TÂM HỒN và  VŨ TRỤ\nNÓ di truyền BẤT TỬ từ KIẾP NÀY sang KIẾP KHÁC\nMà tiếng ANH gọi là FOREVER hay sao đấy\nNÓ có thể thu nhỏ CẢ VŨ TRỤ vào trong 1 con người\nNÓ có thể khiến THỜI GIAN trôi nhanh\nNÓ có thể khiến THỜI GIAN trôi chậm\nNÓ có thể làm ngưng trôi THỜI GIAN\nNÓ có thể lừa đảo bạn\nNGƯỜI TA vẫn luôn sống với nó và\nNhận ra 1 phần của nó\nVÌ\nTÌNH YÊU có mặt trong cả ÁNH SÁNG lẫn BÓNG TỐI\nTÌNH YÊU có mặt trong cả CÁI ÁC lẫn THIỆN LÀNH\nNgười ta thường chỉ thấy nó trong ÁNH SÁNG\nNgười ta thường chỉ thấy nó trong THIỆN LÀNH\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVÀ TA CŨNG CHỈ MƠ ƯỚC 1 ĐIỀU RẤT GIẢN DỊ\n❤️HỒI SINH NGƯỜI TA YÊU❤️\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nCÒN CÁC CON MONG ƯỚC GÌ?\nHãy comment nhé!\nCác con thấy TA làm nhà văn được ko?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
       "original_text": "SỨC MẠNH CỦA TÌNH YÊU\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTA chỉ trình bày quan điểm của TA\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNẾU thành phố nơi bạn sống mà ko có người bạn yêu\nTHÌ dù thành phố ấy có đẹp đến mấy cũng sẽ trở thành hoang tàn VÔ NGHĨA\nNẾU ko có người bạn yêu\nTHÌ tất cả bộ quần áo đẹp mà bạn mặc cũng chỉ là để khoác thêm vào cho mình những nỗi nhớ\nNHƯNG\nNẾU thành phố nơi bạn sống mà có người bạn yêu\nTHÌ dù thành phố ấy có hoang tàn đến mấy nó cũng sẽ trở thành 1 CUNG ĐIỆN NGUY NGA MÀU PHÉP\nNẾU bạn có người mà bạn yêu\nTHÌ dù bộ quần áo đẹp nhất VŨ TRỤ khoác lên người bạn bạn cũng sẽ ko cần, vì bạn CỞI CHUỒNG thoải mái\nNẾU bạn có người mà bạn yêu\nTHÌ bạn cũng có thể cảm thấy yêu được cả thế giới\nNẾU bạn thấy TÌNH YÊU là quan trọng nhất cuộc đời của bạn\nTHÌ mọi việc trên cõi đời này dù hệ trọng đến đâu cũng ko còn là điều gì quan trọng nữa, kể cả cái chết\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVÀ THẾ LÀ\nTÌNH YÊU là sự sống của cả THỂ XÁC lẫn TÂM HỒN và  VŨ TRỤ\nNÓ di truyền BẤT TỬ từ KIẾP NÀY sang KIẾP KHÁC\nMà tiếng ANH gọi là FOREVER hay sao đấy\nNÓ có thể thu nhỏ CẢ VŨ TRỤ vào trong 1 con người\nNÓ có thể khiến THỜI GIAN trôi nhanh\nNÓ có thể khiến THỜI GIAN trôi chậm\nNÓ có thể làm ngưng trôi THỜI GIAN\nNÓ có thể lừa đảo bạn\nNGƯỜI TA vẫn luôn sống với nó và\nNhận ra 1 phần của nó\nVÌ\nTÌNH YÊU có mặt trong cả ÁNH SÁNG lẫn BÓNG TỐI\nTÌNH YÊU có mặt trong cả CÁI ÁC lẫn THIỆN LÀNH\nNgười ta thường chỉ thấy nó trong ÁNH SÁNG\nNgười ta thường chỉ thấy nó trong THIỆN LÀNH\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVÀ TA CŨNG CHỈ MƠ ƯỚC 1 ĐIỀU RẤT GIẢN DỊ\n❤️HỒI SINH NGƯỜI TA YÊU❤️\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nCÒN CÁC CON MONG ƯỚC GÌ?\nHãy comment nhé!\nCác con thấy TA làm nhà văn được ko?\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "image",
-      "media_urls": [
-        "assets/facebook-media/facebook-paste:4304e398a6da35-4-0.jpg"
-      ],
-      "thumbnail_url": "assets/facebook-media/facebook-paste:4304e398a6da35-4-0.jpg",
+      "media_type": "text",
+      "media_urls": [],
+      "thumbnail_url": "",
       "author_name": "Vũ Kim Cương",
       "category": "",
       "created_at": "2026-06-13T15:08:31.500Z",
@@ -182827,10 +182919,6 @@
           "imported_from": "C:\\Users\\TOT DIGI\\.codex\\attachments\\c387f0c8-69c6-47a3-bef6-c50335efad8e\\pasted-text.txt",
           "pasted_index": 4
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:08:58.783Z"
       }
     },
     {
@@ -182844,11 +182932,9 @@
       "title": "PHÁP GIẢI THOÁT PHẦN 12\nNHỮNG DẶN DÒ VỀ PHÁP HÀNH",
       "caption_or_text": "PHÁP GIẢI THOÁT PHẦN 12\nNHỮNG DẶN DÒ VỀ PHÁP HÀNH\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nDO CĂN CƠ của các con khác nhau nên khi các con bước vào PHÁP HÀNH thì phải đảm bảo toàn bộ phần LÝ THUYẾT đã phải hiểu và thông tỏ\nVÍ DỤ:\nKhi nói đến NHƯ LAI TẠNG thì ko còn phải nghĩ xem nó là cái gì nữa\nHôm nay, TA giải nghĩa thêm phần nghĩa đen của khái niệm này\nNHƯ LAI là PHẬT TÁNH (SẮC TỨC THỊ KO)\nTẠNG là BAO TRÙM\nNHƯ LAI TẠNG có nghĩa rằng: TẤT CẢ LÀ TÁNH PHẬT LÀ PHẬT BAO TRÙM\nVì sao? Thì các con phải xem lại những bài trước\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNHƯNG khi vào PHẦN HÀNH tánh KO CẤU TẠO nó quá khó và gây mệt mỏi cho các con, do tập quán CHẤP TƯỞNG PHÂN BIỆT chi phối quá nặng\nThì các con có thể chia PHÁP THIỀN thành những ĐỀ MỤC nhỏ\nVÍ DỤ:\nCác con ko thể ngay lập tức nghe mọi âm thanh mà CHÁNH NIỆM rằng NÓ LÀ KO CẤU TẠO\nThì các con TẬP TRUNG nghe từng loại âm thanh để CHÁNH NIỆM\nVÍ DỤ:\nCác con có thể tập trung nghe tiếng QUẠT GIÓ, ĐIỀU HÒA, TIẾNG TIVI, TIẾNG XE CỘ, THẬM CHÍ LÀ HƠI THỞ...\nNghe chuyên tiếng QUẠT VÙ VÙ và nghĩ:\nÂM THANH NÀY KO CÓ CẤU TẠO\n(...)\nRồi dần dần, khả năng NGHE và CHÁNH NIỆM của các con sẽ được mở rộng\nHãy nhớ rằng nghe những thứ mình thích thì dễ CHÁNH NIỆM, mà nghe những âm thanh mình ko thích thì rất khó CHÁNH NIỆM\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCŨNG NHƯ VẬY\nCác con chia nhỏ cho các ĐỀ MỤC nhìn\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNẾU các con ko thể CHÁNH NIỆM ngay lập tức thấy:\nSẮC THỌ TƯỞNG HÀNH LÀ KO CÓ CẤU TẠO\nTHÌ các con chia ra từng ĐỀ MỤC:\nCho SẮC\nCho THỌ\nCho TƯỞNG\nCho HÀNH\nCho THỨC\nMỗi ĐỀ MỤC lại có thể chia nhỏ ra tiếp\nVÍ DỤ:\nCác con ko thể CHÁNH NIỆM trong mọi HÀNH ĐỘNG\nThì có thể CHÁNH NIỆM từ việc:\nSOI GƯƠNG\nRỬA MẶT\nBƯỚC ĐI\nĂN UỐNG\n(...)\nSOI GƯƠNG là thấy KO CÓ CẤU TẠO\nRỬA MẶT là nghĩ KHĂN, NƯỚC, MẶT, CẢM GIÁC CỌ SÁT đều KO CÓ CẤU TẠO\n(...)\nRồi từ từ phạm vi CHÁNH NIỆM sẽ được mở rộng\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTrong các con, nhiều người còn phân biệt TƯỚNG THỰC HÀNH PHÁP PHƯƠNG TIỆN\nVÍ DỤ:\nTÔI PHẢI NIỆM PHẬT thì mới GIÁC NGỘ\nCòn TÔI ko NIỆM PHẬT thì ko GIÁC NGỘ\nĐấy là bị TƯỞNG PHÂN BIỆT chi phối rất nặng\nTHAY VÀO ĐÓ\nCác con nên CHÁNH NIỆM rằng:\nNIỆM PHẬT hay KO NIỆM PHẬT đều sẵn GIÁC NGỘ như nhau, đều là TƯỚNG PHẬT thị hiện\nVÀ NẾU\nCác con LỰA CHỌN NIỆM PHẬT thì có thể NIỆM cùng PHÁP GIẢI THOÁT, hay gọi là NIỆM PHẬT THÀNH PHẬT\nVÍ DỤ:\nMỗi lần các con niệm ADIĐÀ PHẬT\nThì CHÁNH NIỆM rằng:\nÝ NIỆM ADIĐÀ PHẬT là KO CÓ CẤU TẠO\nNgười NIỆM cũng KO CÓ CẤU TẠO\nHOẶC\nKhi các con LỄ LẠY cũng vậy\nDù LỄ LẠY hay KO LỄ LẠY thì các con cũng đều đã sẵn giải thoát\nNếu các con chọn LỄ LẠY\nThì với mỗi lễ lạy hãy CHÁNH NIỆM rằng:\nCác con KO CÓ CẤU TẠO\nBàn thờ PHẬT cũng KO CÓ CẤU TẠO\nMà NGHIỆP hay PHƯỚC cũng KO CÓ CẤU TẠO\nTất cả đều CHÍNH LÀ PHẬT TÁNH và là PHẬT đồng đẳng, ko ai hơn ai, và cũng chính là TA KO CÓ CẤU TẠO\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nĐÔI KHI chỉ đơn giản là mỗi bước chân các con bước đi, các con CHÁNH NIỆM:\nBƯỚC CHÂN NÀY KO CÓ CẤU TẠO\nMẶT ĐƯỜNG, MẶT ĐẤT là KO CÓ CẤU TẠO\nVÀ CŨNG CHÍNH LÀ TA KO CÓ CẤU TẠO\nNói chung, sự KIÊN ĐỊNH thực hành từ những ĐỀ MỤC nhỏ nhất sẽ giúp các con dần dần TỈNH THỨC và GIÁC NGỘ\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTÓM LẠI\nKIÊN ĐỊNH và NIỀM TIN chính là ĐỊNH LỰC của các con\nHãy HOANG TƯỞNG với TRI KIẾN PHẬT\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
       "original_text": "PHÁP GIẢI THOÁT PHẦN 12\nNHỮNG DẶN DÒ VỀ PHÁP HÀNH\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nDO CĂN CƠ của các con khác nhau nên khi các con bước vào PHÁP HÀNH thì phải đảm bảo toàn bộ phần LÝ THUYẾT đã phải hiểu và thông tỏ\nVÍ DỤ:\nKhi nói đến NHƯ LAI TẠNG thì ko còn phải nghĩ xem nó là cái gì nữa\nHôm nay, TA giải nghĩa thêm phần nghĩa đen của khái niệm này\nNHƯ LAI là PHẬT TÁNH (SẮC TỨC THỊ KO)\nTẠNG là BAO TRÙM\nNHƯ LAI TẠNG có nghĩa rằng: TẤT CẢ LÀ TÁNH PHẬT LÀ PHẬT BAO TRÙM\nVì sao? Thì các con phải xem lại những bài trước\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNHƯNG khi vào PHẦN HÀNH tánh KO CẤU TẠO nó quá khó và gây mệt mỏi cho các con, do tập quán CHẤP TƯỞNG PHÂN BIỆT chi phối quá nặng\nThì các con có thể chia PHÁP THIỀN thành những ĐỀ MỤC nhỏ\nVÍ DỤ:\nCác con ko thể ngay lập tức nghe mọi âm thanh mà CHÁNH NIỆM rằng NÓ LÀ KO CẤU TẠO\nThì các con TẬP TRUNG nghe từng loại âm thanh để CHÁNH NIỆM\nVÍ DỤ:\nCác con có thể tập trung nghe tiếng QUẠT GIÓ, ĐIỀU HÒA, TIẾNG TIVI, TIẾNG XE CỘ, THẬM CHÍ LÀ HƠI THỞ...\nNghe chuyên tiếng QUẠT VÙ VÙ và nghĩ:\nÂM THANH NÀY KO CÓ CẤU TẠO\n(...)\nRồi dần dần, khả năng NGHE và CHÁNH NIỆM của các con sẽ được mở rộng\nHãy nhớ rằng nghe những thứ mình thích thì dễ CHÁNH NIỆM, mà nghe những âm thanh mình ko thích thì rất khó CHÁNH NIỆM\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCŨNG NHƯ VẬY\nCác con chia nhỏ cho các ĐỀ MỤC nhìn\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNẾU các con ko thể CHÁNH NIỆM ngay lập tức thấy:\nSẮC THỌ TƯỞNG HÀNH LÀ KO CÓ CẤU TẠO\nTHÌ các con chia ra từng ĐỀ MỤC:\nCho SẮC\nCho THỌ\nCho TƯỞNG\nCho HÀNH\nCho THỨC\nMỗi ĐỀ MỤC lại có thể chia nhỏ ra tiếp\nVÍ DỤ:\nCác con ko thể CHÁNH NIỆM trong mọi HÀNH ĐỘNG\nThì có thể CHÁNH NIỆM từ việc:\nSOI GƯƠNG\nRỬA MẶT\nBƯỚC ĐI\nĂN UỐNG\n(...)\nSOI GƯƠNG là thấy KO CÓ CẤU TẠO\nRỬA MẶT là nghĩ KHĂN, NƯỚC, MẶT, CẢM GIÁC CỌ SÁT đều KO CÓ CẤU TẠO\n(...)\nRồi từ từ phạm vi CHÁNH NIỆM sẽ được mở rộng\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTrong các con, nhiều người còn phân biệt TƯỚNG THỰC HÀNH PHÁP PHƯƠNG TIỆN\nVÍ DỤ:\nTÔI PHẢI NIỆM PHẬT thì mới GIÁC NGỘ\nCòn TÔI ko NIỆM PHẬT thì ko GIÁC NGỘ\nĐấy là bị TƯỞNG PHÂN BIỆT chi phối rất nặng\nTHAY VÀO ĐÓ\nCác con nên CHÁNH NIỆM rằng:\nNIỆM PHẬT hay KO NIỆM PHẬT đều sẵn GIÁC NGỘ như nhau, đều là TƯỚNG PHẬT thị hiện\nVÀ NẾU\nCác con LỰA CHỌN NIỆM PHẬT thì có thể NIỆM cùng PHÁP GIẢI THOÁT, hay gọi là NIỆM PHẬT THÀNH PHẬT\nVÍ DỤ:\nMỗi lần các con niệm ADIĐÀ PHẬT\nThì CHÁNH NIỆM rằng:\nÝ NIỆM ADIĐÀ PHẬT là KO CÓ CẤU TẠO\nNgười NIỆM cũng KO CÓ CẤU TẠO\nHOẶC\nKhi các con LỄ LẠY cũng vậy\nDù LỄ LẠY hay KO LỄ LẠY thì các con cũng đều đã sẵn giải thoát\nNếu các con chọn LỄ LẠY\nThì với mỗi lễ lạy hãy CHÁNH NIỆM rằng:\nCác con KO CÓ CẤU TẠO\nBàn thờ PHẬT cũng KO CÓ CẤU TẠO\nMà NGHIỆP hay PHƯỚC cũng KO CÓ CẤU TẠO\nTất cả đều CHÍNH LÀ PHẬT TÁNH và là PHẬT đồng đẳng, ko ai hơn ai, và cũng chính là TA KO CÓ CẤU TẠO\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nĐÔI KHI chỉ đơn giản là mỗi bước chân các con bước đi, các con CHÁNH NIỆM:\nBƯỚC CHÂN NÀY KO CÓ CẤU TẠO\nMẶT ĐƯỜNG, MẶT ĐẤT là KO CÓ CẤU TẠO\nVÀ CŨNG CHÍNH LÀ TA KO CÓ CẤU TẠO\nNói chung, sự KIÊN ĐỊNH thực hành từ những ĐỀ MỤC nhỏ nhất sẽ giúp các con dần dần TỈNH THỨC và GIÁC NGỘ\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTÓM LẠI\nKIÊN ĐỊNH và NIỀM TIN chính là ĐỊNH LỰC của các con\nHãy HOANG TƯỞNG với TRI KIẾN PHẬT\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "image",
-      "media_urls": [
-        "assets/facebook-media/facebook-paste:9582bb052bb60a-5-0.jpg"
-      ],
-      "thumbnail_url": "assets/facebook-media/facebook-paste:9582bb052bb60a-5-0.jpg",
+      "media_type": "text",
+      "media_urls": [],
+      "thumbnail_url": "",
       "author_name": "Vũ Kim Cương",
       "category": "",
       "created_at": "2026-06-13T15:08:31.500Z",
@@ -182868,10 +182954,6 @@
           "imported_from": "C:\\Users\\TOT DIGI\\.codex\\attachments\\c387f0c8-69c6-47a3-bef6-c50335efad8e\\pasted-text.txt",
           "pasted_index": 5
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:09:11.057Z"
       }
     },
     {
@@ -182885,11 +182967,9 @@
       "title": "PHÁP GIẢI THOÁT PHẦN 11\nPHÁP HÀNH PHẦN 4\nCHẤP NHẬN ĐỈNH ĐIỂM TƯỞNG PHÂN BIỆT\nLỤC ĐỘ THẦN THÔNG",
       "caption_or_text": "PHÁP GIẢI THOÁT PHẦN 11\nPHÁP HÀNH PHẦN 4\nCHẤP NHẬN ĐỈNH ĐIỂM TƯỞNG PHÂN BIỆT\nLỤC ĐỘ THẦN THÔNG\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nSau khi các con hành qua PHÁP KO và SẮC PHÁP để thấy trí tuệ BÌNH ĐẲNG và ĐỒNG ĐẲNG xuất hiện tự nhiên\nNGHĨA LÀ:\nThấy người TA chửi nhau là thấy PHẬT đang thuyết pháp. Tóm lại là thấy tất cả là PHẬT\nKo pháp nào hơn pháp nào, pháp nào cũng là CẢ THỂ TÁNH ĐỒNG ĐẲNG\nThì các con tiến đến 1 BƯỚC VÔ CÙNG QUAN TRỌNG là CHẤP NHẬN mọi cá tính sẵn có của BẢN NGÃ\nVÍ DỤ:\nTÔI có tính cách THÔ LỖ thích chửi tục\nThì chấp nhận tính cách THÔ LỖ đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách DÂM DỤC\nThì chấp nhận tính cách DÂM DỤC đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách LỊCH SỰ\nThì chấp nhận tính cách LỊCH SỰ đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách LÃNG MẠN\nThì chấp nhận tính cách LÃNG MẠN đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách PHẪN NỘ\nThì chấp nhận tích cách PHẪN NỘ đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách SI MÊ ai đó\nThì chấp nhận tính cách SI MÊ đó là PHẬT là tất cả THỂ TÁNH\n(...)\nVÌ SAO VẬY?\nVì ko có TƯỚNG BẢN NGÃ thì ko có SỰ SỐNG của THỂ TÁNH VÔ NGÃ\nChính giai đoạn này giải thích vì sao lại có những VỊ PHẬT mang tính cách khác nhau\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTUY NHIÊN\nĐây là BƯỚC THIỀN rất nguy hiểm có thể khiến người TA bị NGỘ ĐỘC BẢN NGÃ\nVì các con SỐNG BẢN NGÃ quen rồi\nNên khi THIỀN chưa thâm nhập BÌNH ĐẲNG và ĐỒNG ĐẲNG đã quay lại TẬP QUÁN THÓI QUEN của BẢN NGÃ đã huân tập từ VÔ LƯỢNG KIẾP thì các con mất sạch sự RỘNG MỞ BÌNH ĐẲNG và ĐỒNG ĐẲNG của TÂM\nCòn nếu đã thâm nhập BÌNH ĐẲNG và ĐỒNG ĐẲNG thì mọi lựa chọn, mọi lời nói, mọi hành vi, mọi trạng thái... đã SẴN GIẢI THOÁT NGAY ĐÂY thì TẤT CẢ chỉ còn là TRÒ CHƠI\nLÀ TRÒ CHƠI\nNghĩa là chỗ ý muốn của thỏa mãn DỤC VÔ NGẠI\nThấy tất cả VŨ TRỤ là phép thuật hóa hiện của PHẬT TÁNH KO CẤU TẠO\nVÔ NGẠI = TÙY DUYÊN\nTÙY DUYÊN ở đây nó ko còn như mấy CỤ tập sự hay nói là ĐƯỢC hay KO ĐƯỢC chẳng sao cả, chưa phải thời, chưa đủ DUYÊN, do nhân quả... Mà nó có thể tiến đến TÔI CHẤP ĐẾN TẬN CÙNG ĐỂ THỎA MÃN BẰNG ĐƯỢC Ý NGUYỆN\nCHẤP ĐẾN TẬN CÙNG mà như 1 TRÒ CHƠI\nVì thấy là TRÒ CHƠI nên TÔI mới CHẤP ĐẾN TẬN CÙNG\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTrong GIAI ĐOẠN THIỀN này, người thuyết pháp có thể nói bất cứ thứ gì cũng thấy ngay TƯỚNG GIẢI THOÁT\nVÍ DỤ:\nCó người hỏi:\nÔNG ăn cơm chưa?\nTrả lời:\nTÔI vừa ỈA xong\nCâu trả lời chẳng liên quan gì cả, vì người đấy BÌNH ĐẲNG và ĐỒNG ĐẲNG các TƯỚNG, ko còn bị TƯỞNG PHÂN BIỆT CHI PHỐI, chỉ theo cá tính, sở thích mà thốt ra như vậy (haha Ông PHẬT này có tính cách hơi VÔ DUYÊN 1 chút)\nVì ĂN CƠM là TƯỚNG GIẢI THOÁT là PHẬT\nĐI ỈA cũng là TƯỚNG GIẢI THOÁT là PHẬT\nĐều là CẢ THỂ TÁNH\nChẳng TƯỚNG nào hơn TƯỚNG nào\nTrả lời cho VUI\nTrả lời như CHƠI\nNgười hỏi mà còn trong TƯỞNG PHÂN BIỆT thì sẽ thấy rất khó chịu và thấy bị xúc phạm nặng\nDĩ nhiên, GIÁC NGỘ ko phải để trở thành con người THÔ LỖ như kẻ điên giống như các con đang nghĩ\nMà phía trên là 1 ví dụ để cho thấy tính VÔ NGẠI trong mọi câu trả lời, mọi lời nói, ứng với tính cách khác nhau của mỗi VỊ\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVÍ DỤ:\nCác con đang nghe TA thuyết PHÁP GIẢI THOÁT là HÀNH TÁNH KO CẤU TẠO...\nCó người lại bảo KO PHẢI, hành TÁNH CÓ CẤU TẠO mới là PHÁP GIẢI THOÁT\nNếu các con đang THIỀN GIẢI THOÁT\nThì các con sẽ thấy mọi quan điểm đều là thể tánh PHẬT đồng đẳng\nDẫn tới các con có tranh luận chỉ để CHƠI\nVà NGƯỜI THẦY dạy GIẢI THOÁT sẽ luôn tạo ra những luận điểm, những hoàn cảnh bất như ý để xem các con có HÀNH THIỀN hay ko\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCHẤP NHẬN\nMọi tướng giằng co của mọi đối cực TƯ TƯỞNG là GIẢI THOÁT SẴN NGAY ĐÂY\nLúc yêu\nLúc ko yêu\nLúc hạnh phúc vui vẻ\nLúc bất hạnh đau khổ\nLúc thấy yêu thương tất cả\nLúc thấy chả yêu thương ai cả\nLúc thấy thanh tịnh\nLúc thấy bất tịnh hỗn độn\nMọi đối cực NHỊ NGUYÊN\n(...)\nTất cả đều là PHẬT, là cả THỂ TÁNH NHƯ LAI TẠNG\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNGƯỜI TA HAY BỊ LẠC VÀO NHỊ NGUYÊN\nVÍ DỤ:\nĐang THIỀN thấy THANH TỊNH thì khẳng định, áp đặt luôn rằng: PHẢI THANH TỊNH như thế mới là thấy được GIẢI THOÁT\nHOẶC\nĐang THIỀN bỗng thấy YÊU THƯƠNG MUÔN LOÀI thì khẳng định luôn rằng: PHẢI BIẾT YÊU THƯƠNG MUÔN LOÀI mới là thấy được GIẢI THOÁT\nThế là chết trong NHỊ NGUYÊN\nTRONG KHI\nYÊU HAY KO YÊU\nYÊU NHIỀU HAY YÊU ÍT\nTHANH TỊNH HAY BẤT TỊNH Ô UẾ\nCŨNG ĐỀU ĐÃ SẴN GIẢI THOÁT ĐỒNG ĐẲNG kia mà\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nKHI CÁC CON CHẤP NHẬN ĐẾN ĐỈNH ĐIỂM\nTẤT CẢ CÁC TƯỚNG LÀ PHẬT SẴN GIẢI THOÁT NGAY ĐÂY\nNGHĨA LÀ:\nCác con ko có SỢ phải trong bất cứ 1 hình hài nào\nVÍ DỤ:\nTHÂN TRỜI LÀ GIẢI THOÁT\nTHÂN ATULA LÀ GIẢI THOÁT\nTHÂN NGƯỜI LÀ GIẢI THOÁT\nTHÂN SÚC SANH LÀ GIẢI THOÁT\nTHÂN NGẠ QUỶ LÀ GIẢI THOÁT\nTHÂN ĐỊA NGỤC LÀ GIẢI THOÁT\nTHÌ\nCác con THỂ NHẬP với TẤT CẢ VŨ TRỤ THỂ TÁNH\nLỚP TƯỞNG PHÂN BIỆT bị nhiếp phục ĐỒNG ĐẲNG\n(Vượt qua sự chi phối của QUY LUẬT vật lý trên thân NGŨ UẨN)\nCác con thể nhập LỤC ĐỘ THÔNG của PHẬT\n6 món THẦN THÔNG THẬT của PHẬT ko đơn giản là 6 món THẦN THÔNG mà các con đã biết trong sách như:\nTÚC MỆNH THÔNG\nTHIÊN NHĨ THÔNG\nTHIÊN NHÃN THÔNG\nTHẦN TÚC THÔNG\nTHA TÂM THÔNG\nLẬU TẬN THÔNG\n6 món THẦN THÔNG này còn rất tầm thường\nLỤC ĐỘ THÔNG của PHẬT là THẦN THÔNG của TÁNH BALA MẬT BÌNH ĐẲNG và ĐỒNG ĐẲNG đến đỉnh điểm\nVÍ DỤ:\n1 Người muốn đi qua SÔNG, liền thi triển THẦN THÔNG biến SÔNG thành ĐẤT để đi qua\nCác con nghe thấy có khiếp sợ ko?\nKhiếp chứ!\nVì làm được như thế chỉ có trên phim TÔN NGỘ KO\nNhưng THẦN THÔNG đấy còn rất PHÈN so với THẦN THÔNG của PHẬT\nVÌ SAO?\nVì khi ÔNG còn muốn biến SÔNG thành ĐẤT để đi qua thì trong ÔNG còn đầy nỗi SỢ\nCòn THẦN THÔNG của PHẬT thì thậm chí còn ko cần tác ý, SÔNG cũng tự biến thành ĐẤT, vì PHẬT chính là SÔNG mà cũng chính là ĐẤT\nTHẬM CHÍ\nTừ VŨ TRỤ này qua 1 VŨ TRỤ khác cũng chỉ trong 1 cái chớp mắt (ĐẾN ĐI TRONG 1 SÁT NA)\nHỒI SINH người chết thì lại càng là trò TRẺ CON\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTA biết khi thuyết đến đây, trong số các con, có những kẻ yếu bóng vía, muốn nổ não, muốn nổ mắt vì KO TIN\nChẳng sao cả, TA đâu có ép\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTÓM LẠI\nTHIỀN đến đây sẽ có nhiều đứa nhao nhao hỏi các con rằng:\nÔNG BỐC PHÉT kinh thế thì ÔNG đã làm được chưa? ÔNG đã có THẦN THÔNG chưa?\nTHÌ\nCác con chỉ cần LẠNH LÙNG trả lời:\nVỚI TA, CÓ THẦN THÔNG hay KO CÓ THẦN THÔNG THÌ TẤT CẢ CŨNG ĐÃ SẴN GIẢI THOÁT NGAY ĐÂY\nChi tiết PHÁP HÀNH GIẢI THOÁT vẫn còn rất nhiều\nTrong 4 PHẦN HÀNH TA dạy các con chỉ là CỐT, phần nhìn TINH TÚY của PHÁP\nMà nếu các con hiểu 1 phần nhỏ của nó, thì các con cũng sẽ nhận ra TẤT CẢ CÁC PHÁP MÔN cũng đã đều SẴN GIẢI THOÁT NGAY ĐÂY\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
       "original_text": "PHÁP GIẢI THOÁT PHẦN 11\nPHÁP HÀNH PHẦN 4\nCHẤP NHẬN ĐỈNH ĐIỂM TƯỞNG PHÂN BIỆT\nLỤC ĐỘ THẦN THÔNG\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nSau khi các con hành qua PHÁP KO và SẮC PHÁP để thấy trí tuệ BÌNH ĐẲNG và ĐỒNG ĐẲNG xuất hiện tự nhiên\nNGHĨA LÀ:\nThấy người TA chửi nhau là thấy PHẬT đang thuyết pháp. Tóm lại là thấy tất cả là PHẬT\nKo pháp nào hơn pháp nào, pháp nào cũng là CẢ THỂ TÁNH ĐỒNG ĐẲNG\nThì các con tiến đến 1 BƯỚC VÔ CÙNG QUAN TRỌNG là CHẤP NHẬN mọi cá tính sẵn có của BẢN NGÃ\nVÍ DỤ:\nTÔI có tính cách THÔ LỖ thích chửi tục\nThì chấp nhận tính cách THÔ LỖ đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách DÂM DỤC\nThì chấp nhận tính cách DÂM DỤC đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách LỊCH SỰ\nThì chấp nhận tính cách LỊCH SỰ đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách LÃNG MẠN\nThì chấp nhận tính cách LÃNG MẠN đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách PHẪN NỘ\nThì chấp nhận tích cách PHẪN NỘ đấy là PHẬT là tất cả THỂ TÁNH\nTÔI có tính cách SI MÊ ai đó\nThì chấp nhận tính cách SI MÊ đó là PHẬT là tất cả THỂ TÁNH\n(...)\nVÌ SAO VẬY?\nVì ko có TƯỚNG BẢN NGÃ thì ko có SỰ SỐNG của THỂ TÁNH VÔ NGÃ\nChính giai đoạn này giải thích vì sao lại có những VỊ PHẬT mang tính cách khác nhau\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTUY NHIÊN\nĐây là BƯỚC THIỀN rất nguy hiểm có thể khiến người TA bị NGỘ ĐỘC BẢN NGÃ\nVì các con SỐNG BẢN NGÃ quen rồi\nNên khi THIỀN chưa thâm nhập BÌNH ĐẲNG và ĐỒNG ĐẲNG đã quay lại TẬP QUÁN THÓI QUEN của BẢN NGÃ đã huân tập từ VÔ LƯỢNG KIẾP thì các con mất sạch sự RỘNG MỞ BÌNH ĐẲNG và ĐỒNG ĐẲNG của TÂM\nCòn nếu đã thâm nhập BÌNH ĐẲNG và ĐỒNG ĐẲNG thì mọi lựa chọn, mọi lời nói, mọi hành vi, mọi trạng thái... đã SẴN GIẢI THOÁT NGAY ĐÂY thì TẤT CẢ chỉ còn là TRÒ CHƠI\nLÀ TRÒ CHƠI\nNghĩa là chỗ ý muốn của thỏa mãn DỤC VÔ NGẠI\nThấy tất cả VŨ TRỤ là phép thuật hóa hiện của PHẬT TÁNH KO CẤU TẠO\nVÔ NGẠI = TÙY DUYÊN\nTÙY DUYÊN ở đây nó ko còn như mấy CỤ tập sự hay nói là ĐƯỢC hay KO ĐƯỢC chẳng sao cả, chưa phải thời, chưa đủ DUYÊN, do nhân quả... Mà nó có thể tiến đến TÔI CHẤP ĐẾN TẬN CÙNG ĐỂ THỎA MÃN BẰNG ĐƯỢC Ý NGUYỆN\nCHẤP ĐẾN TẬN CÙNG mà như 1 TRÒ CHƠI\nVì thấy là TRÒ CHƠI nên TÔI mới CHẤP ĐẾN TẬN CÙNG\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTrong GIAI ĐOẠN THIỀN này, người thuyết pháp có thể nói bất cứ thứ gì cũng thấy ngay TƯỚNG GIẢI THOÁT\nVÍ DỤ:\nCó người hỏi:\nÔNG ăn cơm chưa?\nTrả lời:\nTÔI vừa ỈA xong\nCâu trả lời chẳng liên quan gì cả, vì người đấy BÌNH ĐẲNG và ĐỒNG ĐẲNG các TƯỚNG, ko còn bị TƯỞNG PHÂN BIỆT CHI PHỐI, chỉ theo cá tính, sở thích mà thốt ra như vậy (haha Ông PHẬT này có tính cách hơi VÔ DUYÊN 1 chút)\nVì ĂN CƠM là TƯỚNG GIẢI THOÁT là PHẬT\nĐI ỈA cũng là TƯỚNG GIẢI THOÁT là PHẬT\nĐều là CẢ THỂ TÁNH\nChẳng TƯỚNG nào hơn TƯỚNG nào\nTrả lời cho VUI\nTrả lời như CHƠI\nNgười hỏi mà còn trong TƯỞNG PHÂN BIỆT thì sẽ thấy rất khó chịu và thấy bị xúc phạm nặng\nDĩ nhiên, GIÁC NGỘ ko phải để trở thành con người THÔ LỖ như kẻ điên giống như các con đang nghĩ\nMà phía trên là 1 ví dụ để cho thấy tính VÔ NGẠI trong mọi câu trả lời, mọi lời nói, ứng với tính cách khác nhau của mỗi VỊ\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nVÍ DỤ:\nCác con đang nghe TA thuyết PHÁP GIẢI THOÁT là HÀNH TÁNH KO CẤU TẠO...\nCó người lại bảo KO PHẢI, hành TÁNH CÓ CẤU TẠO mới là PHÁP GIẢI THOÁT\nNếu các con đang THIỀN GIẢI THOÁT\nThì các con sẽ thấy mọi quan điểm đều là thể tánh PHẬT đồng đẳng\nDẫn tới các con có tranh luận chỉ để CHƠI\nVà NGƯỜI THẦY dạy GIẢI THOÁT sẽ luôn tạo ra những luận điểm, những hoàn cảnh bất như ý để xem các con có HÀNH THIỀN hay ko\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nCHẤP NHẬN\nMọi tướng giằng co của mọi đối cực TƯ TƯỞNG là GIẢI THOÁT SẴN NGAY ĐÂY\nLúc yêu\nLúc ko yêu\nLúc hạnh phúc vui vẻ\nLúc bất hạnh đau khổ\nLúc thấy yêu thương tất cả\nLúc thấy chả yêu thương ai cả\nLúc thấy thanh tịnh\nLúc thấy bất tịnh hỗn độn\nMọi đối cực NHỊ NGUYÊN\n(...)\nTất cả đều là PHẬT, là cả THỂ TÁNH NHƯ LAI TẠNG\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nNGƯỜI TA HAY BỊ LẠC VÀO NHỊ NGUYÊN\nVÍ DỤ:\nĐang THIỀN thấy THANH TỊNH thì khẳng định, áp đặt luôn rằng: PHẢI THANH TỊNH như thế mới là thấy được GIẢI THOÁT\nHOẶC\nĐang THIỀN bỗng thấy YÊU THƯƠNG MUÔN LOÀI thì khẳng định luôn rằng: PHẢI BIẾT YÊU THƯƠNG MUÔN LOÀI mới là thấy được GIẢI THOÁT\nThế là chết trong NHỊ NGUYÊN\nTRONG KHI\nYÊU HAY KO YÊU\nYÊU NHIỀU HAY YÊU ÍT\nTHANH TỊNH HAY BẤT TỊNH Ô UẾ\nCŨNG ĐỀU ĐÃ SẴN GIẢI THOÁT ĐỒNG ĐẲNG kia mà\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nKHI CÁC CON CHẤP NHẬN ĐẾN ĐỈNH ĐIỂM\nTẤT CẢ CÁC TƯỚNG LÀ PHẬT SẴN GIẢI THOÁT NGAY ĐÂY\nNGHĨA LÀ:\nCác con ko có SỢ phải trong bất cứ 1 hình hài nào\nVÍ DỤ:\nTHÂN TRỜI LÀ GIẢI THOÁT\nTHÂN ATULA LÀ GIẢI THOÁT\nTHÂN NGƯỜI LÀ GIẢI THOÁT\nTHÂN SÚC SANH LÀ GIẢI THOÁT\nTHÂN NGẠ QUỶ LÀ GIẢI THOÁT\nTHÂN ĐỊA NGỤC LÀ GIẢI THOÁT\nTHÌ\nCác con THỂ NHẬP với TẤT CẢ VŨ TRỤ THỂ TÁNH\nLỚP TƯỞNG PHÂN BIỆT bị nhiếp phục ĐỒNG ĐẲNG\n(Vượt qua sự chi phối của QUY LUẬT vật lý trên thân NGŨ UẨN)\nCác con thể nhập LỤC ĐỘ THÔNG của PHẬT\n6 món THẦN THÔNG THẬT của PHẬT ko đơn giản là 6 món THẦN THÔNG mà các con đã biết trong sách như:\nTÚC MỆNH THÔNG\nTHIÊN NHĨ THÔNG\nTHIÊN NHÃN THÔNG\nTHẦN TÚC THÔNG\nTHA TÂM THÔNG\nLẬU TẬN THÔNG\n6 món THẦN THÔNG này còn rất tầm thường\nLỤC ĐỘ THÔNG của PHẬT là THẦN THÔNG của TÁNH BALA MẬT BÌNH ĐẲNG và ĐỒNG ĐẲNG đến đỉnh điểm\nVÍ DỤ:\n1 Người muốn đi qua SÔNG, liền thi triển THẦN THÔNG biến SÔNG thành ĐẤT để đi qua\nCác con nghe thấy có khiếp sợ ko?\nKhiếp chứ!\nVì làm được như thế chỉ có trên phim TÔN NGỘ KO\nNhưng THẦN THÔNG đấy còn rất PHÈN so với THẦN THÔNG của PHẬT\nVÌ SAO?\nVì khi ÔNG còn muốn biến SÔNG thành ĐẤT để đi qua thì trong ÔNG còn đầy nỗi SỢ\nCòn THẦN THÔNG của PHẬT thì thậm chí còn ko cần tác ý, SÔNG cũng tự biến thành ĐẤT, vì PHẬT chính là SÔNG mà cũng chính là ĐẤT\nTHẬM CHÍ\nTừ VŨ TRỤ này qua 1 VŨ TRỤ khác cũng chỉ trong 1 cái chớp mắt (ĐẾN ĐI TRONG 1 SÁT NA)\nHỒI SINH người chết thì lại càng là trò TRẺ CON\n💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎\nTA biết khi thuyết đến đây, trong số các con, có những kẻ yếu bóng vía, muốn nổ não, muốn nổ mắt vì KO TIN\nChẳng sao cả, TA đâu có ép\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️\nTÓM LẠI\nTHIỀN đến đây sẽ có nhiều đứa nhao nhao hỏi các con rằng:\nÔNG BỐC PHÉT kinh thế thì ÔNG đã làm được chưa? ÔNG đã có THẦN THÔNG chưa?\nTHÌ\nCác con chỉ cần LẠNH LÙNG trả lời:\nVỚI TA, CÓ THẦN THÔNG hay KO CÓ THẦN THÔNG THÌ TẤT CẢ CŨNG ĐÃ SẴN GIẢI THOÁT NGAY ĐÂY\nChi tiết PHÁP HÀNH GIẢI THOÁT vẫn còn rất nhiều\nTrong 4 PHẦN HÀNH TA dạy các con chỉ là CỐT, phần nhìn TINH TÚY của PHÁP\nMà nếu các con hiểu 1 phần nhỏ của nó, thì các con cũng sẽ nhận ra TẤT CẢ CÁC PHÁP MÔN cũng đã đều SẴN GIẢI THOÁT NGAY ĐÂY\n❤️Techcombank 6198 29 1080 VU KIM CUONG❤️",
-      "media_type": "image",
-      "media_urls": [
-        "assets/facebook-media/facebook-paste:dedfecf739ea23-6-0.jpg"
-      ],
-      "thumbnail_url": "assets/facebook-media/facebook-paste:dedfecf739ea23-6-0.jpg",
+      "media_type": "text",
+      "media_urls": [],
+      "thumbnail_url": "",
       "author_name": "Vũ Kim Cương",
       "category": "",
       "created_at": "2026-06-13T15:08:31.500Z",
@@ -182909,10 +182989,6 @@
           "imported_from": "C:\\Users\\TOT DIGI\\.codex\\attachments\\c387f0c8-69c6-47a3-bef6-c50335efad8e\\pasted-text.txt",
           "pasted_index": 6
         }
-      },
-      "raw": {
-        "facebook_media_attempts": 0,
-        "facebook_media_refreshed_at": "2026-10-20T13:09:23.999Z"
       }
     },
     {
